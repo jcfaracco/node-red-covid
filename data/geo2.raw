@@ -1,0 +1,1253 @@
+{"_id":{"$oid":"5ebd5231c7b01f00197ab606"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd524bc7b01f00197ab607"},"lat":"-5.1023325","lng":"-42.8449518","state":"Maranhão","country":"Brasil","city":"Timon","p":0}
+{"_id":{"$oid":"5ebd5254c7b01f00197ab608"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":0}
+{"_id":{"$oid":"5ebd52dfc7b01f00197ab60a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd52e7c7b01f00197ab60b"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":12}
+{"_id":{"$oid":"5ebd532ec7b01f00197ab60e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5345c7b01f00197ab60f"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5352c7b01f00197ab610"},"lat":"-16.2890312","lng":"-48.92366603059597","state":"Goiás","country":"Brasil","city":"Anápolis","p":0}
+{"_id":{"$oid":"5ebd5370c7b01f00197ab611"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebd537dc7b01f00197ab612"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebd539bc7b01f00197ab613"},"lat":"-21.7886713","lng":"-48.1773096","state":"São Paulo","country":"Brasil","city":"Araraquara","p":0}
+{"_id":{"$oid":"5ebd5404c7b01f00197ab614"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5413c7b01f00197ab615"},"lat":"-9.9765362","lng":"-67.8220778","state":"Acre","country":"Brasil","city":"Rio Branco","p":0}
+{"_id":{"$oid":"5ebd5459c7b01f00197ab618"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd54bcc7b01f00197ab61a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd54c6c7b01f00197ab61b"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebd54dfc7b01f00197ab61c"},"lat":"-8.047875999999999","lng":"-34.893455450000005","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd54fec7b01f00197ab61d"},"lat":"-22.7084544","lng":"-44.5799944","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5525c7b01f00197ab61f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd557ac7b01f00197ab621"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd55aac7b01f00197ab622"},"lat":"-22.9839557","lng":"-43.2022163","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd55ecc7b01f00197ab626"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd55fdc7b01f00197ab627"},"lat":"-10.6743911","lng":"-37.3773519","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5605c7b01f00197ab628"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd5664c7b01f00197ab629"},"lat":"-1.374035","lng":"-48.4016623","state":"Pará","country":"Brasil","city":"Ananindeua","p":0}
+{"_id":{"$oid":"5ebd5682c7b01f00197ab62a"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd56a9c7b01f00197ab62b"},"lat":"-3.2996768","lng":"-60.6213528","state":"Amazonas","country":"Brasil","city":"Manacapuru","p":0}
+{"_id":{"$oid":"5ebd56c3c7b01f00197ab62c"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd56cec7b01f00197ab62d"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd56e4c7b01f00197ab62e"},"lat":"-23.0070825","lng":"-43.3146881","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd56edc7b01f00197ab62f"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebd56ffc7b01f00197ab630"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":11}
+{"_id":{"$oid":"5ebd5706c7b01f00197ab631"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebd570cc7b01f00197ab632"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5741c7b01f00197ab635"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd5764c7b01f00197ab637"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":1}
+{"_id":{"$oid":"5ebd57c1c7b01f00197ab638"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd57e1c7b01f00197ab639"},"lat":"-11.0892702","lng":"-43.1420453","state":"Bahia","country":"Brasil","city":"Barra","p":0}
+{"_id":{"$oid":"5ebd57fec7b01f00197ab63a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":12}
+{"_id":{"$oid":"5ebd582cc7b01f00197ab63b"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd583cc7b01f00197ab63c"},"lat":"-20.9626018","lng":"-43.8606406","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5845c7b01f00197ab63d"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5888c7b01f00197ab63e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5899c7b01f00197ab63f"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebd58a5c7b01f00197ab640"},"lat":"-21.7609533","lng":"-43.3501129","state":"Minas Gerais","country":"Brasil","city":"Juiz de Fora","p":0}
+{"_id":{"$oid":"5ebd58e8c7b01f00197ab641"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd58f1c7b01f00197ab642"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5951c7b01f00197ab643"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":4}
+{"_id":{"$oid":"5ebd598ac7b01f00197ab646"},"lat":"-22.3218102","lng":"-49.0705863","state":"São Paulo","country":"Brasil","city":"Bauru","p":0}
+{"_id":{"$oid":"5ebd59a8c7b01f00197ab647"},"lat":"-30.0176804","lng":"-51.184802729058234","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd59c2c7b01f00197ab648"},"lat":"-27.2162607","lng":"-49.643654","state":"Santa Catarina","country":"Brasil","city":"Rio do Sul","p":1}
+{"_id":{"$oid":"5ebd5a09c7b01f00197ab64a"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd5a21c7b01f00197ab64b"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":1}
+{"_id":{"$oid":"5ebd5a4dc7b01f00197ab64c"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebd5a66c7b01f00197ab64e"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd5a7fc7b01f00197ab650"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd5a9ac7b01f00197ab651"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd5aadc7b01f00197ab652"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":4}
+{"_id":{"$oid":"5ebd5acfc7b01f00197ab653"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5ad6c7b01f00197ab654"},"lat":"-10.6743911","lng":"-37.3773519","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5b01c7b01f00197ab656"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":29}
+{"_id":{"$oid":"5ebd5b53c7b01f00197ab657"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5b5cc7b01f00197ab658"},"lat":"-22.9332164","lng":"-43.2381453","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5b7bc7b01f00197ab65a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5b82c7b01f00197ab65b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5ba7c7b01f00197ab65c"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5c33c7b01f00197ab65e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd5c4cc7b01f00197ab65f"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd5c5fc7b01f00197ab660"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd5cb7c7b01f00197ab663"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":4}
+{"_id":{"$oid":"5ebd5cf5c7b01f00197ab666"},"lat":"-20.624970400000002","lng":"-40.75006690147988","state":"Espírito Santo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5cfec7b01f00197ab667"},"lat":"-19.968056","lng":"-44.198333","state":"Minas Gerais","country":"Brasil","city":"Betim","p":0}
+{"_id":{"$oid":"5ebd5d06c7b01f00197ab668"},"lat":"-6.25157245","lng":"-36.52997164724819","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5d2ec7b01f00197ab669"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":3}
+{"_id":{"$oid":"5ebd5d48c7b01f00197ab66a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd5d5fc7b01f00197ab66b"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebd5d6fc7b01f00197ab66c"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebd5d86c7b01f00197ab66d"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5d93c7b01f00197ab66e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd5dc5c7b01f00197ab66f"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":1}
+{"_id":{"$oid":"5ebd5e2cc7b01f00197ab672"},"lat":"-19.5852564","lng":"-54.4794731","state":"Mato Grosso do Sul","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebd5e35c7b01f00197ab673"},"lat":"-19.9466574","lng":"-43.956363175401165","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd5e4ec7b01f00197ab674"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5e87c7b01f00197ab676"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5e8dc7b01f00197ab677"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd5e96c7b01f00197ab678"},"lat":"-23.2638828","lng":"-47.298892","state":"São Paulo","country":"Brasil","city":"Itu","p":0}
+{"_id":{"$oid":"5ebd5ea5c7b01f00197ab679"},"lat":"-10.6743911","lng":"-37.3773519","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd5eafc7b01f00197ab67a"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd5ee5c7b01f00197ab67b"},"lat":"-23.5503068","lng":"-45.9654233","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd5f5ac7b01f00197ab67c"},"lat":"-21.7886713","lng":"-48.1773096","state":"São Paulo","country":"Brasil","city":"Araraquara","p":1}
+{"_id":{"$oid":"5ebd5f6ac7b01f00197ab67d"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":0}
+{"_id":{"$oid":"5ebd5f73c7b01f00197ab67e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5f87c7b01f00197ab680"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd5facc7b01f00197ab681"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd5fb8c7b01f00197ab682"},"lat":"-22.3706166","lng":"-47.3927246","state":"São Paulo","country":"Brasil","city":"Araras","p":0}
+{"_id":{"$oid":"5ebd5fd2c7b01f00197ab683"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd5fedc7b01f00197ab685"},"lat":"-31.71980215","lng":"-52.32953054766273","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":1}
+{"_id":{"$oid":"5ebd5ffbc7b01f00197ab686"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":298}
+{"_id":{"$oid":"5ebd600cc7b01f00197ab687"},"lat":"-22.3185101","lng":"-41.754418320144026","state":"Rio de Janeiro","country":"Brasil","city":"Macaé","p":0}
+{"_id":{"$oid":"5ebd6030c7b01f00197ab688"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd6060c7b01f00197ab689"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd606ec7b01f00197ab68a"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd6097c7b01f00197ab68b"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd60b8c7b01f00197ab68c"},"lat":"-22.7156978","lng":"-43.555754","state":"Rio de Janeiro","country":"Brasil","city":"Queimados","p":1}
+{"_id":{"$oid":"5ebd60c7c7b01f00197ab68d"},"lat":"-28.2616138","lng":"-52.4089048","state":"Rio Grande do Sul","country":"Brasil","city":"Passo Fundo","p":0}
+{"_id":{"$oid":"5ebd60ddc7b01f00197ab68e"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":41}
+{"_id":{"$oid":"5ebd60ecc7b01f00197ab68f"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":9}
+{"_id":{"$oid":"5ebd6100c7b01f00197ab690"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebd6118c7b01f00197ab691"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":26}
+{"_id":{"$oid":"5ebd6127c7b01f00197ab692"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":6661}
+{"_id":{"$oid":"5ebd6130c7b01f00197ab693"},"lat":"-23.0070825","lng":"-43.3146881","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":11}
+{"_id":{"$oid":"5ebd619ec7b01f00197ab696"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd61d0c7b01f00197ab699"},"lat":"-23.1989983","lng":"-47.2913682","state":"São Paulo","country":"Brasil","city":"Salto","p":0}
+{"_id":{"$oid":"5ebd6208c7b01f00197ab69a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd621dc7b01f00197ab69b"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd6224c7b01f00197ab69c"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd626cc7b01f00197ab69e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6277c7b01f00197ab69f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":30}
+{"_id":{"$oid":"5ebd62a1c7b01f00197ab6a0"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd62c4c7b01f00197ab6a1"},"lat":"-22.5615068","lng":"-47.401766","state":"São Paulo","country":"Brasil","city":"Limeira","p":1}
+{"_id":{"$oid":"5ebd62ccc7b01f00197ab6a2"},"lat":"-22.9839557","lng":"-43.2022163","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd62e1c7b01f00197ab6a3"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":1}
+{"_id":{"$oid":"5ebd6301c7b01f00197ab6a4"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd630ec7b01f00197ab6a5"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":1}
+{"_id":{"$oid":"5ebd631fc7b01f00197ab6a7"},"lat":"-22.5086783","lng":"-45.2792398","state":"Minas Gerais","country":"Brasil","city":"Delfim Moreira","p":0}
+{"_id":{"$oid":"5ebd639ac7b01f00197ab6aa"},"lat":"-29.585935","lng":"-55.484112","state":"Rio Grande do Sul","country":"Brasil","city":"Manoel Viana","p":0}
+{"_id":{"$oid":"5ebd63aac7b01f00197ab6ab"},"lat":"-10.6743911","lng":"-37.3773519","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd63d5c7b01f00197ab6ad"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd63f6c7b01f00197ab6ae"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd6420c7b01f00197ab6b0"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd6433c7b01f00197ab6b1"},"lat":"-22.783092","lng":"-43.4293599","state":"Rio de Janeiro","country":"Brasil","city":"Mesquita","p":0}
+{"_id":{"$oid":"5ebd6475c7b01f00197ab6b3"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":0}
+{"_id":{"$oid":"5ebd647bc7b01f00197ab6b4"},"lat":"-21.1330483","lng":"-47.8199056","state":"São Paulo","country":"Brasil","city":"Ribeirão Preto","p":1}
+{"_id":{"$oid":"5ebd64c9c7b01f00197ab6b5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd64dac7b01f00197ab6b6"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":4}
+{"_id":{"$oid":"5ebd64f5c7b01f00197ab6b7"},"lat":"-22.9719642","lng":"-43.1843432","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebd6500c7b01f00197ab6b8"},"lat":"-23.958653","lng":"-46.3385266","state":"São Paulo","country":"Brasil","city":"Santos","p":1}
+{"_id":{"$oid":"5ebd651cc7b01f00197ab6b9"},"lat":"-22.9783058","lng":"-43.22020020495947","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6586c7b01f00197ab6ba"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6590c7b01f00197ab6bb"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd65a1c7b01f00197ab6bc"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd65c3c7b01f00197ab6be"},"lat":"-23.9513973","lng":"-46.3374426","state":"São Paulo","country":"Brasil","city":"Santos","p":0}
+{"_id":{"$oid":"5ebd662cc7b01f00197ab6c0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":44}
+{"_id":{"$oid":"5ebd6650c7b01f00197ab6c1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd668bc7b01f00197ab6c2"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd669ec7b01f00197ab6c3"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd66b8c7b01f00197ab6c4"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd66dac7b01f00197ab6c5"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd6707c7b01f00197ab6c7"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebd672ec7b01f00197ab6c9"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd673bc7b01f00197ab6ca"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd6743c7b01f00197ab6cb"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd6772c7b01f00197ab6cd"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6778c7b01f00197ab6ce"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd67e6c7b01f00197ab6d1"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd67fdc7b01f00197ab6d2"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebd6802c7b01f00197ab6d3"},"lat":"2.8208478","lng":"-60.6719582","state":"Roraima","country":"Brasil","city":"Boa Vista","p":14}
+{"_id":{"$oid":"5ebd680bc7b01f00197ab6d4"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":27}
+{"_id":{"$oid":"5ebd682cc7b01f00197ab6d5"},"lat":"-5.0393915","lng":"-42.4611694","state":"Piauí","country":"Brasil","city":"Altos","p":0}
+{"_id":{"$oid":"5ebd6833c7b01f00197ab6d6"},"lat":"-1.374035","lng":"-48.4016623","state":"Pará","country":"Brasil","city":"Ananindeua","p":0}
+{"_id":{"$oid":"5ebd683cc7b01f00197ab6d7"},"lat":"-22.4683626","lng":"-44.4463494","state":"Rio de Janeiro","country":"Brasil","city":"Resende","p":0}
+{"_id":{"$oid":"5ebd6856c7b01f00197ab6d8"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd68a9c7b01f00197ab6dd"},"lat":"-22.8733203","lng":"-42.3428897","state":"Rio de Janeiro","country":"Brasil","city":"Araruama","p":0}
+{"_id":{"$oid":"5ebd68e4c7b01f00197ab6de"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd690ac7b01f00197ab6df"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd6919c7b01f00197ab6e0"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd6939c7b01f00197ab6e1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd6941c7b01f00197ab6e2"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd6957c7b01f00197ab6e3"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd69ffc7b01f00197ab6e7"},"lat":"3.157774","lng":"101.641338","state":"Kuala Lumpur","country":"Malaysia","city":null,"p":0}
+{"_id":{"$oid":"5ebd6a1ec7b01f00197ab6e8"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":3}
+{"_id":{"$oid":"5ebd6a2ac7b01f00197ab6e9"},"lat":"-29.3299421","lng":"-51.4787696","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd6a34c7b01f00197ab6ea"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd6a5fc7b01f00197ab6eb"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd6a98c7b01f00197ab6ee"},"lat":"-20.949077","lng":"-48.479083","state":"São Paulo","country":"Brasil","city":"Bebedouro","p":0}
+{"_id":{"$oid":"5ebd6aa9c7b01f00197ab6ef"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd6ab3c7b01f00197ab6f0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd6abac7b01f00197ab6f1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd6aefc7b01f00197ab6f3"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd6b01c7b01f00197ab6f4"},"lat":"-21.7558619","lng":"-41.3326895","state":"Rio de Janeiro","country":"Brasil","city":"Campos dos Goytacazes","p":1}
+{"_id":{"$oid":"5ebd6b12c7b01f00197ab6f5"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd6b44c7b01f00197ab6f6"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebd6b56c7b01f00197ab6f8"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd6b5dc7b01f00197ab6f9"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd6b83c7b01f00197ab6fa"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd6b91c7b01f00197ab6fb"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd6b97c7b01f00197ab6fc"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd6ba0c7b01f00197ab6fd"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd6badc7b01f00197ab6fe"},"lat":"-20.1252961","lng":"-40.3064477","state":"Espírito Santo","country":"Brasil","city":"Serra","p":1}
+{"_id":{"$oid":"5ebd6bb3c7b01f00197ab6ff"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd6bcfc7b01f00197ab701"},"lat":"-10.50494","lng":"-37.0552566","state":"Sergipe","country":"Brasil","city":"Capela","p":0}
+{"_id":{"$oid":"5ebd6bd6c7b01f00197ab702"},"lat":"-1.721828","lng":"-48.878843","state":"Pará","country":"Brasil","city":"Abaetetuba","p":0}
+{"_id":{"$oid":"5ebd6c2bc7b01f00197ab703"},"lat":"-9.3817334","lng":"-40.4968875","state":"Pernambuco","country":"Brasil","city":"Petrolina","p":3}
+{"_id":{"$oid":"5ebd6c31c7b01f00197ab704"},"lat":"-16.7273538","lng":"-43.8717676","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":0}
+{"_id":{"$oid":"5ebd6c40c7b01f00197ab705"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":1}
+{"_id":{"$oid":"5ebd6c4dc7b01f00197ab707"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6ca5c7b01f00197ab709"},"lat":"-5.1023325","lng":"-42.8449518","state":"Maranhão","country":"Brasil","city":"Timon","p":0}
+{"_id":{"$oid":"5ebd6cd5c7b01f00197ab70a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":21}
+{"_id":{"$oid":"5ebd6cf7c7b01f00197ab70c"},"lat":"-32.0334252","lng":"-52.0991297","state":"Rio Grande do Sul","country":"Brasil","city":"Rio Grande","p":0}
+{"_id":{"$oid":"5ebd6cfcc7b01f00197ab70d"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":75}
+{"_id":{"$oid":"5ebd6d1dc7b01f00197ab70e"},"lat":"-21.2425512","lng":"-44.9991978","state":"Minas Gerais","country":"Brasil","city":"Lavras","p":0}
+{"_id":{"$oid":"5ebd6d36c7b01f00197ab710"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":4}
+{"_id":{"$oid":"5ebd6d40c7b01f00197ab711"},"lat":"-16.4252491","lng":"-51.8231427","state":"Goiás","country":"Brasil","city":"Piranhas","p":0}
+{"_id":{"$oid":"5ebd6d71c7b01f00197ab713"},"lat":"-28.784398","lng":"-51.6105402","state":"Rio Grande do Sul","country":"Brasil","city":"Nova Prata","p":0}
+{"_id":{"$oid":"5ebd6d83c7b01f00197ab714"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd6d8cc7b01f00197ab715"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":44}
+{"_id":{"$oid":"5ebd6d9fc7b01f00197ab716"},"lat":"-5.1023325","lng":"-42.8449518","state":"Maranhão","country":"Brasil","city":"Timon","p":0}
+{"_id":{"$oid":"5ebd6ddac7b01f00197ab717"},"lat":"-2.8992823","lng":"-79.0216101","state":"Azuay","country":"Ecuador","city":"Cuenca","p":1}
+{"_id":{"$oid":"5ebd6de0c7b01f00197ab718"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6e0ac7b01f00197ab719"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6e12c7b01f00197ab71a"},"lat":"-3.0047906","lng":"-59.9763849","state":"Amazonas","country":"Brasil","city":"Manaus","p":10}
+{"_id":{"$oid":"5ebd6e36c7b01f00197ab71b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd6e49c7b01f00197ab71c"},"lat":"-8.7494525","lng":"-63.8735438","state":"Rondônia","country":"Brasil","city":"Porto Velho","p":0}
+{"_id":{"$oid":"5ebd6e7fc7b01f00197ab71d"},"lat":"-4.1632924","lng":"-40.7495985","state":"Ceará","country":"Brasil","city":"Guaraciaba do Norte","p":2}
+{"_id":{"$oid":"5ebd6e84c7b01f00197ab71e"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd6e95c7b01f00197ab71f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6e9dc7b01f00197ab720"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd6ea3c7b01f00197ab721"},"lat":"-26.8898813","lng":"-48.6495828","state":"Santa Catarina","country":"Brasil","city":"Navegantes","p":0}
+{"_id":{"$oid":"5ebd6ec5c7b01f00197ab722"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6ed4c7b01f00197ab723"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebd6efbc7b01f00197ab724"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebd6f03c7b01f00197ab725"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd6f1ec7b01f00197ab727"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":4}
+{"_id":{"$oid":"5ebd6f32c7b01f00197ab729"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":24}
+{"_id":{"$oid":"5ebd6f50c7b01f00197ab72b"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":0}
+{"_id":{"$oid":"5ebd6f5fc7b01f00197ab72d"},"lat":"-20.2401082","lng":"-56.3844728","state":"Mato Grosso do Sul","country":"Brasil","city":"Miranda","p":0}
+{"_id":{"$oid":"5ebd6f65c7b01f00197ab72e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd6f6bc7b01f00197ab72f"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd6f8cc7b01f00197ab732"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd6fa2c7b01f00197ab733"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd6fa7c7b01f00197ab734"},"lat":"-26.9307306","lng":"-48.9566824","state":"Santa Catarina","country":"Brasil","city":"Gaspar","p":0}
+{"_id":{"$oid":"5ebd6fc2c7b01f00197ab735"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd6fcdc7b01f00197ab736"},"lat":"-22.5225497","lng":"-44.1040128","state":"Rio de Janeiro","country":"Brasil","city":"Volta Redonda","p":0}
+{"_id":{"$oid":"5ebd704cc7b01f00197ab737"},"lat":"-23.0070825","lng":"-43.3146881","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd7055c7b01f00197ab738"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":0}
+{"_id":{"$oid":"5ebd708bc7b01f00197ab739"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":1}
+{"_id":{"$oid":"5ebd70dac7b01f00197ab73b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd70e0c7b01f00197ab73c"},"lat":"-22.8886093","lng":"-43.3657758","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd70ebc7b01f00197ab73d"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd711fc7b01f00197ab73e"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd7146c7b01f00197ab740"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebd71f5c7b01f00197ab742"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd727fc7b01f00197ab745"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd729ac7b01f00197ab747"},"lat":"-21.7558619","lng":"-41.3326895","state":"Rio de Janeiro","country":"Brasil","city":"Campos dos Goytacazes","p":0}
+{"_id":{"$oid":"5ebd72a6c7b01f00197ab748"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd72cec7b01f00197ab749"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd72f4c7b01f00197ab74b"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":7}
+{"_id":{"$oid":"5ebd72fac7b01f00197ab74c"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd7340c7b01f00197ab74e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7385c7b01f00197ab750"},"lat":"-25.5562","lng":"-54.6009678","state":"Alto Paraná","country":"Paraguay","city":null,"p":0}
+{"_id":{"$oid":"5ebd73d3c7b01f00197ab752"},"lat":"-23.4855114","lng":"-46.8563215","state":"São Paulo","country":"Brasil","city":"Barueri","p":5}
+{"_id":{"$oid":"5ebd73e4c7b01f00197ab753"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7403c7b01f00197ab754"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7433c7b01f00197ab755"},"lat":"-24.2839929","lng":"-53.8405463","state":"Paraná","country":"Brasil","city":"Palotina","p":2}
+{"_id":{"$oid":"5ebd745cc7b01f00197ab756"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":44}
+{"_id":{"$oid":"5ebd746cc7b01f00197ab757"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd748ac7b01f00197ab759"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd74a1c7b01f00197ab75a"},"lat":"-5.6781175","lng":"-36.4781776","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd74c3c7b01f00197ab75b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd74eec7b01f00197ab75c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7511c7b01f00197ab75d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd751bc7b01f00197ab75e"},"lat":"-22.9805186","lng":"-43.2246621","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd7521c7b01f00197ab75f"},"lat":"-23.4855114","lng":"-46.8563215","state":"São Paulo","country":"Brasil","city":"Barueri","p":5}
+{"_id":{"$oid":"5ebd753bc7b01f00197ab760"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd7556c7b01f00197ab761"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7594c7b01f00197ab762"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":182}
+{"_id":{"$oid":"5ebd75cac7b01f00197ab764"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd75d7c7b01f00197ab765"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd75f4c7b01f00197ab768"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":0}
+{"_id":{"$oid":"5ebd7600c7b01f00197ab769"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd7616c7b01f00197ab76a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd761dc7b01f00197ab76b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":7}
+{"_id":{"$oid":"5ebd764dc7b01f00197ab76c"},"lat":"-22.2343858","lng":"-45.9327241","state":"Minas Gerais","country":"Brasil","city":"Pouso Alegre","p":0}
+{"_id":{"$oid":"5ebd76bfc7b01f00197ab771"},"lat":"-20.949077","lng":"-48.479083","state":"São Paulo","country":"Brasil","city":"Bebedouro","p":5}
+{"_id":{"$oid":"5ebd76c6c7b01f00197ab772"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd76d1c7b01f00197ab773"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd76e0c7b01f00197ab774"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":1}
+{"_id":{"$oid":"5ebd770cc7b01f00197ab775"},"lat":"-12.2115009","lng":"-55.5716547","state":"Mato Grosso","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7713c7b01f00197ab776"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd775dc7b01f00197ab779"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd7767c7b01f00197ab77a"},"lat":"-6.8897849","lng":"-38.5570389","state":"Paraíba","country":"Brasil","city":"Cajazeiras","p":0}
+{"_id":{"$oid":"5ebd7777c7b01f00197ab77b"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":1}
+{"_id":{"$oid":"5ebd7792c7b01f00197ab77d"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebd7799c7b01f00197ab77e"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd779fc7b01f00197ab77f"},"lat":"-23.0070825","lng":"-43.3146881","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd77bdc7b01f00197ab780"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd77c8c7b01f00197ab781"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd77dbc7b01f00197ab782"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd77e2c7b01f00197ab783"},"lat":"-23.5112184","lng":"-46.8764612","state":"São Paulo","country":"Brasil","city":"Barueri","p":0}
+{"_id":{"$oid":"5ebd77fbc7b01f00197ab784"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd7805c7b01f00197ab785"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd780ac7b01f00197ab786"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7815c7b01f00197ab787"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd781bc7b01f00197ab788"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":0}
+{"_id":{"$oid":"5ebd7822c7b01f00197ab789"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd7831c7b01f00197ab78a"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebd785cc7b01f00197ab78d"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd7862c7b01f00197ab78e"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":4}
+{"_id":{"$oid":"5ebd7874c7b01f00197ab78f"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd788fc7b01f00197ab792"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd7896c7b01f00197ab793"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd789ec7b01f00197ab794"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd78abc7b01f00197ab795"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":26}
+{"_id":{"$oid":"5ebd78b9c7b01f00197ab796"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd78cec7b01f00197ab797"},"lat":"-20.3297293","lng":"-40.2920284","state":"Espírito Santo","country":"Brasil","city":"Vila Velha","p":0}
+{"_id":{"$oid":"5ebd78eec7b01f00197ab798"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd78f6c7b01f00197ab799"},"lat":"46.9599823","lng":"22.0541733","state":null,"country":"România","city":null,"p":18}
+{"_id":{"$oid":"5ebd7907c7b01f00197ab79a"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd792fc7b01f00197ab79b"},"lat":"-31.7591023","lng":"-52.271635","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd7937c7b01f00197ab79c"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":8}
+{"_id":{"$oid":"5ebd7947c7b01f00197ab79d"},"lat":"-3.499329","lng":"-39.583571","state":"Ceará","country":"Brasil","city":"Itapipoca","p":0}
+{"_id":{"$oid":"5ebd795fc7b01f00197ab79f"},"lat":"-29.1684796","lng":"-51.1793861","state":"Rio Grande do Sul","country":"Brasil","city":"Caxias do Sul","p":0}
+{"_id":{"$oid":"5ebd796fc7b01f00197ab7a0"},"lat":"-23.031448","lng":"-45.5612792","state":"São Paulo","country":"Brasil","city":"Taubaté","p":0}
+{"_id":{"$oid":"5ebd7990c7b01f00197ab7a1"},"lat":"-31.7699736","lng":"-52.3410161","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd79a6c7b01f00197ab7a2"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd79aec7b01f00197ab7a3"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd79cdc7b01f00197ab7a4"},"lat":"-9.9765362","lng":"-67.8220778","state":"Acre","country":"Brasil","city":"Rio Branco","p":1}
+{"_id":{"$oid":"5ebd79dcc7b01f00197ab7a5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd79e5c7b01f00197ab7a6"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd79fec7b01f00197ab7a7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7a13c7b01f00197ab7a8"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7a1cc7b01f00197ab7a9"},"lat":"-27.433386300000002","lng":"-49.50436367851978","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7a86c7b01f00197ab7ac"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":4}
+{"_id":{"$oid":"5ebd7aa3c7b01f00197ab7ad"},"lat":"-22.2343858","lng":"-45.9327241","state":"Minas Gerais","country":"Brasil","city":"Pouso Alegre","p":0}
+{"_id":{"$oid":"5ebd7b05c7b01f00197ab7b0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7b15c7b01f00197ab7b1"},"lat":"-3.499329","lng":"-39.583571","state":"Ceará","country":"Brasil","city":"Itapipoca","p":0}
+{"_id":{"$oid":"5ebd7b4bc7b01f00197ab7b2"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd7b54c7b01f00197ab7b3"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd7b5ec7b01f00197ab7b4"},"lat":"-23.1177393","lng":"-46.5547861","state":"São Paulo","country":"Brasil","city":"Atibaia","p":0}
+{"_id":{"$oid":"5ebd7b65c7b01f00197ab7b5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":237}
+{"_id":{"$oid":"5ebd7b87c7b01f00197ab7b7"},"lat":"-23.1177393","lng":"-46.5547861","state":"São Paulo","country":"Brasil","city":"Atibaia","p":1}
+{"_id":{"$oid":"5ebd7ba2c7b01f00197ab7ba"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd7bbcc7b01f00197ab7bb"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd7bcac7b01f00197ab7bc"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebd7c40c7b01f00197ab7be"},"lat":"-3.499329","lng":"-39.583571","state":"Ceará","country":"Brasil","city":"Itapipoca","p":0}
+{"_id":{"$oid":"5ebd7c51c7b01f00197ab7bf"},"lat":"-3.8922967","lng":"-38.6835427","state":"Ceará","country":"Brasil","city":"Maranguape","p":0}
+{"_id":{"$oid":"5ebd7c95c7b01f00197ab7c0"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":0}
+{"_id":{"$oid":"5ebd7ca8c7b01f00197ab7c1"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7ccfc7b01f00197ab7c2"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd7ce9c7b01f00197ab7c3"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7cf5c7b01f00197ab7c5"},"lat":"-19.9466574","lng":"-43.956363175401165","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd7d12c7b01f00197ab7c7"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7d18c7b01f00197ab7c8"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd7d56c7b01f00197ab7c9"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7d7dc7b01f00197ab7cb"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":0}
+{"_id":{"$oid":"5ebd7daac7b01f00197ab7cc"},"lat":"-19.9466574","lng":"-43.956363175401165","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd7db3c7b01f00197ab7cd"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd7df4c7b01f00197ab7d1"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd7e5ac7b01f00197ab7d5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7e98c7b01f00197ab7d6"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd7eb7c7b01f00197ab7d7"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":4}
+{"_id":{"$oid":"5ebd7ec8c7b01f00197ab7d8"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebd7ed6c7b01f00197ab7d9"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":1}
+{"_id":{"$oid":"5ebd7eebc7b01f00197ab7da"},"lat":"-1.374035","lng":"-48.4016623","state":"Pará","country":"Brasil","city":"Ananindeua","p":2}
+{"_id":{"$oid":"5ebd7ef5c7b01f00197ab7db"},"lat":"-19.870314999999998","lng":"-44.00024506733823","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd7f5fc7b01f00197ab7df"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd7fa2c7b01f00197ab7e0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd7fadc7b01f00197ab7e1"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":2}
+{"_id":{"$oid":"5ebd7fbec7b01f00197ab7e2"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd7ff9c7b01f00197ab7e4"},"lat":"-7.2246743","lng":"-35.8771292","state":"Paraíba","country":"Brasil","city":"Campina Grande","p":0}
+{"_id":{"$oid":"5ebd8038c7b01f00197ab7e5"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd807ec7b01f00197ab7e6"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":0}
+{"_id":{"$oid":"5ebd80e4c7b01f00197ab7e8"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd8109c7b01f00197ab7ea"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd8150c7b01f00197ab7eb"},"lat":"-20.825920099999998","lng":"-49.38080177118471","state":"São Paulo","country":"Brasil","city":"São José do Rio Preto","p":0}
+{"_id":{"$oid":"5ebd8156c7b01f00197ab7ec"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebd8197c7b01f00197ab7ee"},"lat":"-4.131182","lng":"-41.7824969","state":"Piauí","country":"Brasil","city":"Brasileira","p":1}
+{"_id":{"$oid":"5ebd81b3c7b01f00197ab7ef"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd81c3c7b01f00197ab7f0"},"lat":"-4.131182","lng":"-41.7824969","state":"Piauí","country":"Brasil","city":"Brasileira","p":1}
+{"_id":{"$oid":"5ebd821cc7b01f00197ab7f3"},"lat":"-4.131182","lng":"-41.7824969","state":"Piauí","country":"Brasil","city":"Brasileira","p":1}
+{"_id":{"$oid":"5ebd8221c7b01f00197ab7f4"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":0}
+{"_id":{"$oid":"5ebd8245c7b01f00197ab7f5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8259c7b01f00197ab7f7"},"lat":"-4.131182","lng":"-41.7824969","state":"Piauí","country":"Brasil","city":"Brasileira","p":1}
+{"_id":{"$oid":"5ebd82a3c7b01f00197ab7f8"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd82acc7b01f00197ab7f9"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd82c5c7b01f00197ab7fa"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd82cac7b01f00197ab7fb"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd82d5c7b01f00197ab7fc"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd830dc7b01f00197ab7fe"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8318c7b01f00197ab7ff"},"lat":"-31.7699736","lng":"-52.3410161","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd8338c7b01f00197ab800"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":16}
+{"_id":{"$oid":"5ebd833dc7b01f00197ab801"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebd83ebc7b01f00197ab806"},"lat":"-23.5730837","lng":"-46.5603971","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd8401c7b01f00197ab808"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd846fc7b01f00197ab809"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":2}
+{"_id":{"$oid":"5ebd8477c7b01f00197ab80a"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":1}
+{"_id":{"$oid":"5ebd84ccc7b01f00197ab80b"},"lat":"-20.896505","lng":"-51.3742765","state":"São Paulo","country":"Brasil","city":"Andradina","p":0}
+{"_id":{"$oid":"5ebd8541c7b01f00197ab80f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8547c7b01f00197ab810"},"lat":"-21.9527","lng":"-51.413956","state":"São Paulo","country":"Brasil","city":"Alfredo Marcondes","p":0}
+{"_id":{"$oid":"5ebd8578c7b01f00197ab811"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":2}
+{"_id":{"$oid":"5ebd8584c7b01f00197ab812"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":4}
+{"_id":{"$oid":"5ebd858bc7b01f00197ab813"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd85b3c7b01f00197ab815"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":10}
+{"_id":{"$oid":"5ebd85bcc7b01f00197ab816"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd85e7c7b01f00197ab819"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":3}
+{"_id":{"$oid":"5ebd8626c7b01f00197ab81b"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":2}
+{"_id":{"$oid":"5ebd8649c7b01f00197ab81c"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd8655c7b01f00197ab81d"},"lat":"-10.6019733","lng":"-67.7842232","state":"Acre","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd8668c7b01f00197ab81e"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd86b6c7b01f00197ab820"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8726c7b01f00197ab822"},"lat":"-16.7273538","lng":"-43.8717676","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":0}
+{"_id":{"$oid":"5ebd8741c7b01f00197ab824"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd874cc7b01f00197ab825"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd875dc7b01f00197ab826"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd878fc7b01f00197ab828"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd879cc7b01f00197ab829"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":6661}
+{"_id":{"$oid":"5ebd87acc7b01f00197ab82a"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd87bac7b01f00197ab82b"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd87cac7b01f00197ab82c"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebd87e7c7b01f00197ab82d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8818c7b01f00197ab82e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd881fc7b01f00197ab82f"},"lat":"-22.8381127","lng":"-43.2764454","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":11}
+{"_id":{"$oid":"5ebd882bc7b01f00197ab830"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":1}
+{"_id":{"$oid":"5ebd88a4c7b01f00197ab832"},"lat":"-9.9765362","lng":"-67.8220778","state":"Acre","country":"Brasil","city":"Rio Branco","p":0}
+{"_id":{"$oid":"5ebd88b8c7b01f00197ab833"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":3}
+{"_id":{"$oid":"5ebd88bec7b01f00197ab834"},"lat":"-3.9228792","lng":"-40.8890296","state":"Ceará","country":"Brasil","city":"Ibiapina","p":0}
+{"_id":{"$oid":"5ebd88d8c7b01f00197ab835"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd88f9c7b01f00197ab836"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":0}
+{"_id":{"$oid":"5ebd890fc7b01f00197ab837"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd8939c7b01f00197ab839"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebd893fc7b01f00197ab83a"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":2}
+{"_id":{"$oid":"5ebd8969c7b01f00197ab83b"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebd897dc7b01f00197ab83c"},"lat":"-22.9340165","lng":"-45.462938","state":"São Paulo","country":"Brasil","city":"Pindamonhangaba","p":0}
+{"_id":{"$oid":"5ebd8989c7b01f00197ab83d"},"lat":"-22.8381127","lng":"-43.2764454","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":11}
+{"_id":{"$oid":"5ebd89a4c7b01f00197ab83e"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebd89cfc7b01f00197ab840"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd8a11c7b01f00197ab843"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":1}
+{"_id":{"$oid":"5ebd8a2dc7b01f00197ab844"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":3}
+{"_id":{"$oid":"5ebd8a53c7b01f00197ab845"},"lat":"-18.2440862","lng":"-43.6006487","state":"Minas Gerais","country":"Brasil","city":"Diamantina","p":1}
+{"_id":{"$oid":"5ebd8a61c7b01f00197ab846"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd8a70c7b01f00197ab847"},"lat":"-25.5562","lng":"-54.6009678","state":"Alto Paraná","country":"Paraguay","city":null,"p":0}
+{"_id":{"$oid":"5ebd8a9dc7b01f00197ab848"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd8abfc7b01f00197ab849"},"lat":"-23.51108955","lng":"-46.18400568768247","state":"São Paulo","country":"Brasil","city":"Mogi das Cruzes","p":0}
+{"_id":{"$oid":"5ebd8ad1c7b01f00197ab84b"},"lat":"-9.639778549999999","lng":"-35.7351127630036","state":"Alagoas","country":"Brasil","city":"Maceió","p":0}
+{"_id":{"$oid":"5ebd8af8c7b01f00197ab84c"},"lat":"-9.639778549999999","lng":"-35.7351127630036","state":"Alagoas","country":"Brasil","city":"Maceió","p":0}
+{"_id":{"$oid":"5ebd8b0ac7b01f00197ab84d"},"lat":"-9.639778549999999","lng":"-35.7351127630036","state":"Alagoas","country":"Brasil","city":"Maceió","p":0}
+{"_id":{"$oid":"5ebd8b41c7b01f00197ab851"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":6}
+{"_id":{"$oid":"5ebd8b4ac7b01f00197ab852"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd8b5bc7b01f00197ab854"},"lat":"-20.4294254","lng":"-54.5962373","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":48}
+{"_id":{"$oid":"5ebd8b64c7b01f00197ab855"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd8b6ac7b01f00197ab856"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebd8bc5c7b01f00197ab858"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":1}
+{"_id":{"$oid":"5ebd8be0c7b01f00197ab859"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":44}
+{"_id":{"$oid":"5ebd8becc7b01f00197ab85a"},"lat":"-22.72528","lng":"-47.64917","state":"São Paulo","country":"Brasil","city":"Piracicaba","p":0}
+{"_id":{"$oid":"5ebd8c09c7b01f00197ab85b"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":1}
+{"_id":{"$oid":"5ebd8c1dc7b01f00197ab85c"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":1}
+{"_id":{"$oid":"5ebd8c23c7b01f00197ab85d"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":1}
+{"_id":{"$oid":"5ebd8c4fc7b01f00197ab85e"},"lat":"-4.2318132","lng":"-44.781167","state":"Maranhão","country":"Brasil","city":"Bacabal","p":0}
+{"_id":{"$oid":"5ebd8c86c7b01f00197ab860"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":1}
+{"_id":{"$oid":"5ebd8c92c7b01f00197ab861"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":21}
+{"_id":{"$oid":"5ebd8cb5c7b01f00197ab863"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8cc2c7b01f00197ab864"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":26}
+{"_id":{"$oid":"5ebd8ccbc7b01f00197ab865"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebd8cd8c7b01f00197ab866"},"lat":"-5.0878097","lng":"-42.8255749","state":"Maranhão","country":"Brasil","city":"Timon","p":0}
+{"_id":{"$oid":"5ebd8cddc7b01f00197ab867"},"lat":"-25.4498266","lng":"-49.27288083849462","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebd8d01c7b01f00197ab86a"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd8d12c7b01f00197ab86b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8d5bc7b01f00197ab86d"},"lat":"-22.94803","lng":"-43.362903","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebd8d66c7b01f00197ab86e"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd8d6fc7b01f00197ab86f"},"lat":"-29.7205898","lng":"-53.76461138561854","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":0}
+{"_id":{"$oid":"5ebd8d75c7b01f00197ab870"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebd8d7ec7b01f00197ab871"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":8}
+{"_id":{"$oid":"5ebd8d98c7b01f00197ab872"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":2}
+{"_id":{"$oid":"5ebd8dafc7b01f00197ab873"},"lat":"-5.6781175","lng":"-36.4781776","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd8db7c7b01f00197ab874"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8dbfc7b01f00197ab875"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd8dc5c7b01f00197ab876"},"lat":"-5.6781175","lng":"-36.4781776","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd8dfbc7b01f00197ab878"},"lat":"-26.3044898","lng":"-48.8486726","state":"Santa Catarina","country":"Brasil","city":"Joinville","p":1}
+{"_id":{"$oid":"5ebd8e08c7b01f00197ab879"},"lat":"-5.6781175","lng":"-36.4781776","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd8e0fc7b01f00197ab87a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8e20c7b01f00197ab87b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd8e2fc7b01f00197ab87c"},"lat":"-22.9100508","lng":"-43.201756","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":690}
+{"_id":{"$oid":"5ebd8e4ac7b01f00197ab87d"},"lat":"-29.6860512","lng":"-53.8069214","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":0}
+{"_id":{"$oid":"5ebd8e5ac7b01f00197ab87e"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":6}
+{"_id":{"$oid":"5ebd8e8fc7b01f00197ab880"},"lat":"-22.5783685","lng":"-44.9642044","state":"São Paulo","country":"Brasil","city":"Cruzeiro","p":0}
+{"_id":{"$oid":"5ebd8ecec7b01f00197ab882"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd8eecc7b01f00197ab883"},"lat":"-23.541056","lng":"-46.37097","state":"São Paulo","country":"Brasil","city":"Ferraz de Vasconcelos","p":0}
+{"_id":{"$oid":"5ebd8ef9c7b01f00197ab884"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebd8f39c7b01f00197ab885"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd8f61c7b01f00197ab887"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8faac7b01f00197ab889"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8fc1c7b01f00197ab88b"},"lat":"-29.1684796","lng":"-51.1793861","state":"Rio Grande do Sul","country":"Brasil","city":"Caxias do Sul","p":0}
+{"_id":{"$oid":"5ebd8fe8c7b01f00197ab88c"},"lat":"-22.9191926","lng":"-43.1796947","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd8ff0c7b01f00197ab88d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd903bc7b01f00197ab891"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd9079c7b01f00197ab892"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":74}
+{"_id":{"$oid":"5ebd9096c7b01f00197ab894"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd90d7c7b01f00197ab895"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebd9154c7b01f00197ab899"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":1}
+{"_id":{"$oid":"5ebd916ac7b01f00197ab89b"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":4}
+{"_id":{"$oid":"5ebd91d1c7b01f00197ab89d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd91f0c7b01f00197ab89e"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd9209c7b01f00197ab89f"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd921bc7b01f00197ab8a0"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd922fc7b01f00197ab8a2"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd9244c7b01f00197ab8a3"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd925ec7b01f00197ab8a4"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd9269c7b01f00197ab8a5"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd926fc7b01f00197ab8a6"},"lat":"-7.9340069","lng":"-34.868407","state":"Pernambuco","country":"Brasil","city":"Paulista","p":26}
+{"_id":{"$oid":"5ebd928ac7b01f00197ab8a7"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd9295c7b01f00197ab8a8"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd92a6c7b01f00197ab8a9"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebd92c1c7b01f00197ab8aa"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":1}
+{"_id":{"$oid":"5ebd92e6c7b01f00197ab8ac"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":343}
+{"_id":{"$oid":"5ebd92edc7b01f00197ab8ad"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd9314c7b01f00197ab8ae"},"lat":"-22.3218102","lng":"-49.0705863","state":"São Paulo","country":"Brasil","city":"Bauru","p":0}
+{"_id":{"$oid":"5ebd9324c7b01f00197ab8af"},"lat":"-23.5324859","lng":"-46.7916801","state":"São Paulo","country":"Brasil","city":"Osasco","p":0}
+{"_id":{"$oid":"5ebd932ac7b01f00197ab8b0"},"lat":"-5.8576398","lng":"-35.2014489","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebd9336c7b01f00197ab8b1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd9383c7b01f00197ab8b2"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebd9389c7b01f00197ab8b3"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebd93c8c7b01f00197ab8b5"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":6}
+{"_id":{"$oid":"5ebd93d7c7b01f00197ab8b6"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebd9453c7b01f00197ab8b8"},"lat":"-26.9195567","lng":"-49.0658025","state":"Santa Catarina","country":"Brasil","city":"Blumenau","p":0}
+{"_id":{"$oid":"5ebd945fc7b01f00197ab8b9"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":9}
+{"_id":{"$oid":"5ebd949dc7b01f00197ab8ba"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebd94adc7b01f00197ab8bc"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd94f9c7b01f00197ab8c0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd951dc7b01f00197ab8c2"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd9570c7b01f00197ab8c4"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebd9593c7b01f00197ab8c7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":26}
+{"_id":{"$oid":"5ebd95a9c7b01f00197ab8c8"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebd95b6c7b01f00197ab8ca"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd95d6c7b01f00197ab8cb"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebd95e6c7b01f00197ab8cc"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebd95fac7b01f00197ab8cd"},"lat":"-4.8654201","lng":"-43.353664","state":"Maranhão","country":"Brasil","city":"Caxias","p":0}
+{"_id":{"$oid":"5ebd9601c7b01f00197ab8ce"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":30}
+{"_id":{"$oid":"5ebd9638c7b01f00197ab8cf"},"lat":"-23.922609899999998","lng":"-46.3257967484184","state":"São Paulo","country":"Brasil","city":"Santos","p":0}
+{"_id":{"$oid":"5ebd9647c7b01f00197ab8d0"},"lat":"-5.6781175","lng":"-36.4781776","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebd966bc7b01f00197ab8d1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebda5dec7b01f00197ab8d4"},"lat":"-23.960833","lng":"-46.333889","state":"São Paulo","country":"Brasil","city":"Santos","p":0}
+{"_id":{"$oid":"5ebda5e4c7b01f00197ab8d5"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebda607c7b01f00197ab8d6"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebda645c7b01f00197ab8d9"},"lat":"-22.2800004","lng":"-42.5325303","state":"Rio de Janeiro","country":"Brasil","city":"Nova Friburgo","p":0}
+{"_id":{"$oid":"5ebda6bfc7b01f00197ab8db"},"lat":"-7.2153453","lng":"-39.3153336","state":"Ceará","country":"Brasil","city":"Juazeiro do Norte","p":1}
+{"_id":{"$oid":"5ebda6dec7b01f00197ab8dc"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebda6e6c7b01f00197ab8dd"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":26}
+{"_id":{"$oid":"5ebda73bc7b01f00197ab8df"},"lat":"-22.2206145","lng":"-54.812208","state":"Mato Grosso do Sul","country":"Brasil","city":"Dourados","p":0}
+{"_id":{"$oid":"5ebda741c7b01f00197ab8e0"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebda74cc7b01f00197ab8e1"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebda75dc7b01f00197ab8e2"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebda770c7b01f00197ab8e3"},"lat":"-22.8733203","lng":"-42.3428897","state":"Rio de Janeiro","country":"Brasil","city":"Araruama","p":4}
+{"_id":{"$oid":"5ebda7bbc7b01f00197ab8e5"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebda7ccc7b01f00197ab8e6"},"lat":"-23.0185151","lng":"-43.4634021","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebda7efc7b01f00197ab8e7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":6661}
+{"_id":{"$oid":"5ebda81cc7b01f00197ab8e8"},"lat":"42.5195891","lng":"12.5152257","state":"Umbria","country":"Italia","city":"Narni","p":0}
+{"_id":{"$oid":"5ebda821c7b01f00197ab8e9"},"lat":"-31.7699736","lng":"-52.3410161","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebda833c7b01f00197ab8ea"},"lat":"18.521428","lng":"73.8544541","state":"Maharashtra","country":"India","city":"Pune","p":0}
+{"_id":{"$oid":"5ebda864c7b01f00197ab8eb"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebda873c7b01f00197ab8ec"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":3}
+{"_id":{"$oid":"5ebda883c7b01f00197ab8ed"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebda8a0c7b01f00197ab8ee"},"lat":"-22.2800004","lng":"-42.5325303","state":"Rio de Janeiro","country":"Brasil","city":"Nova Friburgo","p":2}
+{"_id":{"$oid":"5ebda8bfc7b01f00197ab8f2"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebda8ddc7b01f00197ab8f3"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":1}
+{"_id":{"$oid":"5ebda916c7b01f00197ab8f5"},"lat":"-5.1023325","lng":"-42.8449518","state":"Maranhão","country":"Brasil","city":"Timon","p":0}
+{"_id":{"$oid":"5ebda928c7b01f00197ab8f7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebda964c7b01f00197ab8f8"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":215}
+{"_id":{"$oid":"5ebda999c7b01f00197ab8fa"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebda9a0c7b01f00197ab8fb"},"lat":"-18.8539497","lng":"-41.9458753","state":"Minas Gerais","country":"Brasil","city":"Governador Valadares","p":0}
+{"_id":{"$oid":"5ebda9afc7b01f00197ab8fc"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":2}
+{"_id":{"$oid":"5ebda9e7c7b01f00197ab8fe"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":4600}
+{"_id":{"$oid":"5ebda9ecc7b01f00197ab8ff"},"lat":"-13.250571","lng":"-43.410754","state":"Bahia","country":"Brasil","city":"Bom Jesus da Lapa","p":1}
+{"_id":{"$oid":"5ebda9f8c7b01f00197ab900"},"lat":"-10.6743911","lng":"-37.3773519","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdaa28c7b01f00197ab901"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdaaa5c7b01f00197ab903"},"lat":"-15.7934036","lng":"-47.8823172","state":"Distrito Federal","country":"Brasil","city":"Plano Piloto","p":0}
+{"_id":{"$oid":"5ebdaac4c7b01f00197ab904"},"lat":"-23.1196205","lng":"-47.3359296","state":"São Paulo","country":"Brasil","city":"Salto","p":0}
+{"_id":{"$oid":"5ebdab0fc7b01f00197ab906"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":1}
+{"_id":{"$oid":"5ebdab47c7b01f00197ab909"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebdab74c7b01f00197ab90b"},"lat":"-20.5531437","lng":"-48.5697509","state":"São Paulo","country":"Brasil","city":"Barretos","p":1}
+{"_id":{"$oid":"5ebdab8dc7b01f00197ab90e"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdab99c7b01f00197ab910"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdabbec7b01f00197ab911"},"lat":"-22.72528","lng":"-47.64917","state":"São Paulo","country":"Brasil","city":"Piracicaba","p":1}
+{"_id":{"$oid":"5ebdac73c7b01f00197ab913"},"lat":"53.8069892","lng":"10.1565516","state":"Schleswig-Holstein","country":"Deutschland","city":"Itzstedt","p":4}
+{"_id":{"$oid":"5ebdac7ac7b01f00197ab914"},"lat":"-4.479925","lng":"-63.5185396","state":"Amazonas","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdac90c7b01f00197ab916"},"lat":"-27.4186763","lng":"-49.4760617","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdacabc7b01f00197ab917"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":1}
+{"_id":{"$oid":"5ebdacd1c7b01f00197ab918"},"lat":"-8.7494525","lng":"-63.8735438","state":"Rondônia","country":"Brasil","city":"Porto Velho","p":0}
+{"_id":{"$oid":"5ebdacfec7b01f00197ab919"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdad30c7b01f00197ab91a"},"lat":"-19.968056","lng":"-44.198333","state":"Minas Gerais","country":"Brasil","city":"Betim","p":8}
+{"_id":{"$oid":"5ebdad3ec7b01f00197ab91b"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdad45c7b01f00197ab91c"},"lat":"-9.754866","lng":"-36.661471","state":"Alagoas","country":"Brasil","city":"Arapiraca","p":0}
+{"_id":{"$oid":"5ebdad81c7b01f00197ab91d"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebdadadc7b01f00197ab91f"},"lat":"-24.005833","lng":"-46.402778","state":"São Paulo","country":"Brasil","city":"Praia Grande","p":1}
+{"_id":{"$oid":"5ebdadc4c7b01f00197ab920"},"lat":"-20.4252506","lng":"-49.97226","state":"São Paulo","country":"Brasil","city":"Votuporanga","p":0}
+{"_id":{"$oid":"5ebdadd0c7b01f00197ab921"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdadd8c7b01f00197ab922"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdadf5c7b01f00197ab924"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":4}
+{"_id":{"$oid":"5ebdae13c7b01f00197ab925"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdae1cc7b01f00197ab926"},"lat":"-20.532558","lng":"-43.7150353","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdae37c7b01f00197ab927"},"lat":"-20.263202","lng":"-40.416549","state":"Espírito Santo","country":"Brasil","city":"Cariacica","p":0}
+{"_id":{"$oid":"5ebdae54c7b01f00197ab928"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdae87c7b01f00197ab92b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdaea5c7b01f00197ab92c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdaeadc7b01f00197ab92d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdaf05c7b01f00197ab931"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdaf1ac7b01f00197ab932"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdaf3bc7b01f00197ab933"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdaf59c7b01f00197ab934"},"lat":"-12.9559708","lng":"-38.3943244","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdaf68c7b01f00197ab935"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdaf73c7b01f00197ab936"},"lat":"-22.4099596","lng":"-44.2621818","state":"Rio de Janeiro","country":"Brasil","city":"Quatis","p":0}
+{"_id":{"$oid":"5ebdaf80c7b01f00197ab937"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdaf97c7b01f00197ab938"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdaf9fc7b01f00197ab939"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":1}
+{"_id":{"$oid":"5ebdafb2c7b01f00197ab93a"},"lat":"-19.968056","lng":"-44.198333","state":"Minas Gerais","country":"Brasil","city":"Betim","p":0}
+{"_id":{"$oid":"5ebdafd5c7b01f00197ab93b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdafeac7b01f00197ab93c"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdafefc7b01f00197ab93d"},"lat":"-29.6860512","lng":"-53.8069214","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":16}
+{"_id":{"$oid":"5ebdb011c7b01f00197ab93f"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdb03fc7b01f00197ab940"},"lat":"-25.2954233","lng":"-54.0940666","state":"Paraná","country":"Brasil","city":"Medianeira","p":0}
+{"_id":{"$oid":"5ebdb04fc7b01f00197ab941"},"lat":"-9.0478679","lng":"-70.5264976","state":"Acre","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebdb072c7b01f00197ab942"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":8}
+{"_id":{"$oid":"5ebdb082c7b01f00197ab943"},"lat":"-22.8523198","lng":"-47.14961896903436","state":"São Paulo","country":"Brasil","city":"Campinas","p":26}
+{"_id":{"$oid":"5ebdb0b4c7b01f00197ab944"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":1}
+{"_id":{"$oid":"5ebdb0d8c7b01f00197ab945"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdb0e9c7b01f00197ab946"},"lat":"-21.4835523","lng":"-51.5334408","state":"São Paulo","country":"Brasil","city":"Dracena","p":0}
+{"_id":{"$oid":"5ebdb0f0c7b01f00197ab947"},"lat":"-31.6296698","lng":"-71.1589807","state":"Región de Coquimbo","country":"Chile","city":"Illapel","p":0}
+{"_id":{"$oid":"5ebdb10dc7b01f00197ab948"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb118c7b01f00197ab949"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":7}
+{"_id":{"$oid":"5ebdb123c7b01f00197ab94a"},"lat":"-15.2454478","lng":"-40.2460053","state":"Bahia","country":"Brasil","city":"Itapetinga","p":0}
+{"_id":{"$oid":"5ebdb12ac7b01f00197ab94b"},"lat":"-26.3044898","lng":"-48.8486726","state":"Santa Catarina","country":"Brasil","city":"Joinville","p":0}
+{"_id":{"$oid":"5ebdb13ec7b01f00197ab94c"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdb14fc7b01f00197ab94d"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdb157c7b01f00197ab94e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":343}
+{"_id":{"$oid":"5ebdb169c7b01f00197ab94f"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdb16fc7b01f00197ab950"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdb17cc7b01f00197ab951"},"lat":"-22.8381127","lng":"-43.2764454","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":11}
+{"_id":{"$oid":"5ebdb1afc7b01f00197ab954"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":94}
+{"_id":{"$oid":"5ebdb1cec7b01f00197ab955"},"lat":"-23.6495294","lng":"-46.8528497","state":"São Paulo","country":"Brasil","city":"Embu das Artes","p":1}
+{"_id":{"$oid":"5ebdb1e2c7b01f00197ab956"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb1e7c7b01f00197ab957"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb1edc7b01f00197ab958"},"lat":"-21.7886713","lng":"-48.1773096","state":"São Paulo","country":"Brasil","city":"Araraquara","p":18}
+{"_id":{"$oid":"5ebdb241c7b01f00197ab959"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":298}
+{"_id":{"$oid":"5ebdb247c7b01f00197ab95a"},"lat":"-23.6907307","lng":"-46.7882222","state":"São Paulo","country":"Brasil","city":"São Paulo","p":4}
+{"_id":{"$oid":"5ebdb257c7b01f00197ab95b"},"lat":"-12.2115009","lng":"-55.5716547","state":"Mato Grosso","country":"Brasil","city":null,"p":25}
+{"_id":{"$oid":"5ebdb25cc7b01f00197ab95c"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":1}
+{"_id":{"$oid":"5ebdb265c7b01f00197ab95d"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb27ac7b01f00197ab95e"},"lat":"-24.0469624","lng":"-49.3478448","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb296c7b01f00197ab960"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb2d8c7b01f00197ab961"},"lat":"-22.9402135","lng":"-43.1772229","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdb310c7b01f00197ab962"},"lat":"-22.5225497","lng":"-44.1040128","state":"Rio de Janeiro","country":"Brasil","city":"Volta Redonda","p":1}
+{"_id":{"$oid":"5ebdb344c7b01f00197ab965"},"lat":"-8.2829702","lng":"-35.9722852","state":"Pernambuco","country":"Brasil","city":"Caruaru","p":0}
+{"_id":{"$oid":"5ebdb371c7b01f00197ab966"},"lat":"-22.5225497","lng":"-44.1040128","state":"Rio de Janeiro","country":"Brasil","city":"Volta Redonda","p":0}
+{"_id":{"$oid":"5ebdb3a2c7b01f00197ab967"},"lat":"-22.5261054","lng":"-49.6635412","state":"São Paulo","country":"Brasil","city":"Ubirajara","p":1}
+{"_id":{"$oid":"5ebdb3b1c7b01f00197ab968"},"lat":"-5.3257938","lng":"-42.3549995","state":"Piauí","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb3b9c7b01f00197ab969"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdb3bec7b01f00197ab96a"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdb3edc7b01f00197ab96c"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebdb3fac7b01f00197ab96d"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdb422c7b01f00197ab96f"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdb428c7b01f00197ab970"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdb432c7b01f00197ab971"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":0}
+{"_id":{"$oid":"5ebdb45bc7b01f00197ab972"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb46ec7b01f00197ab973"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdb474c7b01f00197ab974"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":4}
+{"_id":{"$oid":"5ebdb49ec7b01f00197ab975"},"lat":"-9.9765362","lng":"-67.8220778","state":"Acre","country":"Brasil","city":"Rio Branco","p":0}
+{"_id":{"$oid":"5ebdb4cec7b01f00197ab977"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":3}
+{"_id":{"$oid":"5ebdb4dac7b01f00197ab978"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdb4ebc7b01f00197ab979"},"lat":"-22.2800004","lng":"-42.5325303","state":"Rio de Janeiro","country":"Brasil","city":"Nova Friburgo","p":0}
+{"_id":{"$oid":"5ebdb4f0c7b01f00197ab97a"},"lat":"-21.7886713","lng":"-48.1773096","state":"São Paulo","country":"Brasil","city":"Araraquara","p":0}
+{"_id":{"$oid":"5ebdb54ec7b01f00197ab97c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdb564c7b01f00197ab97d"},"lat":"-10.1868824","lng":"-48.33631227662037","state":"Tocantins","country":"Brasil","city":"Palmas","p":3}
+{"_id":{"$oid":"5ebdb5b7c7b01f00197ab97e"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebdb5c9c7b01f00197ab97f"},"lat":"-7.0305698","lng":"-37.2803678","state":"Paraíba","country":"Brasil","city":"Patos","p":0}
+{"_id":{"$oid":"5ebdb5d0c7b01f00197ab980"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdb5fac7b01f00197ab981"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb5ffc7b01f00197ab982"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdb634c7b01f00197ab984"},"lat":"-8.2829702","lng":"-35.9722852","state":"Pernambuco","country":"Brasil","city":"Caruaru","p":0}
+{"_id":{"$oid":"5ebdb63cc7b01f00197ab985"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdb65ac7b01f00197ab986"},"lat":"-5.8193078","lng":"-35.2126281","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdb66ec7b01f00197ab987"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb687c7b01f00197ab988"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebdb695c7b01f00197ab989"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebdb6bac7b01f00197ab98b"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb6d6c7b01f00197ab98c"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb6e3c7b01f00197ab98d"},"lat":"13.1951756","lng":"123.6439368","state":"Albay","country":"Philippines","city":null,"p":0}
+{"_id":{"$oid":"5ebdb710c7b01f00197ab98e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdb72ec7b01f00197ab990"},"lat":"-28.483118","lng":"-48.7811993","state":"Santa Catarina","country":"Brasil","city":"Laguna","p":0}
+{"_id":{"$oid":"5ebdb74cc7b01f00197ab992"},"lat":"-20.4552761","lng":"-54.6376516","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebdb764c7b01f00197ab994"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb7b8c7b01f00197ab997"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":394}
+{"_id":{"$oid":"5ebdb7c7c7b01f00197ab998"},"lat":"-20.719162","lng":"-46.6094507","state":"Minas Gerais","country":"Brasil","city":"Passos","p":1}
+{"_id":{"$oid":"5ebdb7eec7b01f00197ab999"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdb80ac7b01f00197ab99a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb80fc7b01f00197ab99b"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebdb839c7b01f00197ab99c"},"lat":"-0.6407483","lng":"-47.3100383","state":"Pará","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb8abc7b01f00197ab99e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdb8bec7b01f00197ab99f"},"lat":"-23.54888","lng":"-46.933889","state":"São Paulo","country":"Brasil","city":"Itapevi","p":12}
+{"_id":{"$oid":"5ebdb8c6c7b01f00197ab9a0"},"lat":"-23.54888","lng":"-46.933889","state":"São Paulo","country":"Brasil","city":"Itapevi","p":12}
+{"_id":{"$oid":"5ebdb908c7b01f00197ab9a1"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdb90fc7b01f00197ab9a2"},"lat":"-7.2153453","lng":"-39.3153336","state":"Ceará","country":"Brasil","city":"Juazeiro do Norte","p":0}
+{"_id":{"$oid":"5ebdb93ac7b01f00197ab9a3"},"lat":"-9.6611661","lng":"-36.6502426","state":"Alagoas","country":"Brasil","city":null,"p":22}
+{"_id":{"$oid":"5ebdb93fc7b01f00197ab9a4"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdb959c7b01f00197ab9a5"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdb95fc7b01f00197ab9a6"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb97fc7b01f00197ab9a8"},"lat":"-9.6611661","lng":"-36.6502426","state":"Alagoas","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdb992c7b01f00197ab9a9"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb9a6c7b01f00197ab9aa"},"lat":"-22.9319478","lng":"-43.1969954","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb9b5c7b01f00197ab9ab"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdb9c8c7b01f00197ab9ac"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdb9e1c7b01f00197ab9ae"},"lat":"-23.54888","lng":"-46.933889","state":"São Paulo","country":"Brasil","city":"Itapevi","p":12}
+{"_id":{"$oid":"5ebdb9fdc7b01f00197ab9af"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":1}
+{"_id":{"$oid":"5ebdba05c7b01f00197ab9b0"},"lat":"-23.207791","lng":"-46.788919","state":"São Paulo","country":"Brasil","city":"Campo Limpo Paulista","p":0}
+{"_id":{"$oid":"5ebdba34c7b01f00197ab9b1"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":1}
+{"_id":{"$oid":"5ebdba42c7b01f00197ab9b3"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdba5fc7b01f00197ab9b5"},"lat":"-7.2153453","lng":"-39.3153336","state":"Ceará","country":"Brasil","city":"Juazeiro do Norte","p":0}
+{"_id":{"$oid":"5ebdba75c7b01f00197ab9b6"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdba89c7b01f00197ab9b7"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":0}
+{"_id":{"$oid":"5ebdbae3c7b01f00197ab9b8"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":215}
+{"_id":{"$oid":"5ebdbb11c7b01f00197ab9ba"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdbb17c7b01f00197ab9bb"},"lat":"-23.0295183","lng":"-46.9756292","state":"São Paulo","country":"Brasil","city":"Vinhedo","p":145}
+{"_id":{"$oid":"5ebdbb54c7b01f00197ab9bc"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":44}
+{"_id":{"$oid":"5ebdbb83c7b01f00197ab9be"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdbb89c7b01f00197ab9bf"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdbb8fc7b01f00197ab9c0"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdbba1c7b01f00197ab9c1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdbba6c7b01f00197ab9c2"},"lat":"-22.99938015","lng":"-43.35345565","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdbbc5c7b01f00197ab9c3"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":10}
+{"_id":{"$oid":"5ebdbbdac7b01f00197ab9c5"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdbbf1c7b01f00197ab9c7"},"lat":"-22.8753053","lng":"-43.4648805","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdbbf7c7b01f00197ab9c8"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":5}
+{"_id":{"$oid":"5ebdbc11c7b01f00197ab9c9"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdbc16c7b01f00197ab9ca"},"lat":"-22.2343858","lng":"-45.9327241","state":"Minas Gerais","country":"Brasil","city":"Pouso Alegre","p":0}
+{"_id":{"$oid":"5ebdbc53c7b01f00197ab9cd"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdbc5ec7b01f00197ab9ce"},"lat":"35.2197149","lng":"45.94071473041853","state":"پارێزگای ھەڵەبجە","country":"Iraq","city":"هەڵەبجە","p":0}
+{"_id":{"$oid":"5ebdbc76c7b01f00197ab9cf"},"lat":"-5.66925825","lng":"-35.90163397223474","state":"Rio Grande do Norte","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdbcbac7b01f00197ab9d1"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdbd0bc7b01f00197ab9d2"},"lat":"-20.3403595","lng":"-40.3871139","state":"Espírito Santo","country":"Brasil","city":"Cariacica","p":0}
+{"_id":{"$oid":"5ebdbd19c7b01f00197ab9d3"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdbd5fc7b01f00197ab9d5"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdbdb3c7b01f00197ab9d6"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdbdbfc7b01f00197ab9d7"},"lat":"-22.8879628","lng":"-48.4410712","state":"São Paulo","country":"Brasil","city":"Botucatu","p":0}
+{"_id":{"$oid":"5ebdbe00c7b01f00197ab9da"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdbe17c7b01f00197ab9db"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdbe23c7b01f00197ab9dc"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":18}
+{"_id":{"$oid":"5ebdbe2ac7b01f00197ab9dd"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":5}
+{"_id":{"$oid":"5ebdbe74c7b01f00197ab9de"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdbe7fc7b01f00197ab9df"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":40}
+{"_id":{"$oid":"5ebdbea0c7b01f00197ab9e0"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":0}
+{"_id":{"$oid":"5ebdbebec7b01f00197ab9e1"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdbecec7b01f00197ab9e2"},"lat":"-21.832194","lng":"-46.891286","state":"São Paulo","country":"Brasil","city":"Vargem Grande do Sul","p":0}
+{"_id":{"$oid":"5ebdbed7c7b01f00197ab9e3"},"lat":"-23.5234284","lng":"-46.1926671","state":"São Paulo","country":"Brasil","city":"Mogi das Cruzes","p":0}
+{"_id":{"$oid":"5ebdbef2c7b01f00197ab9e4"},"lat":"-23.4430602","lng":"-46.524459","state":"São Paulo","country":"Brasil","city":"Guarulhos","p":0}
+{"_id":{"$oid":"5ebdbefbc7b01f00197ab9e5"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":1}
+{"_id":{"$oid":"5ebdbf18c7b01f00197ab9e7"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdbf43c7b01f00197ab9e8"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdbf51c7b01f00197ab9e9"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":2}
+{"_id":{"$oid":"5ebdbf64c7b01f00197ab9ea"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":1}
+{"_id":{"$oid":"5ebdbf78c7b01f00197ab9eb"},"lat":"-23.08639","lng":"-46.95056","state":"São Paulo","country":"Brasil","city":"Louveira","p":0}
+{"_id":{"$oid":"5ebdbf95c7b01f00197ab9ec"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdbfa8c7b01f00197ab9ed"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":5}
+{"_id":{"$oid":"5ebdbfb4c7b01f00197ab9ee"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebdbfbfc7b01f00197ab9ef"},"lat":"-23.5112184","lng":"-46.8764612","state":"São Paulo","country":"Brasil","city":"Barueri","p":0}
+{"_id":{"$oid":"5ebdbfcdc7b01f00197ab9f0"},"lat":"-20.4790982","lng":"-54.5844399","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebdbfdfc7b01f00197ab9f1"},"lat":"-29.8197019","lng":"-51.1608722","state":"Rio Grande do Sul","country":"Brasil","city":"Sapucaia do Sul","p":0}
+{"_id":{"$oid":"5ebdc019c7b01f00197ab9f4"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc030c7b01f00197ab9f5"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebdc054c7b01f00197ab9f6"},"lat":"-23.5112184","lng":"-46.8764612","state":"São Paulo","country":"Brasil","city":"Barueri","p":0}
+{"_id":{"$oid":"5ebdc06dc7b01f00197ab9f7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":50}
+{"_id":{"$oid":"5ebdc095c7b01f00197ab9f9"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdc0a2c7b01f00197ab9fa"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc0abc7b01f00197ab9fb"},"lat":"-16.7273538","lng":"-43.8717676","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":0}
+{"_id":{"$oid":"5ebdc0d1c7b01f00197ab9fd"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebdc0e2c7b01f00197ab9ff"},"lat":"3.157774","lng":"101.641338","state":"Kuala Lumpur","country":"Malaysia","city":null,"p":0}
+{"_id":{"$oid":"5ebdc144c7b01f00197aba05"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":12}
+{"_id":{"$oid":"5ebdc151c7b01f00197aba07"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdc185c7b01f00197aba08"},"lat":"-31.7636377","lng":"-52.2721084","state":"Rio Grande do Sul","country":"Brasil","city":"Pelotas","p":1}
+{"_id":{"$oid":"5ebdc191c7b01f00197aba09"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebdc1abc7b01f00197aba0b"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdc1bcc7b01f00197aba0c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc1c2c7b01f00197aba0d"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebdc1f5c7b01f00197aba0f"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":1}
+{"_id":{"$oid":"5ebdc1ffc7b01f00197aba10"},"lat":"-19.9601244","lng":"-44.2020531","state":"Minas Gerais","country":"Brasil","city":"Betim","p":0}
+{"_id":{"$oid":"5ebdc208c7b01f00197aba11"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdc22bc7b01f00197aba12"},"lat":"-16.7273538","lng":"-43.8717676","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":0}
+{"_id":{"$oid":"5ebdc251c7b01f00197aba13"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":1}
+{"_id":{"$oid":"5ebdc25fc7b01f00197aba14"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc27bc7b01f00197aba15"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":27}
+{"_id":{"$oid":"5ebdc284c7b01f00197aba16"},"lat":"-27.5973002","lng":"-48.5496098","state":"Santa Catarina","country":"Brasil","city":"Florianópolis","p":4}
+{"_id":{"$oid":"5ebdc29fc7b01f00197aba18"},"lat":"-22.7630391","lng":"-47.1532213","state":"São Paulo","country":"Brasil","city":"Paulínia","p":0}
+{"_id":{"$oid":"5ebdc2a6c7b01f00197aba19"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc2c4c7b01f00197aba1a"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdc2e8c7b01f00197aba1c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc2f2c7b01f00197aba1d"},"lat":"-23.4430602","lng":"-46.524459","state":"São Paulo","country":"Brasil","city":"Guarulhos","p":8}
+{"_id":{"$oid":"5ebdc2f3c7b01f00197aba1e"},"lat":"-22.5394843","lng":"-44.1735129","state":"Rio de Janeiro","country":"Brasil","city":"Barra Mansa","p":8}
+{"_id":{"$oid":"5ebdc320c7b01f00197aba1f"},"lat":"-20.3297293","lng":"-40.2920284","state":"Espírito Santo","country":"Brasil","city":"Vila Velha","p":0}
+{"_id":{"$oid":"5ebdc339c7b01f00197aba20"},"lat":"-22.471162","lng":"-48.987822","state":"São Paulo","country":"Brasil","city":"Agudos","p":1}
+{"_id":{"$oid":"5ebdc34ac7b01f00197aba21"},"lat":"-20.6718755","lng":"-40.4984617","state":"Espírito Santo","country":"Brasil","city":"Guarapari","p":0}
+{"_id":{"$oid":"5ebdc361c7b01f00197aba23"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":16}
+{"_id":{"$oid":"5ebdc384c7b01f00197aba24"},"lat":"-23.397621","lng":"-45.848714","state":"São Paulo","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebdc398c7b01f00197aba25"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdc3bcc7b01f00197aba27"},"lat":"-22.783092","lng":"-43.4293599","state":"Rio de Janeiro","country":"Brasil","city":"Mesquita","p":1}
+{"_id":{"$oid":"5ebdc3c3c7b01f00197aba28"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":0}
+{"_id":{"$oid":"5ebdc3d0c7b01f00197aba29"},"lat":"-19.9854089","lng":"-43.8470691","state":"Minas Gerais","country":"Brasil","city":"Nova Lima","p":0}
+{"_id":{"$oid":"5ebdc3e2c7b01f00197aba2a"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":1}
+{"_id":{"$oid":"5ebdc3ffc7b01f00197aba2b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc41dc7b01f00197aba2c"},"lat":"-22.7392463","lng":"-47.3306032","state":"São Paulo","country":"Brasil","city":"Americana","p":0}
+{"_id":{"$oid":"5ebdc426c7b01f00197aba2d"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdc444c7b01f00197aba2f"},"lat":"-7.9340069","lng":"-34.868407","state":"Pernambuco","country":"Brasil","city":"Paulista","p":0}
+{"_id":{"$oid":"5ebdc44ac7b01f00197aba30"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdc458c7b01f00197aba31"},"lat":"-11.135426","lng":"-42.1110123","state":"Bahia","country":"Brasil","city":"Central","p":4}
+{"_id":{"$oid":"5ebdc46bc7b01f00197aba32"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":0}
+{"_id":{"$oid":"5ebdc472c7b01f00197aba33"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdc485c7b01f00197aba35"},"lat":"-8.3338293","lng":"-36.4176419","state":"Pernambuco","country":"Brasil","city":"Belo Jardim","p":0}
+{"_id":{"$oid":"5ebdc491c7b01f00197aba36"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":17}
+{"_id":{"$oid":"5ebdc4a4c7b01f00197aba37"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdc4b3c7b01f00197aba38"},"lat":"-23.5313199","lng":"-46.6201873","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdc4c7c7b01f00197aba39"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":1}
+{"_id":{"$oid":"5ebdc4cdc7b01f00197aba3a"},"lat":"-20.3297293","lng":"-40.2920284","state":"Espírito Santo","country":"Brasil","city":"Vila Velha","p":0}
+{"_id":{"$oid":"5ebdc4f1c7b01f00197aba3b"},"lat":"-7.9340069","lng":"-34.868407","state":"Pernambuco","country":"Brasil","city":"Paulista","p":0}
+{"_id":{"$oid":"5ebdc4f6c7b01f00197aba3c"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdc50cc7b01f00197aba3d"},"lat":"-8.7494525","lng":"-63.8735438","state":"Rondônia","country":"Brasil","city":"Porto Velho","p":0}
+{"_id":{"$oid":"5ebdc571c7b01f00197aba40"},"lat":"-22.7392463","lng":"-47.3306032","state":"São Paulo","country":"Brasil","city":"Americana","p":0}
+{"_id":{"$oid":"5ebdc579c7b01f00197aba41"},"lat":"51.5455033","lng":"13.9581679","state":"Brandenburg","country":"Deutschland","city":null,"p":0}
+{"_id":{"$oid":"5ebdc584c7b01f00197aba42"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdc590c7b01f00197aba43"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdc5a0c7b01f00197aba44"},"lat":"-22.5783685","lng":"-44.9642044","state":"São Paulo","country":"Brasil","city":"Cruzeiro","p":0}
+{"_id":{"$oid":"5ebdc607c7b01f00197aba45"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":3}
+{"_id":{"$oid":"5ebdc656c7b01f00197aba46"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdc678c7b01f00197aba47"},"lat":"-22.783092","lng":"-43.4293599","state":"Rio de Janeiro","country":"Brasil","city":"Mesquita","p":1}
+{"_id":{"$oid":"5ebdc682c7b01f00197aba48"},"lat":"-22.7630391","lng":"-47.1532213","state":"São Paulo","country":"Brasil","city":"Paulínia","p":0}
+{"_id":{"$oid":"5ebdc688c7b01f00197aba49"},"lat":"-24.9487336","lng":"-53.4773925","state":"Paraná","country":"Brasil","city":"Cascavel","p":1}
+{"_id":{"$oid":"5ebdc699c7b01f00197aba4b"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":203}
+{"_id":{"$oid":"5ebdc6b9c7b01f00197aba4d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc6d7c7b01f00197aba4e"},"lat":"-26.4832715","lng":"-49.0823164","state":"Santa Catarina","country":"Brasil","city":"Jaraguá do Sul","p":0}
+{"_id":{"$oid":"5ebdc71bc7b01f00197aba51"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc73cc7b01f00197aba52"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc750c7b01f00197aba53"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":3}
+{"_id":{"$oid":"5ebdc765c7b01f00197aba54"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":0}
+{"_id":{"$oid":"5ebdc77cc7b01f00197aba55"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":237}
+{"_id":{"$oid":"5ebdc781c7b01f00197aba56"},"lat":"-20.896505","lng":"-51.3742765","state":"São Paulo","country":"Brasil","city":"Andradina","p":0}
+{"_id":{"$oid":"5ebdc78fc7b01f00197aba57"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebdc794c7b01f00197aba58"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdc7adc7b01f00197aba5b"},"lat":"-10.6019733","lng":"-67.7842232","state":"Acre","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdc7b4c7b01f00197aba5c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":237}
+{"_id":{"$oid":"5ebdc7bfc7b01f00197aba5d"},"lat":"-16.7100394","lng":"-43.8414705","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":1}
+{"_id":{"$oid":"5ebdc82ac7b01f00197aba61"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdc84ec7b01f00197aba63"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":2}
+{"_id":{"$oid":"5ebdc85ac7b01f00197aba64"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdc861c7b01f00197aba65"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdc890c7b01f00197aba67"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdc89ac7b01f00197aba68"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdc8a5c7b01f00197aba69"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdc8afc7b01f00197aba6a"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":7}
+{"_id":{"$oid":"5ebdc8b5c7b01f00197aba6b"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":7}
+{"_id":{"$oid":"5ebdc8bac7b01f00197aba6c"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdc8c0c7b01f00197aba6d"},"lat":"-23.5234284","lng":"-46.1926671","state":"São Paulo","country":"Brasil","city":"Mogi das Cruzes","p":0}
+{"_id":{"$oid":"5ebdc8ccc7b01f00197aba6e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdc8dfc7b01f00197aba6f"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdc8e9c7b01f00197aba70"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdc8f1c7b01f00197aba71"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdc8f8c7b01f00197aba72"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdc907c7b01f00197aba74"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc90cc7b01f00197aba75"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":77}
+{"_id":{"$oid":"5ebdc911c7b01f00197aba76"},"lat":"-5.0896403","lng":"-42.809588","state":"Piauí","country":"Brasil","city":"Teresina","p":0}
+{"_id":{"$oid":"5ebdc918c7b01f00197aba77"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc929c7b01f00197aba79"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdc95ec7b01f00197aba7c"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdc98fc7b01f00197aba7e"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdc9a1c7b01f00197aba7f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdc9b5c7b01f00197aba80"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdc9ffc7b01f00197aba83"},"lat":"-22.9218864","lng":"-43.384646","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdca2bc7b01f00197aba84"},"lat":"-8.2829702","lng":"-35.9722852","state":"Pernambuco","country":"Brasil","city":"Caruaru","p":0}
+{"_id":{"$oid":"5ebdca38c7b01f00197aba85"},"lat":"-21.4123651","lng":"-42.1965147","state":"Rio de Janeiro","country":"Brasil","city":"Miracema","p":0}
+{"_id":{"$oid":"5ebdca6bc7b01f00197aba87"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdcaa9c7b01f00197aba8a"},"lat":"-14.29507325","lng":"-41.659307508575985","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdcaf0c7b01f00197aba8b"},"lat":"-23.960833","lng":"-46.333889","state":"São Paulo","country":"Brasil","city":"Santos","p":0}
+{"_id":{"$oid":"5ebdcaffc7b01f00197aba8c"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdcb1ac7b01f00197aba8d"},"lat":"-21.9770359","lng":"-44.9318289","state":"Minas Gerais","country":"Brasil","city":"Caxambu","p":0}
+{"_id":{"$oid":"5ebdcb4bc7b01f00197aba8e"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdcb84c7b01f00197aba91"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdcba5c7b01f00197aba92"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":0}
+{"_id":{"$oid":"5ebdcbc2c7b01f00197aba93"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdcbc7c7b01f00197aba94"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdcbccc7b01f00197aba95"},"lat":"-22.94803","lng":"-43.362903","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdcbd7c7b01f00197aba96"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdcbe6c7b01f00197aba97"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdcc04c7b01f00197aba98"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdcc15c7b01f00197aba99"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdcc27c7b01f00197aba9a"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdcc55c7b01f00197aba9b"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdcc71c7b01f00197aba9c"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdcc98c7b01f00197aba9e"},"lat":"-20.896505","lng":"-51.3742765","state":"São Paulo","country":"Brasil","city":"Andradina","p":0}
+{"_id":{"$oid":"5ebdcd02c7b01f00197abaa1"},"lat":"-22.4040394","lng":"-43.6633853","state":"Rio de Janeiro","country":"Brasil","city":"Vassouras","p":0}
+{"_id":{"$oid":"5ebdcd0ac7b01f00197abaa2"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdcd21c7b01f00197abaa3"},"lat":"-23.960833","lng":"-46.333889","state":"São Paulo","country":"Brasil","city":"Santos","p":10}
+{"_id":{"$oid":"5ebdcd38c7b01f00197abaa4"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdcd53c7b01f00197abaa5"},"lat":"-22.4040394","lng":"-43.6633853","state":"Rio de Janeiro","country":"Brasil","city":"Vassouras","p":0}
+{"_id":{"$oid":"5ebdcd87c7b01f00197abaa9"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdcd8cc7b01f00197abaaa"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdcd98c7b01f00197abaab"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdcddec7b01f00197abaaf"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdce2ac7b01f00197abab1"},"lat":"-14.9574309","lng":"-40.9275914","state":"Bahia","country":"Brasil","city":"Vitória da Conquista","p":0}
+{"_id":{"$oid":"5ebdce36c7b01f00197abab3"},"lat":"10.7527849","lng":"122.543404","state":"Iloilo","country":"Philippines","city":"Iloilo City","p":0}
+{"_id":{"$oid":"5ebdce49c7b01f00197abab4"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdce6dc7b01f00197abab5"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebdce73c7b01f00197abab6"},"lat":"-13.7486603","lng":"-41.1224699","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdce7fc7b01f00197abab7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdce8fc7b01f00197abab8"},"lat":"-29.1222037","lng":"-56.5551258","state":"Rio Grande do Sul","country":"Brasil","city":"Itaqui","p":0}
+{"_id":{"$oid":"5ebdcea5c7b01f00197abab9"},"lat":"-4.479925","lng":"-63.5185396","state":"Amazonas","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdceb1c7b01f00197ababb"},"lat":"-20.3297293","lng":"-40.2920284","state":"Espírito Santo","country":"Brasil","city":"Vila Velha","p":1}
+{"_id":{"$oid":"5ebdcec6c7b01f00197ababc"},"lat":"-19.9601244","lng":"-44.2020531","state":"Minas Gerais","country":"Brasil","city":"Betim","p":0}
+{"_id":{"$oid":"5ebdcef6c7b01f00197ababd"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdcefcc7b01f00197ababe"},"lat":"-7.0305698","lng":"-37.2803678","state":"Paraíba","country":"Brasil","city":"Patos","p":0}
+{"_id":{"$oid":"5ebdcf0bc7b01f00197ababf"},"lat":"-9.5104644","lng":"-35.79300921812715","state":"Alagoas","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdcf58c7b01f00197abac0"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdcf9ec7b01f00197abac1"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdcfb6c7b01f00197abac2"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdcfc9c7b01f00197abac3"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdcfd4c7b01f00197abac4"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdcfe0c7b01f00197abac5"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdcfecc7b01f00197abac7"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdd001c7b01f00197abac9"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd00cc7b01f00197abaca"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd01dc7b01f00197abacb"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdd052c7b01f00197abace"},"lat":"-12.89242","lng":"-38.3127691","state":"Bahia","country":"Brasil","city":"Lauro de Freitas","p":1}
+{"_id":{"$oid":"5ebdd073c7b01f00197abacf"},"lat":"-3.6879135","lng":"-40.3456372","state":"Ceará","country":"Brasil","city":"Sobral","p":12}
+{"_id":{"$oid":"5ebdd078c7b01f00197abad0"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdd084c7b01f00197abad1"},"lat":"-22.8381127","lng":"-43.2764454","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebdd089c7b01f00197abad2"},"lat":"-7.2369112","lng":"-39.4149236","state":"Ceará","country":"Brasil","city":"Crato","p":0}
+{"_id":{"$oid":"5ebdd0bcc7b01f00197abad3"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd0dec7b01f00197abad4"},"lat":"-23.603889","lng":"-46.918889","state":"São Paulo","country":"Brasil","city":"Cotia","p":1}
+{"_id":{"$oid":"5ebdd11fc7b01f00197abad5"},"lat":"-29.3754437","lng":"-49.942689","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd12ac7b01f00197abad6"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd133c7b01f00197abad7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd16cc7b01f00197abad9"},"lat":"-21.5900076","lng":"-48.3478798303139","state":"São Paulo","country":"Brasil","city":null,"p":4}
+{"_id":{"$oid":"5ebdd179c7b01f00197abada"},"lat":"-5.9468972","lng":"-36.6502541","state":"Rio Grande do Norte","country":"Brasil","city":"Santana do Matos","p":46}
+{"_id":{"$oid":"5ebdd195c7b01f00197abadb"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdd199c7b01f00197abadc"},"lat":"-23.681347","lng":"-46.62052","state":"São Paulo","country":"Brasil","city":"Diadema","p":0}
+{"_id":{"$oid":"5ebdd1a8c7b01f00197abadd"},"lat":"-23.681347","lng":"-46.62052","state":"São Paulo","country":"Brasil","city":"Diadema","p":0}
+{"_id":{"$oid":"5ebdd1bec7b01f00197abadf"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebdd1d7c7b01f00197abae0"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd1fec7b01f00197abae2"},"lat":"-19.7443601","lng":"-40.37570463546963","state":"Espírito Santo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd217c7b01f00197abae3"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdd245c7b01f00197abae4"},"lat":"-22.8043744","lng":"-43.3724125","state":"Rio de Janeiro","country":"Brasil","city":"São João de Meriti","p":0}
+{"_id":{"$oid":"5ebdd262c7b01f00197abae5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd26cc7b01f00197abae6"},"lat":"-16.7273538","lng":"-43.8717676","state":"Minas Gerais","country":"Brasil","city":"Montes Claros","p":0}
+{"_id":{"$oid":"5ebdd27ec7b01f00197abae8"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd29ac7b01f00197abae9"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdd2b2c7b01f00197abaea"},"lat":"-20.4790982","lng":"-54.5844399","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":5}
+{"_id":{"$oid":"5ebdd2c2c7b01f00197abaeb"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdd2d9c7b01f00197abaec"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd2ecc7b01f00197abaed"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdd2f2c7b01f00197abaee"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd2ffc7b01f00197abaef"},"lat":"-28.5156153","lng":"-49.3233007","state":"Santa Catarina","country":"Brasil","city":null,"p":3}
+{"_id":{"$oid":"5ebdd325c7b01f00197abaf1"},"lat":"-22.783092","lng":"-43.4293599","state":"Rio de Janeiro","country":"Brasil","city":"Mesquita","p":3}
+{"_id":{"$oid":"5ebdd346c7b01f00197abaf2"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd34dc7b01f00197abaf3"},"lat":"-21.6114892","lng":"-48.8144992","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd353c7b01f00197abaf4"},"lat":"-22.9507646","lng":"-43.181795","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd362c7b01f00197abaf5"},"lat":"-22.8484866","lng":"-43.2706124","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd39ac7b01f00197abaf6"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdd3c1c7b01f00197abaf8"},"lat":"-17.35442","lng":"-44.9186695","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd3ccc7b01f00197abaf9"},"lat":"-25.4849252","lng":"-49.2153133","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdd3e1c7b01f00197abafa"},"lat":"-22.9965861","lng":"-46.8412042","state":"São Paulo","country":"Brasil","city":"Itatiba","p":0}
+{"_id":{"$oid":"5ebdd3f9c7b01f00197abafb"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":1}
+{"_id":{"$oid":"5ebdd40ec7b01f00197abafd"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebdd456c7b01f00197abafe"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd485c7b01f00197abaff"},"lat":"-23.54888","lng":"-46.933889","state":"São Paulo","country":"Brasil","city":"Itapevi","p":0}
+{"_id":{"$oid":"5ebdd49cc7b01f00197abb00"},"lat":"-9.6611661","lng":"-36.6502426","state":"Alagoas","country":"Brasil","city":null,"p":22}
+{"_id":{"$oid":"5ebdd4a8c7b01f00197abb01"},"lat":"-1.6292632","lng":"-45.2368151","state":"Maranhão","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd4e4c7b01f00197abb02"},"lat":"-15.6734913","lng":"-38.9507991","state":"Bahia","country":"Brasil","city":null,"p":2}
+{"_id":{"$oid":"5ebdd50dc7b01f00197abb03"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd525c7b01f00197abb04"},"lat":"-21.18862445","lng":"-47.77474175178561","state":"São Paulo","country":"Brasil","city":"Ribeirão Preto","p":0}
+{"_id":{"$oid":"5ebdd535c7b01f00197abb06"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":1}
+{"_id":{"$oid":"5ebdd58ac7b01f00197abb0a"},"lat":"-23.960833","lng":"-46.333889","state":"São Paulo","country":"Brasil","city":"Santos","p":0}
+{"_id":{"$oid":"5ebdd5a4c7b01f00197abb0b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd5b6c7b01f00197abb0c"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdd5bcc7b01f00197abb0d"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdd5e4c7b01f00197abb10"},"lat":"-22.8844868","lng":"-49.2353425","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdd5fec7b01f00197abb11"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebdd627c7b01f00197abb12"},"lat":"-20.4226107","lng":"-50.0861511","state":"São Paulo","country":"Brasil","city":"Valentim Gentil","p":0}
+{"_id":{"$oid":"5ebdd64cc7b01f00197abb14"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":11}
+{"_id":{"$oid":"5ebdd666c7b01f00197abb17"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":12}
+{"_id":{"$oid":"5ebdd6b5c7b01f00197abb1a"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdd6bcc7b01f00197abb1b"},"lat":"-20.3297293","lng":"-40.2920284","state":"Espírito Santo","country":"Brasil","city":"Vila Velha","p":0}
+{"_id":{"$oid":"5ebdd6dcc7b01f00197abb1d"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdd6e3c7b01f00197abb1e"},"lat":"-8.1153337","lng":"115.1083287","state":"Bali","country":"Indonesia","city":null,"p":1}
+{"_id":{"$oid":"5ebdd6f8c7b01f00197abb20"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdd7a0c7b01f00197abb25"},"lat":"-7.6307956","lng":"-72.6703869","state":"Acre","country":"Brasil","city":"Cruzeiro do Sul","p":0}
+{"_id":{"$oid":"5ebdd7cfc7b01f00197abb26"},"lat":"-23.4430602","lng":"-46.524459","state":"São Paulo","country":"Brasil","city":"Guarulhos","p":0}
+{"_id":{"$oid":"5ebdd7ddc7b01f00197abb27"},"lat":"-22.9719642","lng":"-43.1843432","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd7e8c7b01f00197abb28"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":1}
+{"_id":{"$oid":"5ebdd7f3c7b01f00197abb29"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd813c7b01f00197abb2a"},"lat":"-23.54888","lng":"-46.933889","state":"São Paulo","country":"Brasil","city":"Itapevi","p":1}
+{"_id":{"$oid":"5ebdd83ec7b01f00197abb2c"},"lat":"-5.1983553","lng":"-39.2955573","state":"Ceará","country":"Brasil","city":"Quixeramobim","p":0}
+{"_id":{"$oid":"5ebdd854c7b01f00197abb2d"},"lat":"-6.33426105","lng":"106.86956615220748","state":null,"country":"Indonesia","city":"Daerah Khusus Ibukota Jakarta","p":0}
+{"_id":{"$oid":"5ebdd85bc7b01f00197abb2e"},"lat":"-10.1835604","lng":"-48.3337793","state":"Tocantins","country":"Brasil","city":"Palmas","p":0}
+{"_id":{"$oid":"5ebdd866c7b01f00197abb2f"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdd86ec7b01f00197abb30"},"lat":"-12.2115009","lng":"-55.5716547","state":"Mato Grosso","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd886c7b01f00197abb32"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdd896c7b01f00197abb33"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdd8b9c7b01f00197abb34"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":2}
+{"_id":{"$oid":"5ebdd8cdc7b01f00197abb35"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdd8e6c7b01f00197abb37"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdd90ec7b01f00197abb38"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdd913c7b01f00197abb39"},"lat":"-23.6987215","lng":"-46.5354978","state":"São Paulo","country":"Brasil","city":"São Bernardo do Campo","p":0}
+{"_id":{"$oid":"5ebdd940c7b01f00197abb3b"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd982c7b01f00197abb3c"},"lat":"-19.9601244","lng":"-44.2020531","state":"Minas Gerais","country":"Brasil","city":"Betim","p":0}
+{"_id":{"$oid":"5ebdd98fc7b01f00197abb3d"},"lat":"-9.3991006","lng":"-38.226711","state":"Bahia","country":"Brasil","city":"Paulo Afonso","p":0}
+{"_id":{"$oid":"5ebdd9a0c7b01f00197abb3e"},"lat":"-23.501667","lng":"-47.458056","state":"São Paulo","country":"Brasil","city":"Sorocaba","p":0}
+{"_id":{"$oid":"5ebdd9b9c7b01f00197abb3f"},"lat":"-23.1177393","lng":"-46.5547861","state":"São Paulo","country":"Brasil","city":"Atibaia","p":0}
+{"_id":{"$oid":"5ebdd9bec7b01f00197abb40"},"lat":"-22.9201334","lng":"-43.9437015","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdd9cac7b01f00197abb41"},"lat":"-22.7896225","lng":"-43.309929","state":"Rio de Janeiro","country":"Brasil","city":"Duque de Caxias","p":3}
+{"_id":{"$oid":"5ebdda16c7b01f00197abb44"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdda39c7b01f00197abb45"},"lat":"-19.7375242","lng":"-45.2517288","state":"Minas Gerais","country":"Brasil","city":"Bom Despacho","p":0}
+{"_id":{"$oid":"5ebdda45c7b01f00197abb46"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdda62c7b01f00197abb47"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":2}
+{"_id":{"$oid":"5ebdda69c7b01f00197abb48"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebddacfc7b01f00197abb4b"},"lat":"-8.073734","lng":"-39.12469","state":"Pernambuco","country":"Brasil","city":"Salgueiro","p":0}
+{"_id":{"$oid":"5ebddae4c7b01f00197abb4c"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebddaf4c7b01f00197abb4d"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebddb13c7b01f00197abb4e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebddb1cc7b01f00197abb4f"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebddb57c7b01f00197abb50"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebddb5dc7b01f00197abb51"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebddb6bc7b01f00197abb52"},"lat":"-28.2616138","lng":"-52.4089048","state":"Rio Grande do Sul","country":"Brasil","city":"Passo Fundo","p":0}
+{"_id":{"$oid":"5ebddb77c7b01f00197abb54"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddb7fc7b01f00197abb55"},"lat":"-15.7754462","lng":"-47.7970891","state":"Distrito Federal","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebddb84c7b01f00197abb56"},"lat":"-22.3610989","lng":"-47.398119","state":"São Paulo","country":"Brasil","city":"Araras","p":0}
+{"_id":{"$oid":"5ebddb8bc7b01f00197abb57"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebddbaac7b01f00197abb58"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebddbbac7b01f00197abb59"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebddbf9c7b01f00197abb5b"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebddbfec7b01f00197abb5c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddc0ac7b01f00197abb5d"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":2}
+{"_id":{"$oid":"5ebddc41c7b01f00197abb5e"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":2}
+{"_id":{"$oid":"5ebddc50c7b01f00197abb5f"},"lat":"-22.8484866","lng":"-43.2706124","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddc59c7b01f00197abb60"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddc60c7b01f00197abb61"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebddc86c7b01f00197abb62"},"lat":"-23.52072615","lng":"-46.1757620253434","state":"São Paulo","country":"Brasil","city":"Mogi das Cruzes","p":1}
+{"_id":{"$oid":"5ebddcadc7b01f00197abb64"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebddcbec7b01f00197abb65"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebddcd1c7b01f00197abb66"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebddd09c7b01f00197abb67"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":3}
+{"_id":{"$oid":"5ebddd2cc7b01f00197abb68"},"lat":"-22.9191926","lng":"-43.1796947","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddd31c7b01f00197abb69"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebddd4dc7b01f00197abb6a"},"lat":"-22.7667284","lng":"-43.4033603","state":"Rio de Janeiro","country":"Brasil","city":"Belford Roxo","p":0}
+{"_id":{"$oid":"5ebddd6bc7b01f00197abb6b"},"lat":"-29.3373663","lng":"-49.7299648","state":"Rio Grande do Sul","country":"Brasil","city":"Torres","p":0}
+{"_id":{"$oid":"5ebddd70c7b01f00197abb6c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddd7bc7b01f00197abb6d"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebddd95c7b01f00197abb6e"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":1}
+{"_id":{"$oid":"5ebdddb2c7b01f00197abb6f"},"lat":"15.4905045","lng":"120.9684264","state":"Nueva Ecija","country":"Philippines","city":"Cabanatuan","p":0}
+{"_id":{"$oid":"5ebdddbdc7b01f00197abb70"},"lat":"-21.7609533","lng":"-43.3501129","state":"Minas Gerais","country":"Brasil","city":"Juiz de Fora","p":0}
+{"_id":{"$oid":"5ebdddecc7b01f00197abb72"},"lat":"21.7402006","lng":"-78.7928873","state":"Ciego de Ávila","country":"Cuba","city":null,"p":26}
+{"_id":{"$oid":"5ebdddf4c7b01f00197abb73"},"lat":"-23.7074096","lng":"-47.4252319","state":"São Paulo","country":"Brasil","city":"Piedade","p":1}
+{"_id":{"$oid":"5ebdde07c7b01f00197abb75"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdde25c7b01f00197abb76"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdde56c7b01f00197abb77"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddeadc7b01f00197abb79"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":13}
+{"_id":{"$oid":"5ebddf26c7b01f00197abb7a"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":1}
+{"_id":{"$oid":"5ebddf38c7b01f00197abb7b"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebddf3ec7b01f00197abb7c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddf51c7b01f00197abb7d"},"lat":"-12.89242","lng":"-38.3127691","state":"Bahia","country":"Brasil","city":"Lauro de Freitas","p":0}
+{"_id":{"$oid":"5ebddf67c7b01f00197abb7e"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebddf80c7b01f00197abb7f"},"lat":"-29.6860512","lng":"-53.8069214","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":0}
+{"_id":{"$oid":"5ebddfa8c7b01f00197abb80"},"lat":"21.7402006","lng":"-78.7928873","state":"Ciego de Ávila","country":"Cuba","city":null,"p":26}
+{"_id":{"$oid":"5ebddfaec7b01f00197abb81"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebddfd5c7b01f00197abb82"},"lat":"21.7402006","lng":"-78.7928873","state":"Ciego de Ávila","country":"Cuba","city":null,"p":26}
+{"_id":{"$oid":"5ebddfdec7b01f00197abb83"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebddfe8c7b01f00197abb84"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebde082c7b01f00197abb87"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebde0b3c7b01f00197abb89"},"lat":"-23.51060435","lng":"-46.639857203774525","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebde0dec7b01f00197abb8a"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebde0f8c7b01f00197abb8b"},"lat":"-22.6109158","lng":"-43.7096912","state":"Rio de Janeiro","country":"Brasil","city":"Paracambi","p":3}
+{"_id":{"$oid":"5ebde11bc7b01f00197abb8c"},"lat":"-26.9195567","lng":"-49.0658025","state":"Santa Catarina","country":"Brasil","city":"Blumenau","p":15}
+{"_id":{"$oid":"5ebde122c7b01f00197abb8d"},"lat":"-29.6860512","lng":"-53.8069214","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":0}
+{"_id":{"$oid":"5ebde13ec7b01f00197abb8f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde144c7b01f00197abb90"},"lat":"-28.5156153","lng":"-49.3233007","state":"Santa Catarina","country":"Brasil","city":null,"p":3}
+{"_id":{"$oid":"5ebde149c7b01f00197abb91"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebde158c7b01f00197abb92"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebde162c7b01f00197abb93"},"lat":"-19.7900887","lng":"-42.140533","state":"Minas Gerais","country":"Brasil","city":"Caratinga","p":0}
+{"_id":{"$oid":"5ebde18cc7b01f00197abb94"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebde1adc7b01f00197abb95"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":2}
+{"_id":{"$oid":"5ebde1bcc7b01f00197abb96"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebde1eac7b01f00197abb98"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebde241c7b01f00197abb99"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde248c7b01f00197abb9a"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebde286c7b01f00197abb9b"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebde293c7b01f00197abb9c"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebde2afc7b01f00197abb9d"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde2dac7b01f00197abb9e"},"lat":"-29.6905705","lng":"-51.1429035","state":"Rio Grande do Sul","country":"Brasil","city":"Novo Hamburgo","p":2}
+{"_id":{"$oid":"5ebde33ec7b01f00197abb9f"},"lat":"-14.2616552","lng":"-71.2264737","state":"Cusco","country":"Peru","city":null,"p":0}
+{"_id":{"$oid":"5ebde359c7b01f00197abba0"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebde37fc7b01f00197abba1"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":2}
+{"_id":{"$oid":"5ebde3a0c7b01f00197abba3"},"lat":"-26.3044898","lng":"-48.8486726","state":"Santa Catarina","country":"Brasil","city":"Joinville","p":0}
+{"_id":{"$oid":"5ebde3aac7b01f00197abba4"},"lat":"-23.5112184","lng":"-46.8764612","state":"São Paulo","country":"Brasil","city":"Barueri","p":1}
+{"_id":{"$oid":"5ebde3dcc7b01f00197abba6"},"lat":"-23.5112184","lng":"-46.8764612","state":"São Paulo","country":"Brasil","city":"Barueri","p":0}
+{"_id":{"$oid":"5ebde464c7b01f00197abbab"},"lat":"-22.4099596","lng":"-44.2621818","state":"Rio de Janeiro","country":"Brasil","city":"Quatis","p":2}
+{"_id":{"$oid":"5ebde4b6c7b01f00197abbac"},"lat":"-22.8626496","lng":"-43.2937874","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebde4bec7b01f00197abbad"},"lat":"-22.741347","lng":"-46.894846","state":"São Paulo","country":"Brasil","city":"Pedreira","p":0}
+{"_id":{"$oid":"5ebde4e1c7b01f00197abbaf"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde505c7b01f00197abbb0"},"lat":"-22.8804369","lng":"-42.0189227","state":"Rio de Janeiro","country":"Brasil","city":"Cabo Frio","p":0}
+{"_id":{"$oid":"5ebde51cc7b01f00197abbb2"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebde52ac7b01f00197abbb3"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde540c7b01f00197abbb4"},"lat":"-20.282223","lng":"-45.539444","state":"Minas Gerais","country":"Brasil","city":"Arcos","p":0}
+{"_id":{"$oid":"5ebde55ac7b01f00197abbb5"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde571c7b01f00197abbb7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde59cc7b01f00197abbb9"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":3}
+{"_id":{"$oid":"5ebde5a8c7b01f00197abbba"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebde5b1c7b01f00197abbbb"},"lat":"-9.571664349999999","lng":"-40.961051765435606","state":null,"country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde5d8c7b01f00197abbbc"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebde5e3c7b01f00197abbbd"},"lat":"-10.7299404","lng":"-37.188505750000004","state":"Sergipe","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde5ebc7b01f00197abbbe"},"lat":"-31.6296698","lng":"-71.1589807","state":"Región de Coquimbo","country":"Chile","city":"Illapel","p":1}
+{"_id":{"$oid":"5ebde610c7b01f00197abbbf"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":0}
+{"_id":{"$oid":"5ebde625c7b01f00197abbc0"},"lat":"-19.750833","lng":"-47.936666","state":"Minas Gerais","country":"Brasil","city":"Uberaba","p":0}
+{"_id":{"$oid":"5ebde644c7b01f00197abbc2"},"lat":"-5.9153334","lng":"-35.2679913","state":"Rio Grande do Norte","country":"Brasil","city":"Parnamirim","p":5}
+{"_id":{"$oid":"5ebde669c7b01f00197abbc3"},"lat":"-22.8772743","lng":"-43.4301032","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde678c7b01f00197abbc4"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde689c7b01f00197abbc5"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebde69ec7b01f00197abbc6"},"lat":"-21.387426","lng":"-42.6957219","state":"Minas Gerais","country":"Brasil","city":"Cataguases","p":0}
+{"_id":{"$oid":"5ebde6d5c7b01f00197abbc8"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde71ec7b01f00197abbc9"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde759c7b01f00197abbcb"},"lat":"-22.4626861","lng":"-42.6534414","state":"Rio de Janeiro","country":"Brasil","city":"Cachoeiras de Macacu","p":0}
+{"_id":{"$oid":"5ebde78ec7b01f00197abbcc"},"lat":"-19.905062649999998","lng":"-43.975426727127186","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebde7bcc7b01f00197abbcd"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebde82dc7b01f00197abbce"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebde844c7b01f00197abbcf"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde86bc7b01f00197abbd1"},"lat":"-21.7886713","lng":"-48.1773096","state":"São Paulo","country":"Brasil","city":"Araraquara","p":0}
+{"_id":{"$oid":"5ebde87fc7b01f00197abbd3"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":11}
+{"_id":{"$oid":"5ebde892c7b01f00197abbd4"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde8efc7b01f00197abbd5"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde929c7b01f00197abbd6"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":1}
+{"_id":{"$oid":"5ebde93bc7b01f00197abbd7"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebde95dc7b01f00197abbd9"},"lat":"-20.6718755","lng":"-40.4984617","state":"Espírito Santo","country":"Brasil","city":"Guarapari","p":0}
+{"_id":{"$oid":"5ebde972c7b01f00197abbda"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebde976c7b01f00197abbdb"},"lat":"-23.3507307","lng":"-44.7256883","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde98dc7b01f00197abbdd"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":3}
+{"_id":{"$oid":"5ebde996c7b01f00197abbde"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebde9bdc7b01f00197abbe1"},"lat":"-23.2196461","lng":"-44.7154196","state":"Rio de Janeiro","country":"Brasil","city":"Paraty","p":1}
+{"_id":{"$oid":"5ebde9ccc7b01f00197abbe2"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebde9d6c7b01f00197abbe3"},"lat":"-3.8779438","lng":"-38.6247697","state":"Ceará","country":"Brasil","city":"Maracanaú","p":0}
+{"_id":{"$oid":"5ebde9f6c7b01f00197abbe5"},"lat":"-20.4640173","lng":"-54.6162947","state":"Mato Grosso do Sul","country":"Brasil","city":"Campo Grande","p":1}
+{"_id":{"$oid":"5ebdea05c7b01f00197abbe6"},"lat":"-29.6860512","lng":"-53.8069214","state":"Rio Grande do Sul","country":"Brasil","city":"Santa Maria","p":3}
+{"_id":{"$oid":"5ebdea24c7b01f00197abbe7"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdea64c7b01f00197abbe9"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdea92c7b01f00197abbeb"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdeaa6c7b01f00197abbec"},"lat":"-7.9986401","lng":"-34.8459552","state":"Pernambuco","country":"Brasil","city":"Olinda","p":0}
+{"_id":{"$oid":"5ebdeac6c7b01f00197abbee"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":1}
+{"_id":{"$oid":"5ebdeacbc7b01f00197abbef"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdeae6c7b01f00197abbf1"},"lat":"-22.433009","lng":"-46.9581629","state":"São Paulo","country":"Brasil","city":"Mogi Mirim","p":0}
+{"_id":{"$oid":"5ebdeb0cc7b01f00197abbf3"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":1}
+{"_id":{"$oid":"5ebdeb12c7b01f00197abbf4"},"lat":"-22.8388498","lng":"-42.2286746","state":"Rio de Janeiro","country":"Brasil","city":"Iguaba Grande","p":1}
+{"_id":{"$oid":"5ebdeb25c7b01f00197abbf5"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdeb3ac7b01f00197abbf6"},"lat":"-20.5381768","lng":"-47.4009795","state":"São Paulo","country":"Brasil","city":"Franca","p":0}
+{"_id":{"$oid":"5ebdeb82c7b01f00197abbf7"},"lat":"-8.4116316","lng":"-37.5919699","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdeb89c7b01f00197abbf8"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdeba2c7b01f00197abbf9"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdeba6c7b01f00197abbfa"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdebacc7b01f00197abbfb"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdebc4c7b01f00197abbfc"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdebe5c7b01f00197abbfd"},"lat":"-7.78381545","lng":"-38.349226924789505","state":"Pernambuco","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdec11c7b01f00197abbff"},"lat":"45.140555","lng":"6.0516231","state":"Auvergne-Rhône-Alpes","country":"France","city":"Oz","p":0}
+{"_id":{"$oid":"5ebdec1ac7b01f00197abc00"},"lat":"-23.5234284","lng":"-46.1926671","state":"São Paulo","country":"Brasil","city":"Mogi das Cruzes","p":0}
+{"_id":{"$oid":"5ebdec23c7b01f00197abc01"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdec51c7b01f00197abc02"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdec59c7b01f00197abc03"},"lat":"-22.9965861","lng":"-46.8412042","state":"São Paulo","country":"Brasil","city":"Itatiba","p":0}
+{"_id":{"$oid":"5ebdec61c7b01f00197abc04"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":31}
+{"_id":{"$oid":"5ebdec84c7b01f00197abc06"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebdecb2c7b01f00197abc07"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":2}
+{"_id":{"$oid":"5ebdecbdc7b01f00197abc08"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":26}
+{"_id":{"$oid":"5ebdecd1c7b01f00197abc09"},"lat":"-22.02249725","lng":"-54.73701605386448","state":"Mato Grosso do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebded04c7b01f00197abc0b"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebded0cc7b01f00197abc0c"},"lat":"-22.2752762","lng":"-42.419415","state":"Rio de Janeiro","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebded13c7b01f00197abc0d"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebded18c7b01f00197abc0e"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebded1ec7b01f00197abc0f"},"lat":"-16.680882","lng":"-49.2532691","state":"Goiás","country":"Brasil","city":"Goiânia","p":0}
+{"_id":{"$oid":"5ebded43c7b01f00197abc10"},"lat":"-26.9195567","lng":"-49.0658025","state":"Santa Catarina","country":"Brasil","city":"Blumenau","p":0}
+{"_id":{"$oid":"5ebded88c7b01f00197abc12"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebded8dc7b01f00197abc13"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":0}
+{"_id":{"$oid":"5ebdedcdc7b01f00197abc14"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdee07c7b01f00197abc15"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdee0fc7b01f00197abc16"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdee89c7b01f00197abc19"},"lat":"-25.4295963","lng":"-49.2712724","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdeeb5c7b01f00197abc1a"},"lat":"-8.0641931","lng":"-34.8781517","state":"Pernambuco","country":"Brasil","city":"Recife","p":0}
+{"_id":{"$oid":"5ebdeed0c7b01f00197abc1c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebdeeddc7b01f00197abc1d"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdeee4c7b01f00197abc1e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdeef2c7b01f00197abc1f"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdef23c7b01f00197abc20"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":99}
+{"_id":{"$oid":"5ebdef3ac7b01f00197abc22"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdef53c7b01f00197abc23"},"lat":"-23.958653","lng":"-46.3385266","state":"São Paulo","country":"Brasil","city":"Santos","p":1}
+{"_id":{"$oid":"5ebdef69c7b01f00197abc24"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebdef78c7b01f00197abc25"},"lat":"-3.1316333","lng":"-59.9825041","state":"Amazonas","country":"Brasil","city":"Manaus","p":0}
+{"_id":{"$oid":"5ebdefb3c7b01f00197abc26"},"lat":"-21.9549806","lng":"-49.0232348","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdefd9c7b01f00197abc28"},"lat":"-29.955012","lng":"-51.6249195","state":"Rio Grande do Sul","country":"Brasil","city":"Charqueadas","p":0}
+{"_id":{"$oid":"5ebdeff1c7b01f00197abc29"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdf000c7b01f00197abc2a"},"lat":"-22.9668842","lng":"-43.3864704","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":5}
+{"_id":{"$oid":"5ebdf04dc7b01f00197abc2b"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":3}
+{"_id":{"$oid":"5ebdf09bc7b01f00197abc2d"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":11}
+{"_id":{"$oid":"5ebdf0afc7b01f00197abc2f"},"lat":"-22.70111","lng":"-46.76444","state":"São Paulo","country":"Brasil","city":"Amparo","p":0}
+{"_id":{"$oid":"5ebdf0c5c7b01f00197abc30"},"lat":"-2.9009918","lng":"-40.8427389","state":"Ceará","country":"Brasil","city":"Camocim","p":0}
+{"_id":{"$oid":"5ebdf112c7b01f00197abc33"},"lat":"-2.9009918","lng":"-40.8427389","state":"Ceará","country":"Brasil","city":"Camocim","p":0}
+{"_id":{"$oid":"5ebdf14ec7b01f00197abc35"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":36}
+{"_id":{"$oid":"5ebdf158c7b01f00197abc36"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdf17dc7b01f00197abc38"},"lat":"56.1659102","lng":"9.5684318","state":"Region Midtjylland","country":"Danmark","city":null,"p":0}
+{"_id":{"$oid":"5ebdf1a7c7b01f00197abc3b"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf1bcc7b01f00197abc3c"},"lat":"-16.2618274","lng":"-49.0001135","state":"Goiás","country":"Brasil","city":"Anápolis","p":0}
+{"_id":{"$oid":"5ebdf1c2c7b01f00197abc3d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf1e0c7b01f00197abc3e"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":36}
+{"_id":{"$oid":"5ebdf20cc7b01f00197abc41"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdf21fc7b01f00197abc42"},"lat":"-12.285251","lng":"-41.9294776","state":"Bahia","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf224c7b01f00197abc43"},"lat":"-9.9765362","lng":"-67.8220778","state":"Acre","country":"Brasil","city":"Rio Branco","p":0}
+{"_id":{"$oid":"5ebdf260c7b01f00197abc45"},"lat":"-25.469663","lng":"-50.649287","state":"Paraná","country":"Brasil","city":"Irati","p":0}
+{"_id":{"$oid":"5ebdf311c7b01f00197abc4a"},"lat":"-22.90556","lng":"-47.06083","state":"São Paulo","country":"Brasil","city":"Campinas","p":0}
+{"_id":{"$oid":"5ebdf392c7b01f00197abc4f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf39dc7b01f00197abc50"},"lat":"-1.5107945","lng":"-48.6190679","state":"Pará","country":"Brasil","city":"Barcarena","p":0}
+{"_id":{"$oid":"5ebdf3cec7b01f00197abc51"},"lat":"-4.45281235","lng":"-43.886587833068205","state":"Maranhão","country":"Brasil","city":"Codó","p":0}
+{"_id":{"$oid":"5ebdf3d7c7b01f00197abc52"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf3e3c7b01f00197abc53"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":0}
+{"_id":{"$oid":"5ebdf42dc7b01f00197abc54"},"lat":"-10.9162061","lng":"-37.0774655","state":"Sergipe","country":"Brasil","city":"Aracaju","p":0}
+{"_id":{"$oid":"5ebdf439c7b01f00197abc55"},"lat":"-23.5506507","lng":"-46.6333824","state":"São Paulo","country":"Brasil","city":"São Paulo","p":0}
+{"_id":{"$oid":"5ebdf47cc7b01f00197abc58"},"lat":"-19.9227318","lng":"-43.9450948","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdf4e0c7b01f00197abc5a"},"lat":"-25.4498266","lng":"-49.27288083849462","state":"Paraná","country":"Brasil","city":"Curitiba","p":0}
+{"_id":{"$oid":"5ebdf500c7b01f00197abc5b"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdf51fc7b01f00197abc5c"},"lat":"-7.2246743","lng":"-35.8771292","state":"Paraíba","country":"Brasil","city":"Campina Grande","p":13}
+{"_id":{"$oid":"5ebdf52cc7b01f00197abc5e"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":0}
+{"_id":{"$oid":"5ebdf533c7b01f00197abc5f"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf539c7b01f00197abc60"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf545c7b01f00197abc61"},"lat":"-29.8425284","lng":"-53.7680577","state":"Rio Grande do Sul","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf55bc7b01f00197abc62"},"lat":"-22.9191926","lng":"-43.1796947","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":2}
+{"_id":{"$oid":"5ebdf571c7b01f00197abc63"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebdf613c7b01f00197abc68"},"lat":"-21.7724017","lng":"-52.1013437","state":"São Paulo","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf630c7b01f00197abc69"},"lat":"38.2658696","lng":"-122.6519531","state":"California","country":"United States of America","city":"Petaluma","p":2}
+{"_id":{"$oid":"5ebdf641c7b01f00197abc6a"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdf68ec7b01f00197abc6c"},"lat":"-22.9339841","lng":"-43.1745744","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf694c7b01f00197abc6d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":17}
+{"_id":{"$oid":"5ebdf6aec7b01f00197abc6e"},"lat":"-33.4388212","lng":"-70.6648227","state":"Región Metropolitana de Santiago","country":"Chile","city":"Santiago","p":1}
+{"_id":{"$oid":"5ebdf6c0c7b01f00197abc70"},"lat":"-18.5264844","lng":"-44.1588654","state":"Minas Gerais","country":"Brasil","city":null,"p":1}
+{"_id":{"$oid":"5ebdf6dfc7b01f00197abc73"},"lat":"-27.0628367","lng":"-51.114965","state":"Santa Catarina","country":"Brasil","city":null,"p":0}
+{"_id":{"$oid":"5ebdf6e9c7b01f00197abc74"},"lat":"-22.5269448","lng":"-41.944972","state":"Rio de Janeiro","country":"Brasil","city":"Rio das Ostras","p":2}
+{"_id":{"$oid":"5ebdf71fc7b01f00197abc75"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdf728c7b01f00197abc76"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":1}
+{"_id":{"$oid":"5ebdf74fc7b01f00197abc78"},"lat":"-31.7841041","lng":"-52.32849932138255","state":"Rio Grande do Sul","country":"Brasil","city":"Rio Grande","p":0}
+{"_id":{"$oid":"5ebdf76dc7b01f00197abc79"},"lat":"-5.805398","lng":"-35.2080905","state":"Rio Grande do Norte","country":"Brasil","city":"Natal","p":99}
+{"_id":{"$oid":"5ebdf785c7b01f00197abc7a"},"lat":"-23.4430602","lng":"-46.524459","state":"São Paulo","country":"Brasil","city":"Guarulhos","p":0}
+{"_id":{"$oid":"5ebdf793c7b01f00197abc7b"},"lat":"-3.7304512","lng":"-38.5217989","state":"Ceará","country":"Brasil","city":"Fortaleza","p":0}
+{"_id":{"$oid":"5ebdf7aac7b01f00197abc7c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdf7d1c7b01f00197abc7d"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf7d8c7b01f00197abc7e"},"lat":"-19.91753005","lng":"-43.99005461987623","state":"Minas Gerais","country":"Brasil","city":"Belo Horizonte","p":0}
+{"_id":{"$oid":"5ebdf7edc7b01f00197abc81"},"lat":"-23.558177999999998","lng":"-46.61815186564962","state":"São Paulo","country":"Brasil","city":"São Paulo","p":2}
+{"_id":{"$oid":"5ebdf80cc7b01f00197abc82"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":0}
+{"_id":{"$oid":"5ebdf824c7b01f00197abc83"},"lat":"-22.948844649999998","lng":"-43.17982909625297","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":0}
+{"_id":{"$oid":"5ebdf847c7b01f00197abc85"},"lat":"-12.9822499","lng":"-38.4812772","state":"Bahia","country":"Brasil","city":"Salvador","p":0}
+{"_id":{"$oid":"5ebdf861c7b01f00197abc86"},"lat":"-22.7867743","lng":"-43.4205283","state":"Rio de Janeiro","country":"Brasil","city":"Mesquita","p":1}
+{"_id":{"$oid":"5ebdf8a1c7b01f00197abc87"},"lat":"-20.1252961","lng":"-40.3064477","state":"Espírito Santo","country":"Brasil","city":"Serra","p":0}
+{"_id":{"$oid":"5ebdf907c7b01f00197abc89"},"lat":"-22.4955278","lng":"-44.5633108","state":"Rio de Janeiro","country":"Brasil","city":"Itatiaia","p":0}
+{"_id":{"$oid":"5ebdf927c7b01f00197abc8a"},"lat":"39.492443","lng":"-91.79118207764637","state":"Missouri","country":"United States of America","city":"Florida","p":0}
+{"_id":{"$oid":"5ebdf98ec7b01f00197abc8b"},"lat":"-17.5376644","lng":"-39.7458096","state":"Bahia","country":"Brasil","city":"Teixeira de Freitas","p":1}
+{"_id":{"$oid":"5ebdf9e2c7b01f00197abc8c"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":3}
+{"_id":{"$oid":"5ebdf9edc7b01f00197abc8d"},"lat":"-5.5269279","lng":"-47.478115","state":"Maranhão","country":"Brasil","city":"Imperatriz","p":0}
+{"_id":{"$oid":"5ebdfa14c7b01f00197abc8e"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdfa23c7b01f00197abc90"},"lat":"-30.0324999","lng":"-51.2303767","state":"Rio Grande do Sul","country":"Brasil","city":"Porto Alegre","p":8}
+{"_id":{"$oid":"5ebdfa7fc7b01f00197abc91"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":1}
+{"_id":{"$oid":"5ebdfa88c7b01f00197abc92"},"lat":"-22.9110137","lng":"-43.2093727","state":"Rio de Janeiro","country":"Brasil","city":"Rio de Janeiro","p":19}
