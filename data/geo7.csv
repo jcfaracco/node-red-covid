@@ -1,0 +1,1333 @@
+"_id","lat","lng","state","country","city","p","a"
+"ObjectId(""5ec53c9a5b1a50001967b2bc"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",6,0.625
+"ObjectId(""5ec53ca05b1a50001967b2bd"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.2,0
+"ObjectId(""5ec53cb15b1a50001967b2be"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.01,-0.325
+"ObjectId(""5ec53cf15b1a50001967b2c0"")","-19.983311","-44.0406865","Minas Gerais","Brasil","Belo Horizonte",9.02,0.41818181818181815
+"ObjectId(""5ec53d0c5b1a50001967b2c1"")","-3.7997574","-38.5417015","Ceará","Brasil","Fortaleza",15.72,0
+"ObjectId(""5ec53d805b1a50001967b2c2"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",126.57,0.13636363636363635
+"ObjectId(""5ec53d975b1a50001967b2c3"")","-15.7754462","-47.7970891","Distrito Federal","Brasil",,0.5,0
+"ObjectId(""5ec53dbd5b1a50001967b2c5"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",0.62,-0.5
+"ObjectId(""5ec53dca5b1a50001967b2c6"")","-25.966917","32.466956","Maputo","Mozambique","Matola",18.83,0.55625
+"ObjectId(""5ec53ddc5b1a50001967b2c7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.54,0.4375
+"ObjectId(""5ec53dfa5b1a50001967b2c8"")","-31.7699736","-52.3410161","Rio Grande do Sul","Brasil","Pelotas",0.02,0
+"ObjectId(""5ec53e7b5b1a50001967b2cc"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",0.49,0
+"ObjectId(""5ec53e865b1a50001967b2cd"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",1.63,0
+"ObjectId(""5ec53e985b1a50001967b2ce"")","-18.1755033","-49.3523852","Goiás","Brasil","Panamá",3.68,0
+"ObjectId(""5ec53eb35b1a50001967b2d0"")","32.5010188","-116.9646629","Baja California","México","Tijuana",0.16,0
+"ObjectId(""5ec53f005b1a50001967b2d2"")","-23.681347","-46.62052","São Paulo","Brasil","Diadema",0.07,-0.375
+"ObjectId(""5ec53f125b1a50001967b2d3"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",8.45,-0.125
+"ObjectId(""5ec53f185b1a50001967b2d4"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.65,0.3358333333333334
+"ObjectId(""5ec53f235b1a50001967b2d5"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",0.87,-0.18541666666666667
+"ObjectId(""5ec53f585b1a50001967b2d7"")","-31.7699736","-52.3410161","Rio Grande do Sul","Brasil","Pelotas",35.67,0
+"ObjectId(""5ec53f7a5b1a50001967b2d8"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.43,-0.15
+"ObjectId(""5ec5404d5b1a50001967b2db"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.22,0.25
+"ObjectId(""5ec5407f5b1a50001967b2dc"")","-23.5383214","-46.6391624","São Paulo","Brasil","São Paulo",9.95,0
+"ObjectId(""5ec5409a5b1a50001967b2df"")","-21.4894916","-41.6152776","Rio de Janeiro","Brasil","Cardoso Moreira",2.63,0.4166666666666667
+"ObjectId(""5ec540a45b1a50001967b2e0"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",122.08,0.1
+"ObjectId(""5ec540cc5b1a50001967b2e1"")","-7.9986401","-34.8459552","Pernambuco","Brasil","Olinda",0.99,-0.5
+"ObjectId(""5ec540db5b1a50001967b2e2"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",35.18,-0.10000000000000002
+"ObjectId(""5ec540e65b1a50001967b2e3"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",66.89,-0.10000000000000002
+"ObjectId(""5ec541385b1a50001967b2e5"")","-10.7299404","-37.188505750000004","Sergipe","Brasil",,4.42,0.25833333333333336
+"ObjectId(""5ec541495b1a50001967b2e6"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.88,0
+"ObjectId(""5ec541c15b1a50001967b2e7"")","-20.5370949","-43.6049599","Minas Gerais","Brasil",,9,0
+"ObjectId(""5ec541ca5b1a50001967b2e8"")","-20.1252961","-40.3064477","Espírito Santo","Brasil","Serra",11.03,0
+"ObjectId(""5ec541d65b1a50001967b2e9"")","-19.9601533","-43.9893018","Minas Gerais","Brasil","Belo Horizonte",5.93,-0.053333333333333344
+"ObjectId(""5ec541fe5b1a50001967b2eb"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",8.71,0
+"ObjectId(""5ec542135b1a50001967b2ec"")","-20.5937362","-46.2841079","Minas Gerais","Brasil",,1.03,0
+"ObjectId(""5ec542185b1a50001967b2ed"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",46.76,0.13636363636363635
+"ObjectId(""5ec542315b1a50001967b2ee"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.73,0.175
+"ObjectId(""5ec542485b1a50001967b2ef"")","-29.7171898","-53.76736372670953","Rio Grande do Sul","Brasil","Santa Maria",11.12,-0.2935185185185185
+"ObjectId(""5ec542665b1a50001967b2f0"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",25.33,0
+"ObjectId(""5ec5426f5b1a50001967b2f1"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",13.85,0
+"ObjectId(""5ec542945b1a50001967b2f2"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,4.73,0
+"ObjectId(""5ec542bc5b1a50001967b2f3"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",703.33,0.30000000000000004
+"ObjectId(""5ec542c45b1a50001967b2f4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.39,0.6
+"ObjectId(""5ec542cc5b1a50001967b2f5"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",150.46,0.30000000000000004
+"ObjectId(""5ec542e85b1a50001967b2f6"")","-26.739777","-49.271828","Santa Catarina","Brasil","Rio dos Cedros",0.11,0
+"ObjectId(""5ec543045b1a50001967b2f7"")","-29.9981184","-51.0772509","Rio Grande do Sul","Brasil","Alvorada",5.63,0.30000000000000004
+"ObjectId(""5ec543145b1a50001967b2f8"")","-22.9269199","-43.1802186","Rio de Janeiro","Brasil","Rio de Janeiro",0.57,-0.1875
+"ObjectId(""5ec543315b1a50001967b2f9"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",13.06,0.1
+"ObjectId(""5ec5434d5b1a50001967b2fb"")","-22.9257974","-42.507633","Rio de Janeiro","Brasil","Saquarema",1.09,-0.0625
+"ObjectId(""5ec543555b1a50001967b2fc"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.16,0.5
+"ObjectId(""5ec543615b1a50001967b2fd"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,1.53,0
+"ObjectId(""5ec543845b1a50001967b2fe"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",1.12,0.30000000000000004
+"ObjectId(""5ec543a55b1a50001967b2ff"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,1225.26,0
+"ObjectId(""5ec543b55b1a50001967b300"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",4.86,0
+"ObjectId(""5ec543cf5b1a50001967b301"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",13.18,0.1
+"ObjectId(""5ec543d45b1a50001967b302"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",44.92,-0.3666666666666667
+"ObjectId(""5ec544035b1a50001967b303"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",0.98,0.5
+"ObjectId(""5ec5440f5b1a50001967b304"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,3.21,0
+"ObjectId(""5ec5443d5b1a50001967b305"")","-31.7636377","-52.2721084","Rio Grande do Sul","Brasil","Pelotas",0.46,0.25
+"ObjectId(""5ec5445c5b1a50001967b306"")","-22.9257974","-42.507633","Rio de Janeiro","Brasil","Saquarema",0.1,0
+"ObjectId(""5ec544ab5b1a50001967b308"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",223.72,0.10227272727272725
+"ObjectId(""5ec544b15b1a50001967b309"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",182.54,0
+"ObjectId(""5ec544bb5b1a50001967b30a"")","-20.473969","-55.7821375","Mato Grosso do Sul","Brasil","Aquidauana",0.03,0.047272727272727265
+"ObjectId(""5ec544d05b1a50001967b30b"")","-7.6307956","-72.6703869","Acre","Brasil","Cruzeiro do Sul",11.87,-0.6999999999999998
+"ObjectId(""5ec544d65b1a50001967b30c"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0,0
+"ObjectId(""5ec544f35b1a50001967b30d"")","-7.6307956","-72.6703869","Acre","Brasil","Cruzeiro do Sul",11.87,-0.6999999999999998
+"ObjectId(""5ec544fc5b1a50001967b30e"")","-17.35442","-44.9186695","Minas Gerais","Brasil",,13.64,0.2625
+"ObjectId(""5ec5451a5b1a50001967b30f"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",6.83,0.31666666666666665
+"ObjectId(""5ec545425b1a50001967b311"")","-15.7754462","-47.7970891","Distrito Federal","Brasil",,1.5,0
+"ObjectId(""5ec5457d5b1a50001967b312"")","-22.902953","-43.5591295","Rio de Janeiro","Brasil","Rio de Janeiro",4.71,0
+"ObjectId(""5ec545c45b1a50001967b313"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.58,-1
+"ObjectId(""5ec545db5b1a50001967b315"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",21.26,0
+"ObjectId(""5ec545e25b1a50001967b316"")","19.4104659","-98.8873473","Estado de México","México",,1.04,-0.05
+"ObjectId(""5ec5462b5b1a50001967b317"")","-8.7494525","-63.8735438","Rondônia","Brasil","Porto Velho",3.08,0.475
+"ObjectId(""5ec546365b1a50001967b318"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",29.29,0
+"ObjectId(""5ec546545b1a50001967b319"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",2.71,0.30000000000000004
+"ObjectId(""5ec546775b1a50001967b31b"")","-23.0070825","-43.3146881","Rio de Janeiro","Brasil","Rio de Janeiro",10.13,-0.0625
+"ObjectId(""5ec546b95b1a50001967b31d"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.71,0
+"ObjectId(""5ec546e25b1a50001967b31e"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.71,0
+"ObjectId(""5ec546ef5b1a50001967b31f"")","-12.285251","-41.9294776","Bahia","Brasil",,5.73,0.06818181818181818
+"ObjectId(""5ec5472c5b1a50001967b321"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.48,0
+"ObjectId(""5ec547455b1a50001967b322"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.32,0
+"ObjectId(""5ec547545b1a50001967b323"")","-19.81473655","-43.93669165578008","Minas Gerais","Brasil","Belo Horizonte",17.07,0
+"ObjectId(""5ec547855b1a50001967b325"")","-20.3297293","-40.2920284","Espírito Santo","Brasil","Vila Velha",0.1,0
+"ObjectId(""5ec547945b1a50001967b326"")","-20.263202","-40.416549","Espírito Santo","Brasil","Cariacica",5.46,-0.07500000000000001
+"ObjectId(""5ec547995b1a50001967b327"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.71,0
+"ObjectId(""5ec547a15b1a50001967b328"")","19.4104659","-98.8873473","Estado de México","México",,1.04,0
+"ObjectId(""5ec547f35b1a50001967b329"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",1.09,-0.004761904761904763
+"ObjectId(""5ec547fa5b1a50001967b32a"")","-23.816628","-45.368685","São Paulo","Brasil","Ilhabela",12.87,0.5291666666666667
+"ObjectId(""5ec548b05b1a50001967b32c"")","-20.263202","-40.416549","Espírito Santo","Brasil","Cariacica",9.9,0
+"ObjectId(""5ec548c95b1a50001967b32d"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",1.23,0
+"ObjectId(""5ec548d85b1a50001967b32e"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",171.65,0
+"ObjectId(""5ec549005b1a50001967b32f"")","-1.374035","-48.4016623","Pará","Brasil","Ananindeua",1.66,-0.6
+"ObjectId(""5ec5493f5b1a50001967b330"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",12.15,-0.07500000000000001
+"ObjectId(""5ec5496f5b1a50001967b331"")","-29.9493353","-51.0898927","Rio Grande do Sul","Brasil","Cachoeirinha",16.7,-0.07500000000000001
+"ObjectId(""5ec549765b1a50001967b332"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.27,0
+"ObjectId(""5ec5497e5b1a50001967b333"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.34,0.5590909090909091
+"ObjectId(""5ec549925b1a50001967b334"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",1.64,-0.6
+"ObjectId(""5ec549ab5b1a50001967b335"")","-25.4568777","-49.5191259","Paraná","Brasil","Campo Largo",3.34,0
+"ObjectId(""5ec549b15b1a50001967b336"")","-6.97324","-34.8351609","Paraíba","Brasil","Cabedelo",11.7,0.13636363636363635
+"ObjectId(""5ec54a455b1a50001967b339"")","-22.0680484","-46.5688976","Minas Gerais","Brasil","Andradas",23.46,0
+"ObjectId(""5ec54a7d5b1a50001967b33b"")","-7.9986401","-34.8459552","Pernambuco","Brasil","Olinda",0.49,-0.0625
+"ObjectId(""5ec54ab35b1a50001967b33c"")","-22.70111","-46.76444","São Paulo","Brasil","Amparo",5.19,0.425
+"ObjectId(""5ec54ae05b1a50001967b33d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",445.54,0
+"ObjectId(""5ec54af75b1a50001967b33e"")","-23.566741443820227","-46.656575251685396","São Paulo","Brasil","São Paulo",11.46,0
+"ObjectId(""5ec54b6a5b1a50001967b340"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,2.81,-0.75
+"ObjectId(""5ec54b875b1a50001967b342"")","-28.2616138","-52.4089048","Rio Grande do Sul","Brasil","Passo Fundo",8.44,-0.5
+"ObjectId(""5ec54b995b1a50001967b344"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3959.6,0.11818181818181818
+"ObjectId(""5ec54bbe5b1a50001967b345"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.16,0
+"ObjectId(""5ec54bca5b1a50001967b346"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.76,0
+"ObjectId(""5ec54bf35b1a50001967b348"")","-7.2246743","-35.8771292","Paraíba","Brasil","Campina Grande",0.77,0
+"ObjectId(""5ec54bfe5b1a50001967b349"")","-25.5637708","-49.1925117","Paraná","Brasil","São José dos Pinhais",9.34,0.2
+"ObjectId(""5ec54c035b1a50001967b34a"")","-15.7934036","-47.8823172","Distrito Federal","Brasil","Plano Piloto",2.74,0.13636363636363635
+"ObjectId(""5ec54c385b1a50001967b34c"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,0.02,0
+"ObjectId(""5ec54c6f5b1a50001967b34e"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",3.28,0
+"ObjectId(""5ec54d045b1a50001967b351"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.71,0.5
+"ObjectId(""5ec54d055b1a50001967b352"")","-34.8284853","-55.9657182","Canelones","Uruguay","Ciudad de la Costa",0.71,0.5
+"ObjectId(""5ec54d285b1a50001967b354"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",6.17,0.4333333333333333
+"ObjectId(""5ec54d415b1a50001967b355"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.46,-0.0625
+"ObjectId(""5ec54d755b1a50001967b357"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.67,0
+"ObjectId(""5ec54d7c5b1a50001967b358"")","-21.7611973","-43.6041153","Minas Gerais","Brasil","Juiz de Fora",5.48,-0.5
+"ObjectId(""5ec54de15b1a50001967b35b"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",3.28,-0.075
+"ObjectId(""5ec54e035b1a50001967b35c"")","-22.8753053","-43.4648805","Rio de Janeiro","Brasil","Rio de Janeiro",1.93,-0.0625
+"ObjectId(""5ec54e105b1a50001967b35d"")","-12.8380062","-38.4692031","Bahia","Brasil","Salvador",15.37,0.3181818181818182
+"ObjectId(""5ec54e5d5b1a50001967b35f"")","-23.5658218","-46.6658017","São Paulo","Brasil","São Paulo",23.74,0.2
+"ObjectId(""5ec54f095b1a50001967b361"")","-2.8984245","-79.0227412","Azuay","Ecuador","Cuenca",9.24,0
+"ObjectId(""5ec54f225b1a50001967b362"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,2.81,0
+"ObjectId(""5ec54f525b1a50001967b363"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.24,0
+"ObjectId(""5ec54f835b1a50001967b364"")","-19.7459693","-47.9162721","Minas Gerais","Brasil","Uberaba",7.79,-0.0625
+"ObjectId(""5ec54fb05b1a50001967b366"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",4.2,-0.41666666666666663
+"ObjectId(""5ec54fce5b1a50001967b367"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.39,-0.4
+"ObjectId(""5ec54fd55b1a50001967b368"")","-26.9022824","-48.8284968","Santa Catarina","Brasil","Ilhota",10.84,0
+"ObjectId(""5ec54fde5b1a50001967b369"")","-22.7896225","-43.309929","Rio de Janeiro","Brasil","Duque de Caxias",3.19,0.06818181818181818
+"ObjectId(""5ec550065b1a50001967b36a"")","48.8566969","2.3514616","Île-de-France","France","Paris",110.81,-0.0625
+"ObjectId(""5ec5500b5b1a50001967b36b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",10.96,-0.0625
+"ObjectId(""5ec550435b1a50001967b36c"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",108.3,0
+"ObjectId(""5ec5504e5b1a50001967b36d"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",131.34,0
+"ObjectId(""5ec550785b1a50001967b36f"")","-8.7494525","-63.8735438","Rondônia","Brasil","Porto Velho",6.12,0.475
+"ObjectId(""5ec5509b5b1a50001967b371"")","-20.5015168","-43.8564586","Minas Gerais","Brasil","Congonhas",0.29,0.4
+"ObjectId(""5ec550fa5b1a50001967b373"")","-7.8459151","-35.2538861","Pernambuco","Brasil","Carpina",1.86,0
+"ObjectId(""5ec551035b1a50001967b374"")","-9.571664349999999","-40.961051765435606",,"Brasil",,137.09,0
+"ObjectId(""5ec551155b1a50001967b375"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",4.94,0
+"ObjectId(""5ec551885b1a50001967b376"")","-26.3044898","-48.8486726","Santa Catarina","Brasil","Joinville",117.14,-0.6999999999999998
+"ObjectId(""5ec5519a5b1a50001967b377"")","-23.603889","-46.918889","São Paulo","Brasil","Cotia",23.93,0
+"ObjectId(""5ec552085b1a50001967b379"")","-23.5234284","-46.1926671","São Paulo","Brasil","Mogi das Cruzes",0.02,0.13636363636363635
+"ObjectId(""5ec5522a5b1a50001967b37a"")","48.8566969","2.3514616","Île-de-France","France","Paris",22.59,0.016666666666666666
+"ObjectId(""5ec5528f5b1a50001967b37b"")","-20.1252961","-40.3064477","Espírito Santo","Brasil","Serra",3.62,0.6
+"ObjectId(""5ec552d75b1a50001967b37e"")","-21.9549806","-49.0232348","São Paulo","Brasil",,23.9,0
+"ObjectId(""5ec552de5b1a50001967b37f"")","-20.4827995","-45.7985894","Minas Gerais","Brasil","Pimenta",0.52,0.06818181818181818
+"ObjectId(""5ec552ef5b1a50001967b381"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",21.15,0
+"ObjectId(""5ec553185b1a50001967b382"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,1.48,0
+"ObjectId(""5ec553215b1a50001967b383"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.77,0.0125
+"ObjectId(""5ec553285b1a50001967b384"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,24.7,0
+"ObjectId(""5ec553425b1a50001967b385"")","-22.8772743","-43.4301032","Rio de Janeiro","Brasil","Rio de Janeiro",4.73,-0.025
+"ObjectId(""5ec5538c5b1a50001967b387"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",7.29,0
+"ObjectId(""5ec553955b1a50001967b388"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",7.95,0
+"ObjectId(""5ec5539d5b1a50001967b389"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",14.17,0
+"ObjectId(""5ec553b45b1a50001967b38a"")","-23.681347","-46.62052","São Paulo","Brasil","Diadema",0.11,-0.3125
+"ObjectId(""5ec553d35b1a50001967b38b"")","-23.681347","-46.62052","São Paulo","Brasil","Diadema",0.11,0
+"ObjectId(""5ec553f25b1a50001967b38d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",7.52,0.1375
+"ObjectId(""5ec553fb5b1a50001967b38e"")","-20.3851692","-43.5036344","Minas Gerais","Brasil","Ouro Preto",0.01,0
+"ObjectId(""5ec554765b1a50001967b390"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,3,0.13333333333333333
+"ObjectId(""5ec554c05b1a50001967b391"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",18.46,0
+"ObjectId(""5ec554e65b1a50001967b392"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.48,0.5201859907670454
+"ObjectId(""5ec555775b1a50001967b393"")","-3.8036185","-38.5086081","Ceará","Brasil","Fortaleza",193.52,0
+"ObjectId(""5ec555895b1a50001967b394"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",5.95,-0.0625
+"ObjectId(""5ec555945b1a50001967b395"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.08,-0.0625
+"ObjectId(""5ec555b05b1a50001967b396"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",9.77,0
+"ObjectId(""5ec555b65b1a50001967b397"")","-22.72528","-47.64917","São Paulo","Brasil","Piracicaba",0.17,0.041666666666666664
+"ObjectId(""5ec5563c5b1a50001967b399"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.48,0.175
+"ObjectId(""5ec556715b1a50001967b39a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.48,0
+"ObjectId(""5ec5567b5b1a50001967b39b"")","-28.5102901","-50.9356044","Rio Grande do Sul","Brasil","Vacaria",4.7,0
+"ObjectId(""5ec556815b1a50001967b39c"")","-12.285251","-41.9294776","Bahia","Brasil",,3.24,0
+"ObjectId(""5ec557005b1a50001967b39f"")","-33.9150012","150.6677734","New South Wales","Australia","Sydney",0.17,0
+"ObjectId(""5ec557265b1a50001967b3a0"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,3.76,0.4375
+"ObjectId(""5ec5575c5b1a50001967b3a2"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",9.4,0
+"ObjectId(""5ec557a55b1a50001967b3a4"")","-19.81473655","-43.93669165578008","Minas Gerais","Brasil","Belo Horizonte",17.06,0
+"ObjectId(""5ec557b35b1a50001967b3a5"")","-19.7459693","-47.9162721","Minas Gerais","Brasil","Uberaba",7.74,-0.0625
+"ObjectId(""5ec557b85b1a50001967b3a6"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",0.18,-0.11666666666666668
+"ObjectId(""5ec557c15b1a50001967b3a7"")","-19.81473655","-43.93669165578008","Minas Gerais","Brasil","Belo Horizonte",17.06,0
+"ObjectId(""5ec557cb5b1a50001967b3a8"")","-22.8879628","-48.4410712","São Paulo","Brasil","Botucatu",0.11,0
+"ObjectId(""5ec557d15b1a50001967b3a9"")","-25.469663","-50.649287","Paraná","Brasil","Irati",0.17,0
+"ObjectId(""5ec558355b1a50001967b3aa"")","-9.3817334","-40.4968875","Pernambuco","Brasil","Petrolina",0.97,0
+"ObjectId(""5ec558445b1a50001967b3ab"")","-7.9340069","-34.868407","Pernambuco","Brasil","Paulista",0.08,0.4
+"ObjectId(""5ec558c15b1a50001967b3ad"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",3.8,0
+"ObjectId(""5ec558e55b1a50001967b3ae"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",9.11,-0.75
+"ObjectId(""5ec559025b1a50001967b3af"")","-19.3816944","-40.0612213","Espírito Santo","Brasil","Linhares",0.34,0.21428571428571427
+"ObjectId(""5ec559295b1a50001967b3b0"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",0.28,0.25
+"ObjectId(""5ec5594f5b1a50001967b3b1"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.73,0
+"ObjectId(""5ec559775b1a50001967b3b3"")","-3.6879135","-40.3456372","Ceará","Brasil","Sobral",0.28,0
+"ObjectId(""5ec559975b1a50001967b3b5"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",9.11,-0.75
+"ObjectId(""5ec559b35b1a50001967b3b7"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",155.51,0.5
+"ObjectId(""5ec559dc5b1a50001967b3b9"")","-19.968056","-44.198333","Minas Gerais","Brasil","Betim",3.68,-0.43333333333333335
+"ObjectId(""5ec559f95b1a50001967b3ba"")","-29.1684796","-51.1793861","Rio Grande do Sul","Brasil","Caxias do Sul",1.66,0
+"ObjectId(""5ec55a005b1a50001967b3bb"")","-6.7537682","-35.6338343","Paraíba","Brasil","Bananeiras",1.87,0.125
+"ObjectId(""5ec55a5a5b1a50001967b3bd"")","-29.1684796","-51.1793861","Rio Grande do Sul","Brasil","Caxias do Sul",1.66,0
+"ObjectId(""5ec55a7f5b1a50001967b3bf"")","48.8356649","2.240206","Île-de-France","France","Boulogne-Billancourt",1125.82,0.25
+"ObjectId(""5ec55aec5b1a50001967b3c1"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",16.51,0
+"ObjectId(""5ec55b335b1a50001967b3c2"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.44,0
+"ObjectId(""5ec55b6b5b1a50001967b3c4"")","-21.3770591","-44.4949186","Minas Gerais","Brasil",,7.06,0
+"ObjectId(""5ec55b755b1a50001967b3c5"")","-25.0815019","-50.1758163","Paraná","Brasil","Ponta Grossa",1.74,0
+"ObjectId(""5ec55b975b1a50001967b3c6"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.21,0
+"ObjectId(""5ec55b9e5b1a50001967b3c7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",65.06,0
+"ObjectId(""5ec55ba35b1a50001967b3c8"")","-6.4037572","-37.6583863","Paraíba","Brasil",,4.14,0
+"ObjectId(""5ec55be15b1a50001967b3c9"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",413.83,0.16098484848484848
+"ObjectId(""5ec55c485b1a50001967b3cc"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",6.7,0.13636363636363635
+"ObjectId(""5ec55c535b1a50001967b3cd"")","-2.8984245","-79.0227412","Azuay","Ecuador","Cuenca",10.69,0.13636363636363635
+"ObjectId(""5ec55c755b1a50001967b3ce"")","-12.2578934","-38.9598047","Bahia","Brasil","Feira de Santana",1.55,-0.25
+"ObjectId(""5ec55cdf5b1a50001967b3d2"")","-22.2206145","-54.812208","Mato Grosso do Sul","Brasil","Dourados",1.57,0
+"ObjectId(""5ec55d2b5b1a50001967b3d7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.2,
+"ObjectId(""5ec55d925b1a50001967b3d9"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",15.3,0.30000000000000004
+"ObjectId(""5ec55dab5b1a50001967b3db"")","-23.5337307","-49.2452541","São Paulo","Brasil","Taquarituba",1.77,0
+"ObjectId(""5ec55dbb5b1a50001967b3dc"")","-5.5269279","-47.478115","Maranhão","Brasil","Imperatriz",6.67,0.13636363636363635
+"ObjectId(""5ec55dd45b1a50001967b3de"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",1.06,0
+"ObjectId(""5ec55dde5b1a50001967b3df"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",9.39,0.35
+"ObjectId(""5ec55e145b1a50001967b3e1"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.75,0
+"ObjectId(""5ec55e215b1a50001967b3e2"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,10.39,-0.0625
+"ObjectId(""5ec55e2a5b1a50001967b3e3"")","-7.6307956","-72.6703869","Acre","Brasil","Cruzeiro do Sul",7.99,-0.23333333333333334
+"ObjectId(""5ec55e585b1a50001967b3e4"")","-9.6611661","-36.6502426","Alagoas","Brasil",,0.4,0
+"ObjectId(""5ec55ee75b1a50001967b3e8"")","-26.3044898","-48.8486726","Santa Catarina","Brasil","Joinville",7.8,-0.6
+"ObjectId(""5ec55f375b1a50001967b3eb"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",4.32,0
+"ObjectId(""5ec55fd95b1a50001967b3ef"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.23,-0.25
+"ObjectId(""5ec560715b1a50001967b3f2"")","-21.2048","-41.88801","Rio de Janeiro","Brasil","Itaperuna",3.84,0
+"ObjectId(""5ec560825b1a50001967b3f3"")","-23.5234284","-46.1926671","São Paulo","Brasil","Mogi das Cruzes",2.47,0
+"ObjectId(""5ec560b95b1a50001967b3f4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",121.73,0.3333333333333333
+"ObjectId(""5ec560d35b1a50001967b3f5"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.02,-0.4124999999999999
+"ObjectId(""5ec5610c5b1a50001967b3f6"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.5,0.175
+"ObjectId(""5ec5613b5b1a50001967b3f7"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,80.97,0
+"ObjectId(""5ec561625b1a50001967b3f9"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.5,0.175
+"ObjectId(""5ec5618a5b1a50001967b3fc"")","-7.1219366","-36.7246845","Paraíba","Brasil",,5.26,0.13636363636363635
+"ObjectId(""5ec5619c5b1a50001967b3fd"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.5,0.175
+"ObjectId(""5ec561c05b1a50001967b3fe"")","-10.4401356","-45.1627472","Piauí","Brasil","Corrente",0.45,-0.3
+"ObjectId(""5ec561f75b1a50001967b400"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.22,0
+"ObjectId(""5ec5622b5b1a50001967b402"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",9.3,0.25
+"ObjectId(""5ec562305b1a50001967b403"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",131.38,0
+"ObjectId(""5ec562605b1a50001967b404"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",5.26,0
+"ObjectId(""5ec562a85b1a50001967b405"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",1.91,0
+"ObjectId(""5ec562af5b1a50001967b406"")","41.3815729","2.1786343","Catalunya","España","Barcelona",2.93,0
+"ObjectId(""5ec562d25b1a50001967b407"")","-23.515899249999997","-47.47299202093686","São Paulo","Brasil","Sorocaba",1.11,-0.053333333333333344
+"ObjectId(""5ec5632f5b1a50001967b40a"")","-5.0896403","-42.809588","Piauí","Brasil","Teresina",0.35,0
+"ObjectId(""5ec563385b1a50001967b40b"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",24.35,0.9765625
+"ObjectId(""5ec5634f5b1a50001967b40c"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",43.08,0
+"ObjectId(""5ec563b55b1a50001967b40d"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",1.82,0
+"ObjectId(""5ec563c05b1a50001967b40e"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.97,0
+"ObjectId(""5ec563df5b1a50001967b40f"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.27,0
+"ObjectId(""5ec563ed5b1a50001967b410"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",0.01,0
+"ObjectId(""5ec563f25b1a50001967b411"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",0,0
+"ObjectId(""5ec564015b1a50001967b412"")","-7.55967605","-35.011016876399026","Pernambuco","Brasil",,2.11,0
+"ObjectId(""5ec5640f5b1a50001967b413"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",15.25,0.625
+"ObjectId(""5ec5642c5b1a50001967b414"")","-21.9849484","-47.92902389479896","São Paulo","Brasil","São Carlos",8.88,0
+"ObjectId(""5ec5643c5b1a50001967b415"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",3.87,0
+"ObjectId(""5ec5645b5b1a50001967b416"")","-20.6596107","-43.785743","Minas Gerais","Brasil","Conselheiro Lafaiete",0.01,0.5
+"ObjectId(""5ec564615b1a50001967b417"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",148.93,0
+"ObjectId(""5ec5648e5b1a50001967b419"")","-31.7636377","-52.2721084","Rio Grande do Sul","Brasil","Pelotas",7.33,0
+"ObjectId(""5ec564995b1a50001967b41a"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",9.19,0
+"ObjectId(""5ec564ad5b1a50001967b41c"")","-22.9218864","-43.384646","Rio de Janeiro","Brasil","Rio de Janeiro",0.7,-0.4
+"ObjectId(""5ec5650c5b1a50001967b41e"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",54.39,0.32499999999999996
+"ObjectId(""5ec5652e5b1a50001967b41f"")","-12.285251","-41.9294776","Bahia","Brasil",,0.58,0.8
+"ObjectId(""5ec565625b1a50001967b420"")","-6.7726534","-43.0070616","Piauí","Brasil","Floriano",1.34,0.13636363636363635
+"ObjectId(""5ec565895b1a50001967b421"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",1.55,-0.390625
+"ObjectId(""5ec5658f5b1a50001967b422"")","-27.09270175","-48.90419391336168","Santa Catarina","Brasil","Brusque",51.31,0.2375
+"ObjectId(""5ec565f55b1a50001967b425"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",166.71,0
+"ObjectId(""5ec566245b1a50001967b426"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",16.34,0.22727272727272727
+"ObjectId(""5ec566335b1a50001967b427"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",2.04,-0.1
+"ObjectId(""5ec5663d5b1a50001967b428"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",22.54,0
+"ObjectId(""5ec5664d5b1a50001967b429"")","-23.4713573","-46.6445383","São Paulo","Brasil","São Paulo",2.57,0.875
+"ObjectId(""5ec5669a5b1a50001967b42d"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",3.97,-0.05
+"ObjectId(""5ec566af5b1a50001967b42e"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",5.75,0
+"ObjectId(""5ec567175b1a50001967b431"")","-8.0212968","-34.9081116","Pernambuco","Brasil","Recife",0.53,0.125
+"ObjectId(""5ec5671f5b1a50001967b432"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",16.86,0
+"ObjectId(""5ec567305b1a50001967b433"")","-22.97184115","-43.369565030303846","Rio de Janeiro","Brasil","Rio de Janeiro",22.27,0.1621212121212121
+"ObjectId(""5ec567635b1a50001967b436"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.13,0.13636363636363635
+"ObjectId(""5ec567a65b1a50001967b438"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",25.15,0
+"ObjectId(""5ec567ae5b1a50001967b439"")","-6.97324","-34.8351609","Paraíba","Brasil","Cabedelo",11.7,0.3181818181818182
+"ObjectId(""5ec567c15b1a50001967b43a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",24.01,0
+"ObjectId(""5ec567e85b1a50001967b43c"")","-29.7174188","-53.767553905184066","Rio Grande do Sul","Brasil","Santa Maria",1.52,0.4
+"ObjectId(""5ec567ec5b1a50001967b43d"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.62,0.375
+"ObjectId(""5ec568065b1a50001967b43e"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",16.87,0.2375
+"ObjectId(""5ec568185b1a50001967b43f"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",1.88,0
+"ObjectId(""5ec5681e5b1a50001967b440"")","-12.2578934","-38.9598047","Bahia","Brasil","Feira de Santana",0.26,0.13333333333333333
+"ObjectId(""5ec568375b1a50001967b441"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",29.93,0
+"ObjectId(""5ec568515b1a50001967b442"")","48.8566969","2.3514616","Île-de-France","France","Paris",0.64,-0.6
+"ObjectId(""5ec568685b1a50001967b444"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.28,0
+"ObjectId(""5ec5687f5b1a50001967b445"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",24.01,
+"ObjectId(""5ec568855b1a50001967b446"")","-19.905062649999998","-43.975426727127186","Minas Gerais","Brasil","Belo Horizonte",4.66,0
+"ObjectId(""5ec568935b1a50001967b447"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.98,0
+"ObjectId(""5ec568a85b1a50001967b448"")","-7.6307956","-72.6703869","Acre","Brasil","Cruzeiro do Sul",1.85,-0.23333333333333334
+"ObjectId(""5ec568cf5b1a50001967b449"")","-23.5557393","-46.6625645","São Paulo","Brasil","São Paulo",0.1,0.35
+"ObjectId(""5ec568dd5b1a50001967b44a"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",5.9,0
+"ObjectId(""5ec569095b1a50001967b44b"")","-10.1835604","-48.3337793","Tocantins","Brasil","Palmas",18.11,0
+"ObjectId(""5ec569215b1a50001967b44c"")","-23.545526549999998","-46.47419035964862","São Paulo","Brasil","São Paulo",16.02,-0.475
+"ObjectId(""5ec569405b1a50001967b44d"")","-23.1531055","-47.0580347","São Paulo","Brasil","Itupeva",8.28,1
+"ObjectId(""5ec569495b1a50001967b44e"")","-19.8904067","-44.0311893","Minas Gerais","Brasil","Contagem",9.73,0.2375
+"ObjectId(""5ec569625b1a50001967b44f"")","-1.6292632","-45.2368151","Maranhão","Brasil",,119.46,0.25
+"ObjectId(""5ec569795b1a50001967b450"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.71,0
+"ObjectId(""5ec5699d5b1a50001967b451"")","-12.8315542","-38.2568964","Bahia","Brasil","Camaçari",5.52,0.13636363636363635
+"ObjectId(""5ec569ac5b1a50001967b452"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",76.83,0
+"ObjectId(""5ec569b55b1a50001967b453"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.58,0.4583333333333333
+"ObjectId(""5ec569bf5b1a50001967b454"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.07,-0.5
+"ObjectId(""5ec569c55b1a50001967b455"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",10.12,0.1
+"ObjectId(""5ec56a0a5b1a50001967b457"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",9.17,0
+"ObjectId(""5ec56a355b1a50001967b458"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",0,0
+"ObjectId(""5ec56a635b1a50001967b459"")","-21.9549806","-49.0232348","São Paulo","Brasil",,14.09,0.75
+"ObjectId(""5ec56a895b1a50001967b45a"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",3.82,-0.7999999999999999
+"ObjectId(""5ec56aa85b1a50001967b45b"")","-31.7636377","-52.2721084","Rio Grande do Sul","Brasil","Pelotas",2.77,0
+"ObjectId(""5ec56ada5b1a50001967b45c"")","-23.5427842","-46.3108391","São Paulo","Brasil","Suzano",1.01,-0.4
+"ObjectId(""5ec56b165b1a50001967b45e"")","-19.81473655","-43.93669165578008","Minas Gerais","Brasil","Belo Horizonte",17.06,0
+"ObjectId(""5ec56b435b1a50001967b45f"")","-23.672372","35.3194934","Inhambane","Mozambique",,0.64,0.2375
+"ObjectId(""5ec56b905b1a50001967b460"")","-10.6019733","-67.7842232","Acre","Brasil",,6.8,0.2375
+"ObjectId(""5ec56b9d5b1a50001967b461"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.27,0
+"ObjectId(""5ec56bb45b1a50001967b462"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.02,0.5
+"ObjectId(""5ec56bc25b1a50001967b463"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.25,0
+"ObjectId(""5ec56be95b1a50001967b464"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",18.29,0
+"ObjectId(""5ec56bf95b1a50001967b465"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",111.57,0
+"ObjectId(""5ec56c025b1a50001967b466"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",0.58,0
+"ObjectId(""5ec56c3e5b1a50001967b469"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.68,0
+"ObjectId(""5ec56c445b1a50001967b46a"")","-21.7886713","-48.1773096","São Paulo","Brasil","Araraquara",27.32,0
+"ObjectId(""5ec56c9b5b1a50001967b46c"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",12.4,0
+"ObjectId(""5ec56d145b1a50001967b470"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.02,-0.8
+"ObjectId(""5ec56d4c5b1a50001967b471"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.02,0.3333333333333333
+"ObjectId(""5ec56d6d5b1a50001967b473"")","-8.7494525","-63.8735438","Rondônia","Brasil","Porto Velho",1.89,0.21666666666666667
+"ObjectId(""5ec56d855b1a50001967b474"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.02,0
+"ObjectId(""5ec56dee5b1a50001967b478"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",12.32,0.5
+"ObjectId(""5ec56e395b1a50001967b47a"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",3.56,0.4
+"ObjectId(""5ec56e6d5b1a50001967b47b"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.02,0.33333333333333337
+"ObjectId(""5ec56ea45b1a50001967b47f"")","-5.09458195","-42.80686228697222","Piauí","Brasil","Teresina",11.87,0
+"ObjectId(""5ec56ed75b1a50001967b481"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",3.52,0.41666666666666663
+"ObjectId(""5ec56ee15b1a50001967b482"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.36,0.13636363636363635
+"ObjectId(""5ec56ef95b1a50001967b483"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.02,0
+"ObjectId(""5ec56efe5b1a50001967b484"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.06,0
+"ObjectId(""5ec56f0c5b1a50001967b485"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",11.19,0.5
+"ObjectId(""5ec56f3e5b1a50001967b486"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",33.6,0.4
+"ObjectId(""5ec56f8e5b1a50001967b487"")","-17.8067173","-48.7648226","Goiás","Brasil","Rio Quente",3.43,-0.125
+"ObjectId(""5ec56f9d5b1a50001967b488"")","-12.524182","-40.305897","Bahia","Brasil","Itaberaba",1.59,0.2375
+"ObjectId(""5ec56fa95b1a50001967b489"")","-30.0427211","-51.1626625","Rio Grande do Sul","Brasil","Porto Alegre",4.57,0.30000000000000004
+"ObjectId(""5ec56fdd5b1a50001967b48a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",25.32,0
+"ObjectId(""5ec56fe25b1a50001967b48b"")","-7.9986401","-34.8459552","Pernambuco","Brasil","Olinda",0.9,0.47000000000000003
+"ObjectId(""5ec56ffb5b1a50001967b48c"")","-7.9986401","-34.8459552","Pernambuco","Brasil","Olinda",0.9,0.5
+"ObjectId(""5ec570265b1a50001967b48d"")","-17.693889","-42.518611","Minas Gerais","Brasil","Capelinha",0,0
+"ObjectId(""5ec5705d5b1a50001967b48e"")","-23.5658218","-46.6658017","São Paulo","Brasil","São Paulo",5.12,0.41666666666666663
+"ObjectId(""5ec570815b1a50001967b48f"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",9.89,0.175
+"ObjectId(""5ec571335b1a50001967b494"")","-23.0063966","-44.316326","Rio de Janeiro","Brasil","Angra dos Reis",14.56,0.2375
+"ObjectId(""5ec571415b1a50001967b496"")","-7.9340069","-34.868407","Pernambuco","Brasil","Paulista",16.1,0.175
+"ObjectId(""5ec5714b5b1a50001967b497"")","-8.2829702","-35.9722852","Pernambuco","Brasil","Caruaru",9.22,0
+"ObjectId(""5ec5715c5b1a50001967b498"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.32,0
+"ObjectId(""5ec571655b1a50001967b499"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,147.04,0
+"ObjectId(""5ec571ab5b1a50001967b49b"")","-28.784398","-51.6105402","Rio Grande do Sul","Brasil","Nova Prata",54.82,-0.16666666666666666
+"ObjectId(""5ec571b25b1a50001967b49c"")","-1.6632409","31.4014928","Kagera","Tanzania",,32.4,-0.16666666666666666
+"ObjectId(""5ec572305b1a50001967b49d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.23,0.13636363636363635
+"ObjectId(""5ec572555b1a50001967b49e"")","-22.9402135","-43.1772229","Rio de Janeiro","Brasil","Rio de Janeiro",2.55,0
+"ObjectId(""5ec572a25b1a50001967b49f"")","-29.8511627","-51.1778852","Rio Grande do Sul","Brasil","Esteio",0.29,0
+"ObjectId(""5ec572c75b1a50001967b4a0"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",1.1,0
+"ObjectId(""5ec572eb5b1a50001967b4a2"")","-30.031502","-51.2264611","Rio Grande do Sul","Brasil","Porto Alegre",3.74,0
+"ObjectId(""5ec573725b1a50001967b4a4"")","-29.107985","-49.632776","Santa Catarina","Brasil","Sombrio",4.47,0.17045454545454544
+"ObjectId(""5ec573b05b1a50001967b4a5"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",0.97,0.11363636363636363
+"ObjectId(""5ec573d55b1a50001967b4a6"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",6.08,0.175
+"ObjectId(""5ec573f55b1a50001967b4a8"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.45,0.14237213134765625
+"ObjectId(""5ec574055b1a50001967b4a9"")","-9.5104644","-35.79300921812715","Alagoas","Brasil",,11.07,0
+"ObjectId(""5ec5740d5b1a50001967b4aa"")","-7.2153453","-39.3153336","Ceará","Brasil","Juazeiro do Norte",6.04,0
+"ObjectId(""5ec574155b1a50001967b4ab"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.74,0
+"ObjectId(""5ec574b15b1a50001967b4ad"")","-29.8511627","-51.1778852","Rio Grande do Sul","Brasil","Esteio",30.59,0.30000000000000004
+"ObjectId(""5ec574c25b1a50001967b4ae"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.37,-0.1875
+"ObjectId(""5ec5752a5b1a50001967b4b0"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",23.51,0
+"ObjectId(""5ec5755f5b1a50001967b4b2"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",8.4,0
+"ObjectId(""5ec5756c5b1a50001967b4b3"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.67,0
+"ObjectId(""5ec575e05b1a50001967b4b5"")","-21.9750191","-44.8495361","Minas Gerais","Brasil",,11.58,
+"ObjectId(""5ec575e55b1a50001967b4b6"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",111.58,-0.3333333333333333
+"ObjectId(""5ec576185b1a50001967b4b8"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",1.95,-0.16666666666666666
+"ObjectId(""5ec5762d5b1a50001967b4b9"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec576435b1a50001967b4ba"")","-25.645841","-49.3126653","Paraná","Brasil","Fazenda Rio Grande",0.04,0.6000000000000001
+"ObjectId(""5ec576595b1a50001967b4bb"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.2
+"ObjectId(""5ec5766b5b1a50001967b4bc"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.4
+"ObjectId(""5ec5767c5b1a50001967b4bd"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.4
+"ObjectId(""5ec5768a5b1a50001967b4be"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec576a75b1a50001967b4c0"")","-10.8855129","-48.3716912","Tocantins","Brasil",,0.22,0
+"ObjectId(""5ec576c55b1a50001967b4c2"")","-22.7896225","-43.309929","Rio de Janeiro","Brasil","Duque de Caxias",46.61,0.7
+"ObjectId(""5ec576cd5b1a50001967b4c3"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec576d75b1a50001967b4c4"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec577085b1a50001967b4c7"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.4
+"ObjectId(""5ec5776d5b1a50001967b4c8"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.4
+"ObjectId(""5ec577755b1a50001967b4c9"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0.4
+"ObjectId(""5ec5777c5b1a50001967b4ca"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec577865b1a50001967b4cb"")","-19.9601244","-44.2020531","Minas Gerais","Brasil","Betim",20.06,0
+"ObjectId(""5ec577b15b1a50001967b4cc"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.6,0
+"ObjectId(""5ec577d85b1a50001967b4ce"")","-23.1887866","-46.8845122","São Paulo","Brasil","Jundiaí",3.17,0.17857142857142858
+"ObjectId(""5ec578145b1a50001967b4d0"")","-23.1887866","-46.8845122","São Paulo","Brasil","Jundiaí",0.24,0.17857142857142858
+"ObjectId(""5ec578355b1a50001967b4d1"")","-23.1887866","-46.8845122","São Paulo","Brasil","Jundiaí",3.17,0.35714285714285715
+"ObjectId(""5ec5783a5b1a50001967b4d2"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",17.52,0
+"ObjectId(""5ec5786f5b1a50001967b4d4"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",3.52,0
+"ObjectId(""5ec578915b1a50001967b4d5"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.25,1
+"ObjectId(""5ec578a05b1a50001967b4d6"")","-12.285251","-41.9294776","Bahia","Brasil",,6.27,0.03333333333333333
+"ObjectId(""5ec578ef5b1a50001967b4d7"")","-22.436111","-46.821667","São Paulo","Brasil","Itapira",4.95,0
+"ObjectId(""5ec579245b1a50001967b4d8"")","-21.7609533","-43.3501129","Minas Gerais","Brasil","Juiz de Fora",0.44,0.2375
+"ObjectId(""5ec5797b5b1a50001967b4da"")","-28.9182121","-51.547104","Rio Grande do Sul","Brasil",,18.88,0.1
+"ObjectId(""5ec579815b1a50001967b4db"")","-28.9182121","-51.547104","Rio Grande do Sul","Brasil",,18.88,0.4
+"ObjectId(""5ec5798e5b1a50001967b4dd"")","-28.9182121","-51.547104","Rio Grande do Sul","Brasil",,18.88,0
+"ObjectId(""5ec579a65b1a50001967b4de"")","-28.9182121","-51.547104","Rio Grande do Sul","Brasil",,18.88,0
+"ObjectId(""5ec579ce5b1a50001967b4df"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",7.03,0.5
+"ObjectId(""5ec579d65b1a50001967b4e0"")","-9.571664349999999","-40.961051765435606",,"Brasil",,17.39,0
+"ObjectId(""5ec579e05b1a50001967b4e1"")","-21.7558619","-41.3326895","Rio de Janeiro","Brasil","Campos dos Goytacazes",11.97,0.1
+"ObjectId(""5ec57a225b1a50001967b4e2"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.11,0.125
+"ObjectId(""5ec57a385b1a50001967b4e4"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",5.7,0.5
+"ObjectId(""5ec57a625b1a50001967b4e6"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",111.58,0
+"ObjectId(""5ec57a885b1a50001967b4e7"")","-9.6476843","-35.7339264","Alagoas","Brasil","Maceió",8.61,0
+"ObjectId(""5ec57ad05b1a50001967b4e8"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.75,-1
+"ObjectId(""5ec57aea5b1a50001967b4ea"")","-10.1835604","-48.3337793","Tocantins","Brasil","Palmas",1.92,0
+"ObjectId(""5ec57b055b1a50001967b4eb"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",28.14,-0.09999999999999999
+"ObjectId(""5ec57b0c5b1a50001967b4ec"")","-7.2153453","-39.3153336","Ceará","Brasil","Juazeiro do Norte",6.04,0
+"ObjectId(""5ec57b425b1a50001967b4ed"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",9.78,0
+"ObjectId(""5ec57b4a5b1a50001967b4ee"")","-20.949077","-48.479083","São Paulo","Brasil","Bebedouro",1.31,0
+"ObjectId(""5ec57b5b5b1a50001967b4f0"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",119.45,-0.1875
+"ObjectId(""5ec57bd05b1a50001967b4f3"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,0.73,0
+"ObjectId(""5ec57bd05b1a50001967b4f4"")","-5.9153334","-35.2679913","Rio Grande do Norte","Brasil","Parnamirim",0.73,0
+"ObjectId(""5ec57bd75b1a50001967b4f5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",32.54,0
+"ObjectId(""5ec57bdf5b1a50001967b4f6"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,0.02,0
+"ObjectId(""5ec57bfa5b1a50001967b4f9"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.45,0
+"ObjectId(""5ec57c3e5b1a50001967b4fb"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",73.46,0.5
+"ObjectId(""5ec57c745b1a50001967b4fd"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",161.33,0
+"ObjectId(""5ec57c895b1a50001967b4fe"")","-4.7493933","-52.8973006","Pará","Brasil",,48.7,0.1875
+"ObjectId(""5ec57c975b1a50001967b4ff"")","14.5414557","121.13110211661777","Rizal","Philippines",,197.54,0
+"ObjectId(""5ec57cb25b1a50001967b501"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",28.46,0
+"ObjectId(""5ec57cd85b1a50001967b502"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",0.1,0
+"ObjectId(""5ec57ceb5b1a50001967b503"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",7.86,-0.25
+"ObjectId(""5ec57d3a5b1a50001967b505"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",111.6,0.4666666666666666
+"ObjectId(""5ec57d415b1a50001967b506"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.43,0.24318181818181817
+"ObjectId(""5ec57d515b1a50001967b507"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.26,0.78125
+"ObjectId(""5ec57d8a5b1a50001967b50b"")","-21.2425512","-44.9991978","Minas Gerais","Brasil","Lavras",1.19,0.016666666666666666
+"ObjectId(""5ec57d9c5b1a50001967b50c"")","-15.871329450000001","-47.91245651994342","Distrito Federal","Brasil",,6.08,-0.16666666666666666
+"ObjectId(""5ec57db95b1a50001967b50e"")","-21.7558619","-41.3326895","Rio de Janeiro","Brasil","Campos dos Goytacazes",0.05,0
+"ObjectId(""5ec57def5b1a50001967b50f"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,2.73,0.175
+"ObjectId(""5ec57e055b1a50001967b510"")","-3.7925722","-38.56733708713064","Ceará","Brasil","Fortaleza",2.25,0.2375
+"ObjectId(""5ec57e125b1a50001967b511"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.19318181818181818
+"ObjectId(""5ec57e245b1a50001967b512"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.19318181818181818
+"ObjectId(""5ec57e2a5b1a50001967b513"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",0.1,0
+"ObjectId(""5ec57e425b1a50001967b514"")","-10.1835604","-48.3337793","Tocantins","Brasil","Palmas",27.23,-0.5
+"ObjectId(""5ec57e645b1a50001967b516"")","-7.2153453","-39.3153336","Ceará","Brasil","Juazeiro do Norte",6.04,0
+"ObjectId(""5ec57e6d5b1a50001967b517"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",14.76,0.1
+"ObjectId(""5ec57e8d5b1a50001967b518"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.19318181818181818
+"ObjectId(""5ec57ebe5b1a50001967b519"")","-3.0318983","-65.1735233","Amazonas","Brasil",,3.98,0.2375
+"ObjectId(""5ec57ec75b1a50001967b51a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.64,0
+"ObjectId(""5ec57ede5b1a50001967b51b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.19318181818181818
+"ObjectId(""5ec57efe5b1a50001967b51c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.19318181818181818
+"ObjectId(""5ec57f1a5b1a50001967b51d"")","-20.3781468","-43.4174862","Minas Gerais","Brasil","Mariana",8.87,0
+"ObjectId(""5ec57f365b1a50001967b51e"")","-23.51060435","-46.639857203774525","São Paulo","Brasil","São Paulo",3.8,0
+"ObjectId(""5ec57f425b1a50001967b51f"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",22.37,0
+"ObjectId(""5ec57f575b1a50001967b520"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",10.24,0.2375
+"ObjectId(""5ec57f735b1a50001967b521"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.12878787878787878
+"ObjectId(""5ec57fbc5b1a50001967b522"")","-22.5266308","-42.9790687","Rio de Janeiro","Brasil","Guapimirim",0.27,-0.75
+"ObjectId(""5ec57fd35b1a50001967b523"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,3.1,0.2375
+"ObjectId(""5ec580015b1a50001967b525"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.35,0.12878787878787878
+"ObjectId(""5ec5804a5b1a50001967b526"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",7.77,0.85
+"ObjectId(""5ec580535b1a50001967b527"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.1,0.5
+"ObjectId(""5ec580605b1a50001967b528"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",14.76,0
+"ObjectId(""5ec580b15b1a50001967b52a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec580c55b1a50001967b52b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec580d05b1a50001967b52c"")","-25.6704878","-53.8083036","Paraná","Brasil","Capanema",27.65,0.35
+"ObjectId(""5ec581035b1a50001967b52d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec581205b1a50001967b52f"")","-25.6704878","-53.8083036","Paraná","Brasil","Capanema",27.65,0.5
+"ObjectId(""5ec581635b1a50001967b532"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,70.38,0.25
+"ObjectId(""5ec581815b1a50001967b533"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.67,0
+"ObjectId(""5ec581eb5b1a50001967b535"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",171.95,0
+"ObjectId(""5ec581fc5b1a50001967b537"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec5821f5b1a50001967b538"")","-21.9549806","-49.0232348","São Paulo","Brasil",,14.09,0
+"ObjectId(""5ec5826c5b1a50001967b539"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",17.47,0.016666666666666666
+"ObjectId(""5ec582a55b1a50001967b53b"")","25.6923488","-100.4226088","Nuevo León","México",,290.59,0
+"ObjectId(""5ec582cf5b1a50001967b53c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec582d65b1a50001967b53d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec582fe5b1a50001967b53e"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,7.36,0
+"ObjectId(""5ec5830a5b1a50001967b53f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.36,0.12878787878787878
+"ObjectId(""5ec5830f5b1a50001967b540"")","-12.2115009","-55.5716547","Mato Grosso","Brasil",,22.63,0
+"ObjectId(""5ec583175b1a50001967b541"")","-21.6114892","-48.8144992","São Paulo","Brasil",,6.88,0
+"ObjectId(""5ec5835b5b1a50001967b542"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",16.45,0.10000000000000002
+"ObjectId(""5ec583bd5b1a50001967b544"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.74,0
+"ObjectId(""5ec583db5b1a50001967b545"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.1,0
+"ObjectId(""5ec583ed5b1a50001967b546"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",9.3,-0.2
+"ObjectId(""5ec5840b5b1a50001967b547"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec584215b1a50001967b548"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec584315b1a50001967b549"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec584385b1a50001967b54a"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",336.85,0.2333333333333333
+"ObjectId(""5ec5843e5b1a50001967b54b"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",138.37,0
+"ObjectId(""5ec5844f5b1a50001967b54c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec5845e5b1a50001967b54d"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.89,0.7
+"ObjectId(""5ec584685b1a50001967b54e"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",11.86,0
+"ObjectId(""5ec5846e5b1a50001967b54f"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",6.2,0
+"ObjectId(""5ec5849f5b1a50001967b550"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec584b85b1a50001967b551"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",10.04,0.7
+"ObjectId(""5ec584c15b1a50001967b552"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",1.27,0
+"ObjectId(""5ec584e05b1a50001967b553"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec5850b5b1a50001967b555"")","-26.468753","-49.002628","Santa Catarina","Brasil","Guaramirim",3.84,-0.07142857142857142
+"ObjectId(""5ec585375b1a50001967b556"")","-23.5112184","-46.8764612","São Paulo","Brasil","Barueri",2.52,0
+"ObjectId(""5ec585765b1a50001967b557"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.37,0.12878787878787878
+"ObjectId(""5ec585875b1a50001967b558"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",7.52,0
+"ObjectId(""5ec585925b1a50001967b559"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec585975b1a50001967b55a"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",7.52,0
+"ObjectId(""5ec585a55b1a50001967b55b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec585b45b1a50001967b55c"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",743.91,-0.2
+"ObjectId(""5ec585c05b1a50001967b55d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec585cf5b1a50001967b55e"")","-21.9549806","-49.0232348","São Paulo","Brasil",,14.09,0
+"ObjectId(""5ec585d75b1a50001967b55f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec585f35b1a50001967b560"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec586105b1a50001967b562"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.83,0.7
+"ObjectId(""5ec586215b1a50001967b563"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.19318181818181818
+"ObjectId(""5ec5862b5b1a50001967b564"")","2.8208478","-60.6719582","Roraima","Brasil","Boa Vista",1.74,-1
+"ObjectId(""5ec586395b1a50001967b565"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec586415b1a50001967b566"")","-12.9144139","-38.4874154","Bahia","Brasil","Salvador",73.67,0
+"ObjectId(""5ec586535b1a50001967b567"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec586625b1a50001967b568"")","-19.9601533","-43.9893018","Minas Gerais","Brasil","Belo Horizonte",5.8,0.4
+"ObjectId(""5ec586755b1a50001967b569"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",10.56,0
+"ObjectId(""5ec5868c5b1a50001967b56a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec586c25b1a50001967b56c"")","-17.8067173","-48.7648226","Goiás","Brasil","Rio Quente",3.44,0.35
+"ObjectId(""5ec586cc5b1a50001967b56d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec586d25b1a50001967b56e"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",140.72,0.35
+"ObjectId(""5ec586e25b1a50001967b56f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec587045b1a50001967b570"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",3.28,0
+"ObjectId(""5ec587545b1a50001967b571"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",3.13,0.7
+"ObjectId(""5ec587675b1a50001967b573"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.05,0
+"ObjectId(""5ec5879e5b1a50001967b574"")","-29.7171898","-53.76736372670953","Rio Grande do Sul","Brasil","Santa Maria",11.12,0
+"ObjectId(""5ec588035b1a50001967b576"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",0.45,0.5
+"ObjectId(""5ec588205b1a50001967b577"")","-7.9313338","-34.8274614","Pernambuco","Brasil","Paulista",0.17,0.2
+"ObjectId(""5ec5882e5b1a50001967b578"")","-22.860348","-43.4028933","Rio de Janeiro","Brasil","Rio de Janeiro",5.03,0
+"ObjectId(""5ec589135b1a50001967b579"")","-31.7601509","-52.2729868","Rio Grande do Sul","Brasil","Pelotas",2.56,-0.17676767676767677
+"ObjectId(""5ec5891f5b1a50001967b57a"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",5.39,0
+"ObjectId(""5ec5894b5b1a50001967b57b"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",5.56,0
+"ObjectId(""5ec589565b1a50001967b57c"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",1.7,-0.16666666666666666
+"ObjectId(""5ec589665b1a50001967b57d"")","-19.8299544","-43.9881434","Minas Gerais","Brasil","Belo Horizonte",3.56,0
+"ObjectId(""5ec589a15b1a50001967b580"")","38.789534","-6.4923972","Extremadura","España","Mérida",33.59,-0.17676767676767677
+"ObjectId(""5ec589ae5b1a50001967b581"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.78,0
+"ObjectId(""5ec589b45b1a50001967b582"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1,0.3
+"ObjectId(""5ec589d75b1a50001967b585"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58a625b1a50001967b588"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",7.21,0
+"ObjectId(""5ec58a775b1a50001967b58a"")","-21.9549806","-49.0232348","São Paulo","Brasil",,0.2,0.625
+"ObjectId(""5ec58a7d5b1a50001967b58b"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",3.03,0.7
+"ObjectId(""5ec58a8d5b1a50001967b58c"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",6.77,0.03750000000000001
+"ObjectId(""5ec58ad75b1a50001967b58d"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",54.44,0.7
+"ObjectId(""5ec58b655b1a50001967b592"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.09,0
+"ObjectId(""5ec58ba45b1a50001967b594"")","-27.5973002","-48.5496098","Santa Catarina","Brasil","Florianópolis",1.79,0
+"ObjectId(""5ec58bce5b1a50001967b595"")","-26.1150943","-49.8035982","Santa Catarina","Brasil","Mafra",7.88,0
+"ObjectId(""5ec58bd35b1a50001967b596"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3437.98,0.35
+"ObjectId(""5ec58bee5b1a50001967b597"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",9.3,0.03333333333333333
+"ObjectId(""5ec58c045b1a50001967b598"")","-3.73327495","-38.490079573755864","Ceará","Brasil","Fortaleza",0.3,0
+"ObjectId(""5ec58c355b1a50001967b59a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58c3f5b1a50001967b59b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.77,0
+"ObjectId(""5ec58c465b1a50001967b59c"")","-22.9043934","-43.1830653","Rio de Janeiro","Brasil","Rio de Janeiro",18.32,0.12222222222222223
+"ObjectId(""5ec58c875b1a50001967b59d"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.04,0.13636363636363635
+"ObjectId(""5ec58c965b1a50001967b59e"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58cac5b1a50001967b59f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58cd25b1a50001967b5a1"")","-19.7443601","-40.37570463546963","Espírito Santo","Brasil",,0.9,0
+"ObjectId(""5ec58ce95b1a50001967b5a2"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58d025b1a50001967b5a3"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58d075b1a50001967b5a4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58d3a5b1a50001967b5a5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58d4a5b1a50001967b5a6"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",13.3,0.13636363636363635
+"ObjectId(""5ec58d5a5b1a50001967b5a8"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",4.71,0.2333333333333333
+"ObjectId(""5ec58d825b1a50001967b5a9"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58db75b1a50001967b5ab"")","-17.0840746","-41.0975347","Minas Gerais","Brasil",,10.37,0.13636363636363635
+"ObjectId(""5ec58dbd5b1a50001967b5ac"")","-17.0840746","-41.0975347","Minas Gerais","Brasil",,10.37,0.13636363636363635
+"ObjectId(""5ec58dd45b1a50001967b5ad"")","-20.3366604","-47.7797924","São Paulo","Brasil","Ituverava",23.37,0.17045454545454544
+"ObjectId(""5ec58dd65b1a50001967b5ae"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",23.37,0.17045454545454544
+"ObjectId(""5ec58e055b1a50001967b5af"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.38,0.12878787878787878
+"ObjectId(""5ec58e1b5b1a50001967b5b0"")","-10.9141791","-37.6715308","Sergipe","Brasil","Lagarto",0.13,0
+"ObjectId(""5ec58e215b1a50001967b5b1"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",12.05,0
+"ObjectId(""5ec58e4e5b1a50001967b5b4"")","-33.69205005","150.8228322187669",,"Australia","Sydney",4.95,0
+"ObjectId(""5ec58e545b1a50001967b5b5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",39.49,0
+"ObjectId(""5ec58e6d5b1a50001967b5b6"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",18.66,0.41666666666666663
+"ObjectId(""5ec58e8e5b1a50001967b5b7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.77,0.06818181818181818
+"ObjectId(""5ec58e9d5b1a50001967b5b8"")","-19.8299544","-43.9881434","Minas Gerais","Brasil","Belo Horizonte",1.34,0
+"ObjectId(""5ec58edc5b1a50001967b5b9"")","-21.7609533","-43.3501129","Minas Gerais","Brasil","Juiz de Fora",6.77,0
+"ObjectId(""5ec58ee35b1a50001967b5ba"")","-22.8273665","-47.0790555","São Paulo","Brasil","Campinas",11.06,-0.625
+"ObjectId(""5ec58f155b1a50001967b5bb"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.5,0
+"ObjectId(""5ec58f235b1a50001967b5bc"")","-20.6971953","-44.8273969","Minas Gerais","Brasil","Oliveira",0.4,0.5681818181818181
+"ObjectId(""5ec58f3a5b1a50001967b5bd"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",14.63,0
+"ObjectId(""5ec58f6d5b1a50001967b5bf"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.28,0
+"ObjectId(""5ec58f905b1a50001967b5c1"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",17.92,0
+"ObjectId(""5ec5901b5b1a50001967b5c4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",264.88,0.25
+"ObjectId(""5ec590775b1a50001967b5c7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",19.98,-0.3333333333333333
+"ObjectId(""5ec590ad5b1a50001967b5c9"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",13.86,-0.8
+"ObjectId(""5ec590ea5b1a50001967b5ca"")","-17.35442","-44.9186695","Minas Gerais","Brasil",,1.61,0.7
+"ObjectId(""5ec591305b1a50001967b5cc"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",11.61,0.13636363636363635
+"ObjectId(""5ec591725b1a50001967b5ce"")","-23.050564","-47.837549","São Paulo","Brasil","Laranjal Paulista",6.42,0
+"ObjectId(""5ec591f95b1a50001967b5d0"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec592125b1a50001967b5d1"")","-8.3338293","-36.4176419","Pernambuco","Brasil","Belo Jardim",0.01,0
+"ObjectId(""5ec5921d5b1a50001967b5d2"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec592245b1a50001967b5d3"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec592505b1a50001967b5d4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec5925c5b1a50001967b5d5"")","-18.9188041","-48.2767837","Minas Gerais","Brasil","Uberlândia",1.3,0.175
+"ObjectId(""5ec592635b1a50001967b5d6"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",1.7,0
+"ObjectId(""5ec592705b1a50001967b5d7"")","-25.966917","32.466956","Maputo","Mozambique","Matola",18.84,0.03333333333333333
+"ObjectId(""5ec592775b1a50001967b5d8"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec5929c5b1a50001967b5d9"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",13.86,0
+"ObjectId(""5ec592c25b1a50001967b5da"")","-29.6905705","-51.1429035","Rio Grande do Sul","Brasil","Novo Hamburgo",28.62,0
+"ObjectId(""5ec592eb5b1a50001967b5dc"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec592f25b1a50001967b5dd"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",1.7,0
+"ObjectId(""5ec592fd5b1a50001967b5de"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593095b1a50001967b5df"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593175b1a50001967b5e0"")","-31.7636377","-52.2721084","Rio Grande do Sul","Brasil","Pelotas",4.44,0
+"ObjectId(""5ec5931e5b1a50001967b5e1"")","-18.8539497","-41.9458753","Minas Gerais","Brasil","Governador Valadares",2.54,0
+"ObjectId(""5ec593295b1a50001967b5e2"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec5934e5b1a50001967b5e3"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593705b1a50001967b5e4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593775b1a50001967b5e5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593845b1a50001967b5e6"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.59,0.04166666666666667
+"ObjectId(""5ec593925b1a50001967b5e7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec593e15b1a50001967b5e9"")","-16.0170857","-48.0653054","Distrito Federal","Brasil","Gama",2.36,0
+"ObjectId(""5ec594155b1a50001967b5ea"")","-1.6292632","-45.2368151","Maranhão","Brasil",,0.03,0.2375
+"ObjectId(""5ec594725b1a50001967b5eb"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.3,0.2375
+"ObjectId(""5ec594ad5b1a50001967b5ec"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec594c45b1a50001967b5ed"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",13.86,-0.6
+"ObjectId(""5ec595315b1a50001967b5ef"")","-8.108706","-35.08354","Pernambuco","Brasil","Moreno",0.48,0
+"ObjectId(""5ec595705b1a50001967b5f0"")","-12.285251","-41.9294776","Bahia","Brasil",,1.73,-0.125
+"ObjectId(""5ec5958e5b1a50001967b5f1"")","-12.6390005","-38.33542874367488","Bahia","Brasil","Camaçari",7.81,0
+"ObjectId(""5ec5959d5b1a50001967b5f2"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",9.37,-0.03333333333333333
+"ObjectId(""5ec595dc5b1a50001967b5f5"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",6.02,-0.125
+"ObjectId(""5ec595e15b1a50001967b5f6"")","-16.0496528","-48.0304615","Goiás","Brasil","Novo Gama",6.02,-0.06666666666666665
+"ObjectId(""5ec595f15b1a50001967b5f7"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",186.63,0.40277777777777773
+"ObjectId(""5ec596215b1a50001967b5f8"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec5962e5b1a50001967b5f9"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",79.21,0
+"ObjectId(""5ec596345b1a50001967b5fa"")","-22.9668842","-43.3864704","Rio de Janeiro","Brasil","Rio de Janeiro",2.82,0.35
+"ObjectId(""5ec596535b1a50001967b5fb"")","47.8029063","8.9269052","Baden-Württemberg","Deutschland",,7.91,0.4166666666666667
+"ObjectId(""5ec596645b1a50001967b5fc"")","17.6467874","-101.5519746","Guerrero","México",,3.02,-0.3
+"ObjectId(""5ec5969d5b1a50001967b5fd"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",1.22,0.625
+"ObjectId(""5ec596ce5b1a50001967b5fe"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.89,0
+"ObjectId(""5ec596d45b1a50001967b5ff"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec596f05b1a50001967b600"")","-24.299187699999997","-53.84513119409506","Paraná","Brasil",,0.74,0
+"ObjectId(""5ec597b85b1a50001967b601"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.39,0
+"ObjectId(""5ec597eb5b1a50001967b602"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,4.12,0
+"ObjectId(""5ec597fb5b1a50001967b603"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",3.19,0
+"ObjectId(""5ec598225b1a50001967b604"")","-29.717304650000003","-53.7674583025955","Rio Grande do Sul","Brasil","Santa Maria",3.59,-0.0625
+"ObjectId(""5ec598235b1a50001967b605"")","-28.2616138","-52.4089048","Rio Grande do Sul","Brasil","Passo Fundo",3.59,-0.0625
+"ObjectId(""5ec598295b1a50001967b606"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",126.88,0.35
+"ObjectId(""5ec5985b5b1a50001967b607"")","18.567412500000003","73.77641686826863","Maharashtra","India","Pune",1.13,
+"ObjectId(""5ec598785b1a50001967b608"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.34,0.3333333333333333
+"ObjectId(""5ec599095b1a50001967b60a"")","-21.9549806","-49.0232348","São Paulo","Brasil",,14.1,0
+"ObjectId(""5ec5994e5b1a50001967b60b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.08,0
+"ObjectId(""5ec5996c5b1a50001967b60c"")","-22.7433969","-46.3735044","Minas Gerais","Brasil","Toledo",30.29,0
+"ObjectId(""5ec599835b1a50001967b60d"")","-6.25157245","-36.52997164724819","Rio Grande do Norte","Brasil",,13.67,0
+"ObjectId(""5ec5998c5b1a50001967b60e"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.35,0
+"ObjectId(""5ec599bf5b1a50001967b60f"")","-5.0896403","-42.809588","Piauí","Brasil","Teresina",1.22,0.08333333333333334
+"ObjectId(""5ec599e95b1a50001967b610"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",10.42,0
+"ObjectId(""5ec599f95b1a50001967b611"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.35,0.2
+"ObjectId(""5ec59a0c5b1a50001967b612"")","-22.7433969","-46.3735044","Minas Gerais","Brasil","Toledo",0.03,0
+"ObjectId(""5ec59a205b1a50001967b613"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.36,0
+"ObjectId(""5ec59a475b1a50001967b615"")","48.8566969","2.3514616","Île-de-France","France","Paris",0.04,0.13636363636363635
+"ObjectId(""5ec59a645b1a50001967b617"")","-20.542692","-50.59362","São Paulo","Brasil",,2.09,0
+"ObjectId(""5ec59a7a5b1a50001967b618"")","-21.9549806","-49.0232348","São Paulo","Brasil",,2.06,0.2375
+"ObjectId(""5ec59a8b5b1a50001967b619"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.68,0
+"ObjectId(""5ec59a935b1a50001967b61a"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",54.47,0.03333333333333333
+"ObjectId(""5ec59abc5b1a50001967b61b"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",0.12,0.05656565656565656
+"ObjectId(""5ec59ac45b1a50001967b61c"")","-22.9805186","-43.2246621","Rio de Janeiro","Brasil","Rio de Janeiro",25.55,0
+"ObjectId(""5ec59ae25b1a50001967b61d"")","-17.35442","-44.9186695","Minas Gerais","Brasil",,1.93,0
+"ObjectId(""5ec59ae75b1a50001967b61e"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.85,0
+"ObjectId(""5ec59af55b1a50001967b61f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",428.03,0.25
+"ObjectId(""5ec59afb5b1a50001967b620"")","-27.5973002","-48.5496098","Santa Catarina","Brasil","Florianópolis",18.77,-0.2
+"ObjectId(""5ec59b115b1a50001967b621"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.05,0.35
+"ObjectId(""5ec59b1b5b1a50001967b622"")","-22.8659317","-43.253318","Rio de Janeiro","Brasil","Rio de Janeiro",12.6,0
+"ObjectId(""5ec59b545b1a50001967b625"")","-22.8076706","-43.1968212","Rio de Janeiro","Brasil","Rio de Janeiro",3.38,0.35
+"ObjectId(""5ec59b885b1a50001967b627"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.36,0
+"ObjectId(""5ec59ba35b1a50001967b628"")","-20.5381768","-47.4009795","São Paulo","Brasil","Franca",9.47,0
+"ObjectId(""5ec59baa5b1a50001967b629"")","-22.5225497","-44.1040128","Rio de Janeiro","Brasil","Volta Redonda",28.82,0
+"ObjectId(""5ec59bc55b1a50001967b62a"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",1.01,0.5
+"ObjectId(""5ec59c5c5b1a50001967b62d"")","-22.5225497","-44.1040128","Rio de Janeiro","Brasil","Volta Redonda",4.33,0
+"ObjectId(""5ec59c7a5b1a50001967b62e"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.37,0
+"ObjectId(""5ec59c965b1a50001967b62f"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",10.88,0
+"ObjectId(""5ec59cbe5b1a50001967b630"")","-8.2829702","-35.9722852","Pernambuco","Brasil","Caruaru",2.12,-0.5
+"ObjectId(""5ec59cf55b1a50001967b632"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.41,0
+"ObjectId(""5ec59d2a5b1a50001967b633"")","-22.5783685","-44.9642044","São Paulo","Brasil","Cruzeiro",0.6,0.008333333333333331
+"ObjectId(""5ec59d485b1a50001967b634"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.1,-0.05
+"ObjectId(""5ec59da35b1a50001967b637"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,3.4,0.4375
+"ObjectId(""5ec59df45b1a50001967b639"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",10.21,0.125
+"ObjectId(""5ec59e5c5b1a50001967b63b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",32.44,-0.625
+"ObjectId(""5ec59e745b1a50001967b63c"")","-21.7558619","-41.3326895","Rio de Janeiro","Brasil","Campos dos Goytacazes",21.41,0
+"ObjectId(""5ec59e915b1a50001967b63d"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",5.7,0.21666666666666667
+"ObjectId(""5ec59e965b1a50001967b63e"")","-19.8299544","-43.9881434","Minas Gerais","Brasil","Belo Horizonte",0.04,0
+"ObjectId(""5ec59eaa5b1a50001967b63f"")","13.1951756","123.6439368","Albay","Philippines",,2.87,0.25
+"ObjectId(""5ec59f0c5b1a50001967b640"")","13.1951756","123.6439368","Albay","Philippines",,2.87,0.25
+"ObjectId(""5ec59f3d5b1a50001967b642"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",102.81,0
+"ObjectId(""5ec59f505b1a50001967b643"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",102.81,0
+"ObjectId(""5ec59f835b1a50001967b644"")","-16.7273538","-43.8717676","Minas Gerais","Brasil","Montes Claros",1.39,0
+"ObjectId(""5ec59fb05b1a50001967b645"")","-3.010427","-56.621115","Pará","Brasil",,6.23,1
+"ObjectId(""5ec59fb65b1a50001967b646"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",1.35,0
+"ObjectId(""5ec59fef5b1a50001967b648"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",8.35,0.26666666666666666
+"ObjectId(""5ec5a00c5b1a50001967b64a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.52,0
+"ObjectId(""5ec5a0255b1a50001967b64b"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.43,
+"ObjectId(""5ec5a0845b1a50001967b64c"")","-23.62787335","-46.663030693618964","São Paulo","Brasil","São Paulo",1176.58,0
+"ObjectId(""5ec5a0975b1a50001967b64d"")","-23.3112878","-51.1595023","Paraná","Brasil","Londrina",3.96,0
+"ObjectId(""5ec5a09d5b1a50001967b64e"")","-12.285251","-41.9294776","Bahia","Brasil",,0.63,0
+"ObjectId(""5ec5a0a65b1a50001967b64f"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",1.92,0.0625
+"ObjectId(""5ec5a0b25b1a50001967b650"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",4.32,0.03333333333333333
+"ObjectId(""5ec5a0b95b1a50001967b651"")","-21.6114892","-48.8144992","São Paulo","Brasil",,9.28,0
+"ObjectId(""5ec5a0df5b1a50001967b653"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",61.76,0
+"ObjectId(""5ec5a0f65b1a50001967b654"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",8.13,0
+"ObjectId(""5ec5a0fb5b1a50001967b655"")","-3.8922967","-38.6835427","Ceará","Brasil","Maranguape",8.67,0.4
+"ObjectId(""5ec5a1405b1a50001967b657"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.46,0.2
+"ObjectId(""5ec5a1495b1a50001967b658"")","-4.558259","-37.767894","Ceará","Brasil","Aracati",0.89,-0.25
+"ObjectId(""5ec5a1745b1a50001967b659"")","-20.4615833","-54.62004315","Mato Grosso do Sul","Brasil","Campo Grande",116.06,0
+"ObjectId(""5ec5a19f5b1a50001967b65b"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",3.06,0.03333333333333333
+"ObjectId(""5ec5a1a85b1a50001967b65c"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.55,0
+"ObjectId(""5ec5a1b05b1a50001967b65d"")","-22.5225497","-44.1040128","Rio de Janeiro","Brasil","Volta Redonda",9.18,0
+"ObjectId(""5ec5a1d05b1a50001967b65e"")","-21.0239714","-48.0393457","São Paulo","Brasil","Pontal",13.11,0.4
+"ObjectId(""5ec5a1db5b1a50001967b65f"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",2.7,0.4
+"ObjectId(""5ec5a2285b1a50001967b660"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",42.56,-0.6
+"ObjectId(""5ec5a23f5b1a50001967b661"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.94,0
+"ObjectId(""5ec5a26c5b1a50001967b662"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.87,0
+"ObjectId(""5ec5a2785b1a50001967b663"")","-3.499329","-39.583571","Ceará","Brasil","Itapipoca",2.54,0
+"ObjectId(""5ec5a2905b1a50001967b664"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",2.4,0.125
+"ObjectId(""5ec5a2cb5b1a50001967b665"")","-9.571664349999999","-40.961051765435606",,"Brasil",,17.41,0
+"ObjectId(""5ec5a2f05b1a50001967b666"")","-25.469663","-50.649287","Paraná","Brasil","Irati",0.17,0.1
+"ObjectId(""5ec5a3045b1a50001967b667"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",22.89,0.1
+"ObjectId(""5ec5a3205b1a50001967b668"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.36,0
+"ObjectId(""5ec5a32e5b1a50001967b669"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5994.86,0.24318181818181817
+"ObjectId(""5ec5a3395b1a50001967b66a"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",440.12,0
+"ObjectId(""5ec5a3415b1a50001967b66b"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.4,0.48571428571428577
+"ObjectId(""5ec5a3535b1a50001967b66c"")","16.5564139","-95.0959653","Oaxaca","México",,369,0
+"ObjectId(""5ec5a3695b1a50001967b66d"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.96,-0.5
+"ObjectId(""5ec5a3775b1a50001967b66e"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",111.61,0
+"ObjectId(""5ec5a3855b1a50001967b66f"")","-7.9986401","-34.8459552","Pernambuco","Brasil","Olinda",25.96,0.5
+"ObjectId(""5ec5a38d5b1a50001967b670"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",26.18,0
+"ObjectId(""5ec5a3b65b1a50001967b671"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",41.45,0.25
+"ObjectId(""5ec5a3d85b1a50001967b673"")","-32.0334252","-52.0991297","Rio Grande do Sul","Brasil","Rio Grande",2.56,0.26633522727272724
+"ObjectId(""5ec5a3e05b1a50001967b674"")","-7.2369112","-39.4149236","Ceará","Brasil","Crato",0.25,0
+"ObjectId(""5ec5a3f15b1a50001967b675"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",2.53,0.1
+"ObjectId(""5ec5a3ff5b1a50001967b676"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.11,0
+"ObjectId(""5ec5a4045b1a50001967b677"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",0,0.7875000000000001
+"ObjectId(""5ec5a4145b1a50001967b678"")","-5.3264703","-39.7156073","Ceará","Brasil",,6.02,0
+"ObjectId(""5ec5a41b5b1a50001967b679"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",2.23,0
+"ObjectId(""5ec5a42f5b1a50001967b67a"")","-21.7558619","-41.3326895","Rio de Janeiro","Brasil","Campos dos Goytacazes",10.86,-0.008333333333333318
+"ObjectId(""5ec5a4be5b1a50001967b67c"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.04,0
+"ObjectId(""5ec5a5215b1a50001967b67d"")","-22.5225497","-44.1040128","Rio de Janeiro","Brasil","Volta Redonda",20.78,0
+"ObjectId(""5ec5a56f5b1a50001967b67e"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",1.2,0.05656565656565656
+"ObjectId(""5ec5a59b5b1a50001967b67f"")","-23.397621","-45.848714","São Paulo","Brasil",,16.38,0
+"ObjectId(""5ec5a5b35b1a50001967b680"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.62,0.3777777777777778
+"ObjectId(""5ec5a5ce5b1a50001967b681"")","-22.5225497","-44.1040128","Rio de Janeiro","Brasil","Volta Redonda",27.72,0
+"ObjectId(""5ec5a6355b1a50001967b683"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.02,0.6975446428571429
+"ObjectId(""5ec5a6465b1a50001967b684"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,1225.35,0.4
+"ObjectId(""5ec5a6545b1a50001967b685"")","-25.469663","-50.649287","Paraná","Brasil","Irati",0.17,0.5
+"ObjectId(""5ec5a6725b1a50001967b686"")","-22.3538135","-47.4025373","São Paulo","Brasil","Araras",5.67,0
+"ObjectId(""5ec5a6a55b1a50001967b687"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.3,0.02500000000000001
+"ObjectId(""5ec5a6b05b1a50001967b688"")","-23.681347","-46.62052","São Paulo","Brasil","Diadema",0.11,0
+"ObjectId(""5ec5a76a5b1a50001967b689"")","-25.7720262","-53.5338306","Paraná","Brasil","Realeza",9.14,0.03125
+"ObjectId(""5ec5a7865b1a50001967b68a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.4,1
+"ObjectId(""5ec5a7c45b1a50001967b68b"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",8.02,0
+"ObjectId(""5ec5a7cd5b1a50001967b68c"")","-7.2153453","-39.3153336","Ceará","Brasil","Juazeiro do Norte",6.02,0
+"ObjectId(""5ec5a7d35b1a50001967b68d"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",1.04,0.75
+"ObjectId(""5ec5a7fb5b1a50001967b68e"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.62,0.625
+"ObjectId(""5ec5a8245b1a50001967b68f"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",2.13,0.5633333333333334
+"ObjectId(""5ec5a8345b1a50001967b690"")","-20.225016","-42.16225512188581","Minas Gerais","Brasil",,7.79,0.15000000000000002
+"ObjectId(""5ec5a83b5b1a50001967b691"")","-22.8381127","-43.2764454","Rio de Janeiro","Brasil","Rio de Janeiro",13.5,0
+"ObjectId(""5ec5a8535b1a50001967b692"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",3.62,0.3333333333333333
+"ObjectId(""5ec5a87e5b1a50001967b693"")","-22.783092","-43.4293599","Rio de Janeiro","Brasil","Mesquita",1.46,0
+"ObjectId(""5ec5a8845b1a50001967b694"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",5.14,0
+"ObjectId(""5ec5a8895b1a50001967b695"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.68,0
+"ObjectId(""5ec5a8945b1a50001967b696"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",6.02,0
+"ObjectId(""5ec5a8b25b1a50001967b698"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",116.79,0
+"ObjectId(""5ec5a8bb5b1a50001967b699"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",107.77,-0.75
+"ObjectId(""5ec5a8c25b1a50001967b69a"")","-17.1884104","-41.6976554","Minas Gerais","Brasil","Caraí",35.39,0
+"ObjectId(""5ec5a8e35b1a50001967b69b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",14.6,0.75
+"ObjectId(""5ec5a8fe5b1a50001967b69c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.3,0.02500000000000001
+"ObjectId(""5ec5a90e5b1a50001967b69d"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",116.79,0.05000000000000002
+"ObjectId(""5ec5a9265b1a50001967b69e"")","-23.444117","-51.876016","Paraná","Brasil","Sarandi",1.55,0.03333333333333333
+"ObjectId(""5ec5a92c5b1a50001967b69f"")","-5.3264703","-39.7156073","Ceará","Brasil",,11.71,0
+"ObjectId(""5ec5a98e5b1a50001967b6a2"")","-22.2314922","-43.1056264","Rio de Janeiro","Brasil","Areal",8.64,0.35714285714285715
+"ObjectId(""5ec5a99b5b1a50001967b6a3"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.72,0
+"ObjectId(""5ec5a9c95b1a50001967b6a5"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,4.32,0
+"ObjectId(""5ec5a9e65b1a50001967b6a6"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",39.48,0
+"ObjectId(""5ec5a9f85b1a50001967b6a7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",10.86,0
+"ObjectId(""5ec5aa495b1a50001967b6a9"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",14.52,0.13636363636363635
+"ObjectId(""5ec5aad35b1a50001967b6ac"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",2.53,0
+"ObjectId(""5ec5aae75b1a50001967b6ad"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",12.36,0
+"ObjectId(""5ec5ab2b5b1a50001967b6ae"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",2.53,0
+"ObjectId(""5ec5ab3c5b1a50001967b6af"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,1.57,0.13636363636363635
+"ObjectId(""5ec5abc75b1a50001967b6b0"")","-7.2153453","-39.3153336","Ceará","Brasil","Juazeiro do Norte",6.02,0
+"ObjectId(""5ec5abed5b1a50001967b6b1"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",43.68,0
+"ObjectId(""5ec5abfb5b1a50001967b6b2"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",56.3,0.4
+"ObjectId(""5ec5ac325b1a50001967b6b3"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",8.39,0.0625
+"ObjectId(""5ec5ac3e5b1a50001967b6b5"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,3.23,0
+"ObjectId(""5ec5ac465b1a50001967b6b6"")","-10.916244","-37.047426","Sergipe","Brasil","Aracaju",2.47,-0.1
+"ObjectId(""5ec5ac4b5b1a50001967b6b7"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.21,0
+"ObjectId(""5ec5acb25b1a50001967b6b9"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",1.87,0
+"ObjectId(""5ec5acc05b1a50001967b6ba"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",744,-0.7
+"ObjectId(""5ec5ad345b1a50001967b6bd"")","-16.401204","-71.4952418","Arequipa","Peru",,0.69,-0.3
+"ObjectId(""5ec5ad635b1a50001967b6bf"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.81,0
+"ObjectId(""5ec5ad6a5b1a50001967b6c0"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",0.61,-0.125
+"ObjectId(""5ec5ad705b1a50001967b6c1"")","16.5564139","-95.0959653","Oaxaca","México",,369.02,0.6
+"ObjectId(""5ec5ad765b1a50001967b6c2"")","-5.8121092","-35.2072991","Rio Grande do Norte","Brasil","Natal",0.35,0
+"ObjectId(""5ec5ae105b1a50001967b6c4"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",0.14,-0.4549999999999999
+"ObjectId(""5ec5ae275b1a50001967b6c5"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",4.48,0.17045454545454544
+"ObjectId(""5ec5ae3a5b1a50001967b6c6"")","-21.9549806","-49.0232348","São Paulo","Brasil",,36.61,0
+"ObjectId(""5ec5ae725b1a50001967b6c7"")","-19.5372264","-40.6264497","Espírito Santo","Brasil","Colatina",0.12,0.7125
+"ObjectId(""5ec5aea05b1a50001967b6c8"")","-31.7571689","-52.2759551","Rio Grande do Sul","Brasil","Pelotas",7.67,0
+"ObjectId(""5ec5aec85b1a50001967b6c9"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,9.85,0
+"ObjectId(""5ec5aed35b1a50001967b6ca"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.7,0
+"ObjectId(""5ec5af015b1a50001967b6cb"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",0.41,0
+"ObjectId(""5ec5af0b5b1a50001967b6cc"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",32.87,0.1787878787878788
+"ObjectId(""5ec5af225b1a50001967b6cd"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",1.93,0.0625
+"ObjectId(""5ec5af3b5b1a50001967b6ce"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.03,1
+"ObjectId(""5ec5af785b1a50001967b6cf"")","-23.54888","-46.933889","São Paulo","Brasil","Itapevi",9.08,0.5
+"ObjectId(""5ec5af9c5b1a50001967b6d1"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.01,-0.1875
+"ObjectId(""5ec5afca5b1a50001967b6d2"")","-22.6620892","-50.420623","São Paulo","Brasil","Assis",0.16,0
+"ObjectId(""5ec5aff95b1a50001967b6d3"")","-1.6292632","-45.2368151","Maranhão","Brasil",,0.06,1
+"ObjectId(""5ec5b00e5b1a50001967b6d4"")","-26.8898813","-48.6495828","Santa Catarina","Brasil","Navegantes",16.57,0
+"ObjectId(""5ec5b0df5b1a50001967b6d6"")","-29.8197019","-51.1608722","Rio Grande do Sul","Brasil","Sapucaia do Sul",0.7,0.7
+"ObjectId(""5ec5b0f55b1a50001967b6d7"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",743.99,0
+"ObjectId(""5ec5b1075b1a50001967b6d8"")","-21.9549806","-49.0232348","São Paulo","Brasil",,0.3,0
+"ObjectId(""5ec5b1285b1a50001967b6da"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",12.95,0.4
+"ObjectId(""5ec5b13b5b1a50001967b6db"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.05,0
+"ObjectId(""5ec5b1525b1a50001967b6dc"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.82,0.19999999999999998
+"ObjectId(""5ec5b15f5b1a50001967b6dd"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.08,0
+"ObjectId(""5ec5b1905b1a50001967b6de"")","-27.0886721","-48.963428","Santa Catarina","Brasil",,4.59,0
+"ObjectId(""5ec5b1b25b1a50001967b6df"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.42,0.2
+"ObjectId(""5ec5b2185b1a50001967b6e1"")","-7.2246743","-35.8771292","Paraíba","Brasil","Campina Grande",4.82,0.32916666666666666
+"ObjectId(""5ec5b2205b1a50001967b6e2"")","0.0257347","-51.0570308","Amapá","Brasil","Macapá",10.44,0.1
+"ObjectId(""5ec5b2275b1a50001967b6e3"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.19,0.175
+"ObjectId(""5ec5b2395b1a50001967b6e4"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",0.82,0.4057142857142857
+"ObjectId(""5ec5b2475b1a50001967b6e5"")","-9.5104644","-35.79300921812715","Alagoas","Brasil",,51.24,0.2875
+"ObjectId(""5ec5b25a5b1a50001967b6e6"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.02,0
+"ObjectId(""5ec5b29a5b1a50001967b6e8"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.28,0
+"ObjectId(""5ec5b2a95b1a50001967b6e9"")","-23.681347","-46.62052","São Paulo","Brasil","Diadema",0.51,0
+"ObjectId(""5ec5b2b25b1a50001967b6ea"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",31.61,0
+"ObjectId(""5ec5b2ca5b1a50001967b6eb"")","-22.8772743","-43.4301032","Rio de Janeiro","Brasil","Rio de Janeiro",1.3,0
+"ObjectId(""5ec5b2db5b1a50001967b6ec"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.23,0
+"ObjectId(""5ec5b2f45b1a50001967b6ed"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",8.13,0
+"ObjectId(""5ec5b2f65b1a50001967b6ee"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",8.13,0
+"ObjectId(""5ec5b3085b1a50001967b6ef"")","-19.121593","-44.37739","Minas Gerais","Brasil",,0.19,0
+"ObjectId(""5ec5b3245b1a50001967b6f0"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.43,0.4
+"ObjectId(""5ec5b38e5b1a50001967b6f4"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.42,0.5
+"ObjectId(""5ec5b3b75b1a50001967b6f5"")","-6.1872965","-35.0905246","Rio Grande do Norte","Brasil","Tibau do Sul",0.13,-0.75
+"ObjectId(""5ec5b3e75b1a50001967b6f6"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",5.93,0
+"ObjectId(""5ec5b3fc5b1a50001967b6f7"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",0.49,0
+"ObjectId(""5ec5b4025b1a50001967b6f8"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",3.12,0
+"ObjectId(""5ec5b4455b1a50001967b6f9"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",2.45,0
+"ObjectId(""5ec5b44a5b1a50001967b6fa"")","-29.6905705","-51.1429035","Rio Grande do Sul","Brasil","Novo Hamburgo",28.71,0
+"ObjectId(""5ec5b4575b1a50001967b6fb"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",10.31,-0.12121212121212122
+"ObjectId(""5ec5b4615b1a50001967b6fc"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.07,-0.2749999999999999
+"ObjectId(""5ec5b46a5b1a50001967b6fd"")","-5.3257938","-42.3549995","Piauí","Brasil",,14.44,0
+"ObjectId(""5ec5b5105b1a50001967b6fe"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",0.01,0
+"ObjectId(""5ec5b5335b1a50001967b6ff"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,6.36,0.3
+"ObjectId(""5ec5b53a5b1a50001967b700"")","-9.5104644","-35.79300921812715","Alagoas","Brasil",,13.58,0
+"ObjectId(""5ec5b5465b1a50001967b701"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,0.69,-0.3224431818181818
+"ObjectId(""5ec5b5525b1a50001967b702"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,0.64,0.13636363636363635
+"ObjectId(""5ec5b5595b1a50001967b703"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",6.05,0
+"ObjectId(""5ec5b5845b1a50001967b704"")","-29.1684796","-51.1793861","Rio Grande do Sul","Brasil","Caxias do Sul",17.69,0
+"ObjectId(""5ec5b5a25b1a50001967b705"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",138.38,0.14545454545454548
+"ObjectId(""5ec5b5b75b1a50001967b706"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",7.99,0
+"ObjectId(""5ec5b5cb5b1a50001967b707"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.75,0
+"ObjectId(""5ec5b5f55b1a50001967b708"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",2.8,-0.1875
+"ObjectId(""5ec5b6335b1a50001967b709"")","-11.3356065","-38.9573261","Bahia","Brasil","Araci",3.16,0
+"ObjectId(""5ec5b6495b1a50001967b70a"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",2.34,0.16666666666666666
+"ObjectId(""5ec5b6e85b1a50001967b70d"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",38.33,0
+"ObjectId(""5ec5b7325b1a50001967b70f"")","-23.5427842","-46.3108391","São Paulo","Brasil","Suzano",2.79,0.1065340909090909
+"ObjectId(""5ec5b7385b1a50001967b710"")","-23.541056","-46.37097","São Paulo","Brasil","Ferraz de Vasconcelos",0.17,0
+"ObjectId(""5ec5b7b55b1a50001967b712"")","-23.5658218","-46.6658017","São Paulo","Brasil","São Paulo",23.73,0.7083333333333334
+"ObjectId(""5ec5b7c05b1a50001967b713"")","-31.6296698","-71.1589807","Región de Coquimbo","Chile","Illapel",0.37,0.13636363636363635
+"ObjectId(""5ec5b7f75b1a50001967b715"")","-25.469663","-50.649287","Paraná","Brasil","Irati",0.17,0
+"ObjectId(""5ec5b8115b1a50001967b716"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",1.88,0
+"ObjectId(""5ec5b8695b1a50001967b717"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.02,0
+"ObjectId(""5ec5b8795b1a50001967b718"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",56.33,0.3333333333333333
+"ObjectId(""5ec5b8965b1a50001967b71a"")","-21.9549806","-49.0232348","São Paulo","Brasil",,6.08,0.13636363636363635
+"ObjectId(""5ec5b8a95b1a50001967b71b"")","-22.8733203","-42.3428897","Rio de Janeiro","Brasil","Araruama",3.58,0
+"ObjectId(""5ec5b8d45b1a50001967b71c"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",2.12,0
+"ObjectId(""5ec5b8db5b1a50001967b71d"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",1331.8,0.13636363636363635
+"ObjectId(""5ec5b9055b1a50001967b71e"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",56.33,0.2
+"ObjectId(""5ec5b90a5b1a50001967b71f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",46.39,0.3
+"ObjectId(""5ec5b9215b1a50001967b720"")","-5.455674","-39.7166286","Ceará","Brasil","Pedra Branca",1.41,0
+"ObjectId(""5ec5b92d5b1a50001967b721"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",157.6,0.10909090909090909
+"ObjectId(""5ec5b9455b1a50001967b722"")","20.6758761","-101.3521052","Guanajuato","México","Irapuato",0.04,0.58
+"ObjectId(""5ec5b94a5b1a50001967b723"")","20.6758761","-101.3521052","Guanajuato","México","Irapuato",0.04,0
+"ObjectId(""5ec5b9aa5b1a50001967b726"")","-26.4832715","-49.0823164","Santa Catarina","Brasil","Jaraguá do Sul",4.22,0
+"ObjectId(""5ec5b9b55b1a50001967b727"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,3.81,0
+"ObjectId(""5ec5b9e45b1a50001967b728"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",18.36,0
+"ObjectId(""5ec5ba275b1a50001967b729"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",3.82,0.4375
+"ObjectId(""5ec5ba385b1a50001967b72b"")","2.8208478","-60.6719582","Roraima","Brasil","Boa Vista",1.83,0
+"ObjectId(""5ec5ba885b1a50001967b72d"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.57,-0.02121212121212121
+"ObjectId(""5ec5baba5b1a50001967b72f"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.64,0
+"ObjectId(""5ec5badc5b1a50001967b730"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.04,0
+"ObjectId(""5ec5bafe5b1a50001967b732"")","16.5564139","-95.0959653","Oaxaca","México",,369.41,0
+"ObjectId(""5ec5bb045b1a50001967b733"")","-12.285251","-41.9294776","Bahia","Brasil",,3.13,-0.30000000000000004
+"ObjectId(""5ec5bb195b1a50001967b734"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",2.33,0
+"ObjectId(""5ec5bb1e5b1a50001967b735"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.33,0
+"ObjectId(""5ec5bb265b1a50001967b736"")","-7.9774306","-34.9004692","Pernambuco","Brasil","Olinda",27.76,0
+"ObjectId(""5ec5bb435b1a50001967b737"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",38.01,0.4000000000000001
+"ObjectId(""5ec5bb9f5b1a50001967b738"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",11.61,-0.18181818181818182
+"ObjectId(""5ec5bbd15b1a50001967b739"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,4.35,0
+"ObjectId(""5ec5bbd35b1a50001967b73a"")","-29.107985","-49.632776","Santa Catarina","Brasil","Sombrio",4.35,0
+"ObjectId(""5ec5bc0d5b1a50001967b73c"")","-22.1683478","-43.5858689","Rio de Janeiro","Brasil","Rio das Flores",1.52,0
+"ObjectId(""5ec5bc155b1a50001967b73d"")","-2.8984245","-79.0227412","Azuay","Ecuador","Cuenca",10.68,0.13636363636363635
+"ObjectId(""5ec5bc975b1a50001967b73f"")","-25.0891685","-50.1601812","Paraná","Brasil","Ponta Grossa",6.1,0
+"ObjectId(""5ec5bca15b1a50001967b740"")","-3.0318983","-65.1735233","Amazonas","Brasil",,175.65,0.23784786641929498
+"ObjectId(""5ec5bca85b1a50001967b741"")","-9.571664349999999","-40.961051765435606",,"Brasil",,0.64,0
+"ObjectId(""5ec5bcdb5b1a50001967b742"")","-23.49428","-46.6252834","São Paulo","Brasil","São Paulo",0.93,-0.07500000000000001
+"ObjectId(""5ec5bcf55b1a50001967b743"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",8.34,0.5
+"ObjectId(""5ec5bd015b1a50001967b744"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",2.48,0
+"ObjectId(""5ec5bd175b1a50001967b745"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",1.59,0
+"ObjectId(""5ec5bd1d5b1a50001967b746"")","-9.5104644","-35.79300921812715","Alagoas","Brasil",,3.12,-0.4
+"ObjectId(""5ec5bd465b1a50001967b748"")","-25.5562","-54.6009678","Alto Paraná","Paraguay",,6.31,0.13636363636363635
+"ObjectId(""5ec5bd525b1a50001967b749"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",21.45,0.2111111111111111
+"ObjectId(""5ec5bd7d5b1a50001967b74a"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,7.68,0.5
+"ObjectId(""5ec5bdd95b1a50001967b74b"")","-24.005833","-46.402778","São Paulo","Brasil","Praia Grande",0.05,0
+"ObjectId(""5ec5be1e5b1a50001967b74c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be255b1a50001967b74d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.33,0
+"ObjectId(""5ec5be375b1a50001967b74e"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be3f5b1a50001967b74f"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be455b1a50001967b750"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be4d5b1a50001967b751"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be6b5b1a50001967b752"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be725b1a50001967b753"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be7c5b1a50001967b754"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5be875b1a50001967b755"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.09,0
+"ObjectId(""5ec5bea15b1a50001967b756"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bebd5b1a50001967b757"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bec25b1a50001967b758"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bed25b1a50001967b759"")","-1.4559486000000001","-48.50580405025359","Pará","Brasil","Belém",7.19,0
+"ObjectId(""5ec5bed85b1a50001967b75a"")","16.5564139","-95.0959653","Oaxaca","México",,369.61,0.6
+"ObjectId(""5ec5bee35b1a50001967b75b"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5befa5b1a50001967b75c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bf055b1a50001967b75d"")","-11.66199","-39.0034021","Bahia","Brasil","Serrinha",2.45,0
+"ObjectId(""5ec5bf185b1a50001967b75e"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bf485b1a50001967b760"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bf585b1a50001967b761"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bf8f5b1a50001967b763"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.21,0.1
+"ObjectId(""5ec5bfa75b1a50001967b765"")","-29.1222037","-56.5551258","Rio Grande do Sul","Brasil","Itaqui",11.43,0
+"ObjectId(""5ec5bfc05b1a50001967b766"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bfc55b1a50001967b767"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bfcf5b1a50001967b768"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bfe55b1a50001967b769"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bfef5b1a50001967b76a"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5bffa5b1a50001967b76b"")","50.1312446","-123.1193013","British Columbia","Canada",,403.93,0
+"ObjectId(""5ec5c0015b1a50001967b76c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5c0065b1a50001967b76d"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5c01d5b1a50001967b76e"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.3,-0.05
+"ObjectId(""5ec5c0545b1a50001967b76f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.37,0
+"ObjectId(""5ec5c0fc5b1a50001967b770"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.69,0
+"ObjectId(""5ec5c1025b1a50001967b771"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.69,0.35
+"ObjectId(""5ec5c1335b1a50001967b772"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",267.01,0
+"ObjectId(""5ec5c16f5b1a50001967b773"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",40.78,0
+"ObjectId(""5ec5c1b05b1a50001967b775"")","-5.6781175","-36.4781776","Rio Grande do Norte","Brasil",,1225.47,0.02500000000000001
+"ObjectId(""5ec5c1bb5b1a50001967b776"")","-3.8036185","-38.5086081","Ceará","Brasil","Fortaleza",193.49,-0.16666666666666666
+"ObjectId(""5ec5c1db5b1a50001967b777"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.46,0
+"ObjectId(""5ec5c1fc5b1a50001967b778"")","-22.4809932","-42.2039976","Rio de Janeiro","Brasil","Casimiro de Abreu",11.23,-0.20277777777777778
+"ObjectId(""5ec5c2065b1a50001967b779"")","-7.2246743","-35.8771292","Paraíba","Brasil","Campina Grande",8.42,0
+"ObjectId(""5ec5c2295b1a50001967b77c"")","-8.2829702","-35.9722852","Pernambuco","Brasil","Caruaru",0.01,0
+"ObjectId(""5ec5c2425b1a50001967b77e"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.03,0
+"ObjectId(""5ec5c2655b1a50001967b780"")","-20.3297293","-40.2920284","Espírito Santo","Brasil","Vila Velha",0.02,0.1
+"ObjectId(""5ec5c2775b1a50001967b781"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.97,0
+"ObjectId(""5ec5c29e5b1a50001967b782"")","16.5564139","-95.0959653","Oaxaca","México",,369.65,0.5
+"ObjectId(""5ec5c2a55b1a50001967b783"")","-23.816628","-45.368685","São Paulo","Brasil","Ilhabela",2.76,0.5
+"ObjectId(""5ec5c2ad5b1a50001967b784"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",10.46,0
+"ObjectId(""5ec5c2e15b1a50001967b785"")","-23.52072615","-46.1757620253434","São Paulo","Brasil","Mogi das Cruzes",19.35,0
+"ObjectId(""5ec5c3015b1a50001967b786"")","-23.3328038","-46.724446","São Paulo","Brasil","Franco da Rocha",7.01,0.13636363636363635
+"ObjectId(""5ec5c3245b1a50001967b787"")","-23.3328038","-46.724446","São Paulo","Brasil","Franco da Rocha",0.35,0.4
+"ObjectId(""5ec5c40d5b1a50001967b789"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",4.7,0
+"ObjectId(""5ec5c4135b1a50001967b78a"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.05,-0.09999999999999999
+"ObjectId(""5ec5c41b5b1a50001967b78b"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",3.67,0
+"ObjectId(""5ec5c43e5b1a50001967b78c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",18.18,0.13226010101010102
+"ObjectId(""5ec5c4645b1a50001967b78d"")","18.1693401","-76.9140387",,"Jamaika","Spanish Town",0.51,0
+"ObjectId(""5ec5c4895b1a50001967b78e"")","-23.3328038","-46.724446","São Paulo","Brasil","Franco da Rocha",1.39,0.4
+"ObjectId(""5ec5c5225b1a50001967b790"")","-22.8121927","-43.3592811","Rio de Janeiro","Brasil","Rio de Janeiro",2.86,0
+"ObjectId(""5ec5c52b5b1a50001967b791"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",13.2,0.2261904761904762
+"ObjectId(""5ec5c53a5b1a50001967b792"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",124.41,0
+"ObjectId(""5ec5c5945b1a50001967b793"")","-5.1023325","-42.8449518","Maranhão","Brasil","Timon",2.05,0
+"ObjectId(""5ec5c5bb5b1a50001967b794"")","-10.6019733","-67.7842232","Acre","Brasil",,7.72,0
+"ObjectId(""5ec5c60a5b1a50001967b796"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",1.18,0
+"ObjectId(""5ec5c6185b1a50001967b797"")","-1.6632409","31.4014928","Kagera","Tanzania",,59.36,0.5
+"ObjectId(""5ec5c6455b1a50001967b799"")","43.7159395","10.4018624","Toscana","Italia","Pisa",2.2,0
+"ObjectId(""5ec5c6655b1a50001967b79b"")","-21.9549806","-49.0232348","São Paulo","Brasil",,17.51,0
+"ObjectId(""5ec5c68d5b1a50001967b79c"")","-1.45056","-48.4682453","Pará","Brasil","Belém",0.17,0.4
+"ObjectId(""5ec5c69d5b1a50001967b79d"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",25.76,0
+"ObjectId(""5ec5c7105b1a50001967b79f"")","-21.9549806","-49.0232348","São Paulo","Brasil",,7.01,-0.1027777777777778
+"ObjectId(""5ec5c7165b1a50001967b7a0"")","13.1951756","123.6439368","Albay","Philippines",,0.62,0.2
+"ObjectId(""5ec5c72a5b1a50001967b7a1"")","-28.3572698","-49.2872434","Santa Catarina","Brasil","Orleans",1.01,0
+"ObjectId(""5ec5c79f5b1a50001967b7a3"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,0.06,0.35
+"ObjectId(""5ec5c84a5b1a50001967b7a4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.42,0
+"ObjectId(""5ec5c8705b1a50001967b7a6"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",13.28,0
+"ObjectId(""5ec5c9185b1a50001967b7ab"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",138.41,0
+"ObjectId(""5ec5c91d5b1a50001967b7ac"")","-3.7928744","-38.6983109","Ceará","Brasil","Caucaia",7.02,0
+"ObjectId(""5ec5c93e5b1a50001967b7ad"")","-21.9549806","-49.0232348","São Paulo","Brasil",,6.42,0
+"ObjectId(""5ec5c9a25b1a50001967b7b5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.06,-0.25
+"ObjectId(""5ec5c9a95b1a50001967b7b6"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",9.25,0.13636363636363635
+"ObjectId(""5ec5c9de5b1a50001967b7b7"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.6,0.4
+"ObjectId(""5ec5ca095b1a50001967b7b8"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",2.67,0
+"ObjectId(""5ec5ca5a5b1a50001967b7b9"")","-26.3044898","-48.8486726","Santa Catarina","Brasil","Joinville",7.94,0
+"ObjectId(""5ec5ca665b1a50001967b7ba"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,0.78,0
+"ObjectId(""5ec5ca825b1a50001967b7bc"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.29,-0.05
+"ObjectId(""5ec5ca905b1a50001967b7bd"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",1.14,-0.1
+"ObjectId(""5ec5cacc5b1a50001967b7be"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.41,-0.8
+"ObjectId(""5ec5cae25b1a50001967b7bf"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,0.38,0.13636363636363635
+"ObjectId(""5ec5caf95b1a50001967b7c0"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.41,0
+"ObjectId(""5ec5cb005b1a50001967b7c1"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.4,0.2
+"ObjectId(""5ec5cb075b1a50001967b7c2"")","-3.7277505","-38.53255456240481","Ceará","Brasil","Fortaleza",24.69,0
+"ObjectId(""5ec5cb715b1a50001967b7c4"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",1.32,0.26545454545454544
+"ObjectId(""5ec5cb935b1a50001967b7c5"")","-29.9216045","-51.1799525","Rio Grande do Sul","Brasil","Canoas",171.94,0.35
+"ObjectId(""5ec5cb9e5b1a50001967b7c6"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.24,0.25
+"ObjectId(""5ec5cbcd5b1a50001967b7c7"")","-7.2246743","-35.8771292","Paraíba","Brasil","Campina Grande",3.98,0
+"ObjectId(""5ec5cbe35b1a50001967b7c8"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5cbe95b1a50001967b7c9"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",0.37,0
+"ObjectId(""5ec5cbf05b1a50001967b7ca"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.73,0
+"ObjectId(""5ec5cc0c5b1a50001967b7cb"")","-23.1989983","-47.2913682","São Paulo","Brasil","Salto",0.22,0
+"ObjectId(""5ec5cc345b1a50001967b7cc"")","21.7402006","-78.7928873","Ciego de Ávila","Cuba",,264.31,0
+"ObjectId(""5ec5cc495b1a50001967b7cd"")","-19.8845947","-67.6049824","Potosí","Bolivia","Municipio Tahua",8.23,0
+"ObjectId(""5ec5cc9e5b1a50001967b7cf"")","-7.4909841","-38.9859152","Ceará","Brasil","Brejo Santo",1.36,-0.125
+"ObjectId(""5ec5ccc15b1a50001967b7d0"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",211.55,-0.8125
+"ObjectId(""5ec5ccc75b1a50001967b7d1"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.69,0
+"ObjectId(""5ec5ccd65b1a50001967b7d2"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5ccf05b1a50001967b7d3"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5cd125b1a50001967b7d4"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",13.7,0
+"ObjectId(""5ec5cd195b1a50001967b7d5"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.33,0
+"ObjectId(""5ec5cdc65b1a50001967b7d6"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5cdfa5b1a50001967b7d8"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5ce1c5b1a50001967b7d9"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",4.85,0
+"ObjectId(""5ec5ce235b1a50001967b7da"")","-12.285251","-41.9294776","Bahia","Brasil",,10.02,0
+"ObjectId(""5ec5ce745b1a50001967b7db"")","-9.6611661","-36.6502426","Alagoas","Brasil",,1.76,0
+"ObjectId(""5ec5ce975b1a50001967b7dc"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",1.71,0.5
+"ObjectId(""5ec5ceb55b1a50001967b7de"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,19.98,0.13636363636363635
+"ObjectId(""5ec5ced95b1a50001967b7df"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.48,0
+"ObjectId(""5ec5cee25b1a50001967b7e0"")","-22.871658","-43.3371976","Rio de Janeiro","Brasil","Rio de Janeiro",3.17,
+"ObjectId(""5ec5cefe5b1a50001967b7e1"")","-5.1023325","-42.8449518","Maranhão","Brasil","Timon",2.05,0.26212121212121214
+"ObjectId(""5ec5cf2d5b1a50001967b7e3"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",3.95,0
+"ObjectId(""5ec5cf445b1a50001967b7e4"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",3.95,0
+"ObjectId(""5ec5cf4a5b1a50001967b7e5"")","21.7402006","-78.7928873","Ciego de Ávila","Cuba",,264.3,0
+"ObjectId(""5ec5cf515b1a50001967b7e6"")","-23.51108955","-46.18400568768247","São Paulo","Brasil","Mogi das Cruzes",5.54,0
+"ObjectId(""5ec5cf5a5b1a50001967b7e7"")","-22.9998994","-47.5025742","São Paulo","Brasil","Capivari",1.01,1
+"ObjectId(""5ec5cfaf5b1a50001967b7e9"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,1.59,0.13636363636363635
+"ObjectId(""5ec5cfd25b1a50001967b7ea"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",10.48,0.13636363636363635
+"ObjectId(""5ec5d06f5b1a50001967b7ee"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",41.53,0
+"ObjectId(""5ec5d0865b1a50001967b7ef"")","-26.3044898","-48.8486726","Santa Catarina","Brasil","Joinville",0.04,0
+"ObjectId(""5ec5d0a55b1a50001967b7f1"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",6.51,0
+"ObjectId(""5ec5d1335b1a50001967b7f2"")","-5.8289254","-35.20243226120556","Rio Grande do Norte","Brasil","Natal",2.46,0
+"ObjectId(""5ec5d1415b1a50001967b7f4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.67,0.13636363636363635
+"ObjectId(""5ec5d1605b1a50001967b7f5"")","-23.0295183","-46.9756292","São Paulo","Brasil","Vinhedo",1451.35,0.17222222222222222
+"ObjectId(""5ec5d1895b1a50001967b7f6"")","-21.7609533","-43.3501129","Minas Gerais","Brasil","Juiz de Fora",20.81,0
+"ObjectId(""5ec5d1ac5b1a50001967b7f7"")","-2.5431353","-44.214609229479606","Maranhão","Brasil","São Luís",3.28,-0.02
+"ObjectId(""5ec5d1ee5b1a50001967b7fa"")","-22.8392089","-43.3448485","Rio de Janeiro","Brasil","Rio de Janeiro",35.18,0
+"ObjectId(""5ec5d2105b1a50001967b7fb"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.01,0.8
+"ObjectId(""5ec5d29c5b1a50001967b7fd"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,138.77,-0.3224431818181818
+"ObjectId(""5ec5d2c65b1a50001967b7fe"")","-9.087464","-35.263403","Alagoas","Brasil","Japaratinga",0.18,0
+"ObjectId(""5ec5d2f45b1a50001967b7ff"")","-1.6292632","-45.2368151","Maranhão","Brasil",,0.06,0.19583333333333333
+"ObjectId(""5ec5d3555b1a50001967b801"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",10,-0.125
+"ObjectId(""5ec5d38c5b1a50001967b803"")","-8.7494525","-63.8735438","Rondônia","Brasil","Porto Velho",235.38,0.13636363636363635
+"ObjectId(""5ec5d39e5b1a50001967b804"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",6.31,0
+"ObjectId(""5ec5d3d05b1a50001967b805"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",38.66,
+"ObjectId(""5ec5d3e35b1a50001967b806"")","-25.3950986","-51.4622016","Paraná","Brasil","Guarapuava",1.81,0.2375
+"ObjectId(""5ec5d3f75b1a50001967b807"")","-5.8846468","-35.1775119","Rio Grande do Norte","Brasil","Natal",8.56,0.0625
+"ObjectId(""5ec5d4085b1a50001967b808"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",3.12,0
+"ObjectId(""5ec5d4115b1a50001967b809"")","-8.684226","-35.589032","Pernambuco","Brasil","Palmares",0.07,0.1787878787878788
+"ObjectId(""5ec5d4205b1a50001967b80a"")","48.8566969","2.3514616","Île-de-France","France","Paris",0.28,0.2590909090909091
+"ObjectId(""5ec5d4755b1a50001967b80b"")","-20.650556","-44.495833","Minas Gerais","Brasil","Passa Tempo",0.33,0.4
+"ObjectId(""5ec5d4b05b1a50001967b80d"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",1.24,0
+"ObjectId(""5ec5d4ee5b1a50001967b810"")","-26.9195567","-49.0658025","Santa Catarina","Brasil","Blumenau",3.73,0.4
+"ObjectId(""5ec5d53b5b1a50001967b811"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,3.84,0
+"ObjectId(""5ec5d5625b1a50001967b812"")","-22.3706166","-47.3927246","São Paulo","Brasil","Araras",2.48,0
+"ObjectId(""5ec5d58b5b1a50001967b813"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",26.58,0
+"ObjectId(""5ec5d60d5b1a50001967b814"")","-18.5264844","-44.1588654","Minas Gerais","Brasil",,0.08,0
+"ObjectId(""5ec5d6125b1a50001967b815"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",839.19,0
+"ObjectId(""5ec5d6215b1a50001967b816"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.56,-0.3224431818181818
+"ObjectId(""5ec5d64c5b1a50001967b817"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",19.81,0
+"ObjectId(""5ec5d6655b1a50001967b818"")","-26.9195567","-49.0658025","Santa Catarina","Brasil","Blumenau",7.52,0
+"ObjectId(""5ec5d6815b1a50001967b819"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",12.11,0
+"ObjectId(""5ec5d6865b1a50001967b81a"")","-21.9549806","-49.0232348","São Paulo","Brasil",,4.05,1
+"ObjectId(""5ec5d6d25b1a50001967b81b"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,143.73,0
+"ObjectId(""5ec5d6d85b1a50001967b81c"")","-1.6292632","-45.2368151","Maranhão","Brasil",,1.81,0.6666666666666666
+"ObjectId(""5ec5d6e35b1a50001967b81d"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",5.94,0
+"ObjectId(""5ec5d6f25b1a50001967b81e"")","-1.6292632","-45.2368151","Maranhão","Brasil",,1.81,0
+"ObjectId(""5ec5d6f95b1a50001967b81f"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",4.26,0
+"ObjectId(""5ec5d73f5b1a50001967b820"")","-22.9818187","-43.4578117","Rio de Janeiro","Brasil","Rio de Janeiro",20.38,0
+"ObjectId(""5ec5d7a15b1a50001967b824"")","16.5564139","-95.0959653","Oaxaca","México",,369.84,0.58
+"ObjectId(""5ec5d7cc5b1a50001967b825"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",12.11,0.26041666666666663
+"ObjectId(""5ec5d88a5b1a50001967b828"")","-3.41436","-39.030028","Ceará","Brasil","Paracuru",0.03,0
+"ObjectId(""5ec5d8ce5b1a50001967b82a"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",23.68,0.13636363636363635
+"ObjectId(""5ec5d9275b1a50001967b82b"")","-26.9195567","-49.0658025","Santa Catarina","Brasil","Blumenau",9.43,0.13636363636363635
+"ObjectId(""5ec5d94f5b1a50001967b82c"")","-12.285251","-41.9294776","Bahia","Brasil",,0.14,0
+"ObjectId(""5ec5d97e5b1a50001967b82d"")","-22.8832371","-43.1154552","Rio de Janeiro","Brasil","Niterói",2.15,0
+"ObjectId(""5ec5d9855b1a50001967b82e"")","-20.4640173","-54.6162947","Mato Grosso do Sul","Brasil","Campo Grande",5.06,-0.1
+"ObjectId(""5ec5d9a15b1a50001967b82f"")","-22.9100508","-43.201756","Rio de Janeiro","Brasil","Rio de Janeiro",6911.09,0
+"ObjectId(""5ec5d9ab5b1a50001967b830"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",12.11,0.26041666666666663
+"ObjectId(""5ec5d9e95b1a50001967b831"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.77,0
+"ObjectId(""5ec5d9ee5b1a50001967b832"")","-23.5112184","-46.8764612","São Paulo","Brasil","Barueri",0.01,0.775
+"ObjectId(""5ec5da4d5b1a50001967b834"")","-27.0628367","-51.114965","Santa Catarina","Brasil",,0.1,0
+"ObjectId(""5ec5da625b1a50001967b835"")","-21.9549806","-49.0232348","São Paulo","Brasil",,1.21,-0.35
+"ObjectId(""5ec5da705b1a50001967b836"")","-19.5852564","-54.4794731","Mato Grosso do Sul","Brasil",,0.37,0
+"ObjectId(""5ec5dac95b1a50001967b837"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",1.91,0.03333333333333333
+"ObjectId(""5ec5db005b1a50001967b838"")","-25.5861107","-49.4051209","Paraná","Brasil","Araucária",4.42,0.047272727272727265
+"ObjectId(""5ec5db355b1a50001967b839"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",39.55,0.3666666666666667
+"ObjectId(""5ec5db415b1a50001967b83a"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.5,0
+"ObjectId(""5ec5db865b1a50001967b83d"")","16.5564139","-95.0959653","Oaxaca","México",,369.86,0.06666666666666667
+"ObjectId(""5ec5db8e5b1a50001967b83e"")","-28.1325451","-48.6627629","Santa Catarina","Brasil",,12.53,0
+"ObjectId(""5ec5dbce5b1a50001967b83f"")","-22.8435065","-43.3100585","Rio de Janeiro","Brasil","Rio de Janeiro",1.23,0
+"ObjectId(""5ec5dbfd5b1a50001967b840"")","-22.8733203","-42.3428897","Rio de Janeiro","Brasil","Araruama",75.09,0.8125
+"ObjectId(""5ec5dcaa5b1a50001967b841"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",0.74,0
+"ObjectId(""5ec5dcd15b1a50001967b842"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.68,0
+"ObjectId(""5ec5dd015b1a50001967b843"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",9.19,0
+"ObjectId(""5ec5dd175b1a50001967b844"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.03,-0.5
+"ObjectId(""5ec5dd2a5b1a50001967b845"")","-24.6545336","-50.8484432","Paraná","Brasil","Reserva",0.31,0
+"ObjectId(""5ec5dd5b5b1a50001967b846"")","-9.9765362","-67.8220778","Acre","Brasil","Rio Branco",0.77,0
+"ObjectId(""5ec5dd6a5b1a50001967b847"")","-22.90556","-47.06083","São Paulo","Brasil","Campinas",12.13,0.26041666666666663
+"ObjectId(""5ec5dda05b1a50001967b848"")","-12.2578934","-38.9598047","Bahia","Brasil","Feira de Santana",1.8,-0.2
+"ObjectId(""5ec5dda75b1a50001967b849"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.26,0.41875
+"ObjectId(""5ec5dde55b1a50001967b84b"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.94,0
+"ObjectId(""5ec5de235b1a50001967b84d"")","45.4280519","10.6622389","Lombardia","Italia",,11.54,0.19318181818181818
+"ObjectId(""5ec5de285b1a50001967b84e"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",2.28,0
+"ObjectId(""5ec5de545b1a50001967b850"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",11.82,0
+"ObjectId(""5ec5de5e5b1a50001967b851"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.24,0
+"ObjectId(""5ec5dec85b1a50001967b852"")","-22.8788135","-43.4485569","Rio de Janeiro","Brasil","Rio de Janeiro",12.7,0
+"ObjectId(""5ec5ded05b1a50001967b853"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.57,0
+"ObjectId(""5ec5deea5b1a50001967b854"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.23,0
+"ObjectId(""5ec5def45b1a50001967b855"")","-21.7609533","-43.3501129","Minas Gerais","Brasil","Juiz de Fora",12.97,0
+"ObjectId(""5ec5df115b1a50001967b856"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",1.42,0
+"ObjectId(""5ec5df815b1a50001967b857"")","-5.1023325","-42.8449518","Maranhão","Brasil","Timon",2.05,0.1
+"ObjectId(""5ec5dfa45b1a50001967b858"")","-20.263202","-40.416549","Espírito Santo","Brasil","Cariacica",5.33,0.13636363636363635
+"ObjectId(""5ec5dfab5b1a50001967b859"")","-22.1683478","-43.5858689","Rio de Janeiro","Brasil","Rio das Flores",44.35,0
+"ObjectId(""5ec5dfd25b1a50001967b85b"")","-19.968056","-44.198333","Minas Gerais","Brasil","Betim",0.82,-0.3224431818181818
+"ObjectId(""5ec5dff35b1a50001967b85c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",24.45,0.19318181818181818
+"ObjectId(""5ec5dffb5b1a50001967b85d"")","-20.263202","-40.416549","Espírito Santo","Brasil","Cariacica",5.33,0.13636363636363635
+"ObjectId(""5ec5e0125b1a50001967b85e"")","-20.263202","-40.416549","Espírito Santo","Brasil","Cariacica",5.81,0.13636363636363635
+"ObjectId(""5ec5e0265b1a50001967b85f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",5.09,0.15
+"ObjectId(""5ec5e0415b1a50001967b860"")","-7.6190889","-72.6725162","Acre","Brasil",,1.28,
+"ObjectId(""5ec5e0865b1a50001967b861"")","-20.3297293","-40.2920284","Espírito Santo","Brasil","Vila Velha",4.6,0.13636363636363635
+"ObjectId(""5ec5e0cd5b1a50001967b863"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",8.84,0
+"ObjectId(""5ec5e0d85b1a50001967b864"")","-22.8788135","-43.4485569","Rio de Janeiro","Brasil","Rio de Janeiro",14.72,0.19318181818181818
+"ObjectId(""5ec5e1035b1a50001967b866"")","44.73385","-0.26464","Nouvelle-Aquitaine","France","Targon",0.45,0
+"ObjectId(""5ec5e13f5b1a50001967b867"")","-22.8772743","-43.4301032","Rio de Janeiro","Brasil","Rio de Janeiro",13.55,0.19318181818181818
+"ObjectId(""5ec5e18f5b1a50001967b869"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.11,0
+"ObjectId(""5ec5e1a45b1a50001967b86a"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",11.32,0
+"ObjectId(""5ec5e1e75b1a50001967b86b"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.11,0
+"ObjectId(""5ec5e1f65b1a50001967b86c"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.36,0.13636363636363635
+"ObjectId(""5ec5e2025b1a50001967b86d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.76,0.19318181818181818
+"ObjectId(""5ec5e25f5b1a50001967b86f"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",0.11,0
+"ObjectId(""5ec5e28d5b1a50001967b870"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.24,0.19318181818181818
+"ObjectId(""5ec5e2975b1a50001967b871"")","-1.6292632","-45.2368151","Maranhão","Brasil",,9.93,0
+"ObjectId(""5ec5e2af5b1a50001967b872"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e2c85b1a50001967b873"")","-19.9440117","-44.1310692146562","Minas Gerais","Brasil","Betim",3.6,0
+"ObjectId(""5ec5e2ce5b1a50001967b874"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e2d55b1a50001967b875"")","-33.4388212","-70.6648227","Región Metropolitana de Santiago","Chile","Santiago",0.5,0
+"ObjectId(""5ec5e3095b1a50001967b877"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",9.39,0
+"ObjectId(""5ec5e33f5b1a50001967b878"")","-1.374035","-48.4016623","Pará","Brasil","Ananindeua",0.81,0
+"ObjectId(""5ec5e3825b1a50001967b87b"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e38e5b1a50001967b87c"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",17.49,0
+"ObjectId(""5ec5e39b5b1a50001967b87d"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.86,0
+"ObjectId(""5ec5e3b25b1a50001967b87e"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e3cf5b1a50001967b87f"")","-3.7350782000000002","-38.49243615","Ceará","Brasil","Fortaleza",2.77,0
+"ObjectId(""5ec5e3d55b1a50001967b880"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.14,0.5
+"ObjectId(""5ec5e3de5b1a50001967b881"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e3fd5b1a50001967b883"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.45,0
+"ObjectId(""5ec5e4095b1a50001967b884"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,2.93,0
+"ObjectId(""5ec5e4205b1a50001967b887"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",3.67,0
+"ObjectId(""5ec5e42a5b1a50001967b888"")","-20.287859","-40.3763868","Espírito Santo","Brasil","Cariacica",4.1,0.13636363636363635
+"ObjectId(""5ec5e4315b1a50001967b889"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4425b1a50001967b88a"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e44d5b1a50001967b88b"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e46f5b1a50001967b88c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e47b5b1a50001967b88d"")","-22.0183367","-47.890932","São Paulo","Brasil","São Carlos",6.37,0
+"ObjectId(""5ec5e48f5b1a50001967b88e"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4975b1a50001967b88f"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4a15b1a50001967b890"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4aa5b1a50001967b891"")","-22.9053366","-43.56149551833125","Rio de Janeiro","Brasil","Rio de Janeiro",0.54,0
+"ObjectId(""5ec5e4bd5b1a50001967b892"")","-21.18862445","-47.77474175178561","São Paulo","Brasil","Ribeirão Preto",1.72,0.19318181818181818
+"ObjectId(""5ec5e4d55b1a50001967b893"")","-21.9549806","-49.0232348","São Paulo","Brasil",,24.32,0
+"ObjectId(""5ec5e4dc5b1a50001967b894"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4e45b1a50001967b895"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e4f65b1a50001967b896"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5005b1a50001967b897"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5135b1a50001967b898"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e51a5b1a50001967b899"")","-24.005833","-46.402778","São Paulo","Brasil","Praia Grande",14.03,0
+"ObjectId(""5ec5e5285b1a50001967b89a"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",1.96,0.5
+"ObjectId(""5ec5e5305b1a50001967b89b"")","-5.0896403","-42.809588","Piauí","Brasil","Teresina",0.16,-0.03333333333333333
+"ObjectId(""5ec5e53d5b1a50001967b89c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e54c5b1a50001967b89d"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5655b1a50001967b89f"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",0.11,0.5
+"ObjectId(""5ec5e56b5b1a50001967b8a0"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5735b1a50001967b8a1"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5815b1a50001967b8a2"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.46,0
+"ObjectId(""5ec5e5895b1a50001967b8a3"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e5a75b1a50001967b8a4"")","-10.9162061","-37.0774655","Sergipe","Brasil","Aracaju",0.7,0
+"ObjectId(""5ec5e5ad5b1a50001967b8a5"")","-9.3841161","-37.997756","Alagoas","Brasil","Delmiro Gouveia",0.15,0
+"ObjectId(""5ec5e6125b1a50001967b8a7"")","-29.8425284","-53.7680577","Rio Grande do Sul","Brasil",,0.62,0
+"ObjectId(""5ec5e61b5b1a50001967b8a8"")","-29.7141799","-52.4284533","Rio Grande do Sul","Brasil","Santa Cruz do Sul",0.82,0
+"ObjectId(""5ec5e6405b1a50001967b8a9"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e6455b1a50001967b8aa"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.98,0.25
+"ObjectId(""5ec5e64f5b1a50001967b8ab"")","-23.0063966","-44.316326","Rio de Janeiro","Brasil","Angra dos Reis",15.94,0
+"ObjectId(""5ec5e6565b1a50001967b8ac"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e6765b1a50001967b8ae"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.49,0.3333333333333333
+"ObjectId(""5ec5e6855b1a50001967b8af"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e68f5b1a50001967b8b0"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e6a75b1a50001967b8b1"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.51,0
+"ObjectId(""5ec5e7135b1a50001967b8b2"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7175b1a50001967b8b3"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7235b1a50001967b8b4"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7295b1a50001967b8b5"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7305b1a50001967b8b6"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7435b1a50001967b8b7"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7525b1a50001967b8b8"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7605b1a50001967b8b9"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.8,-0.16287878787878787
+"ObjectId(""5ec5e7615b1a50001967b8ba"")","-29.6864028","-53.80649927837574","Rio Grande do Sul","Brasil","Santa Maria",0.8,-0.16287878787878787
+"ObjectId(""5ec5e7795b1a50001967b8bb"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7825b1a50001967b8bc"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7aa5b1a50001967b8bd"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7d55b1a50001967b8be"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7e05b1a50001967b8bf"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7ec5b1a50001967b8c0"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7f45b1a50001967b8c1"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e7ff5b1a50001967b8c2"")","50.7236489","3.1578231","Hauts-de-France","France",,9.87,-0.125
+"ObjectId(""5ec5e8045b1a50001967b8c3"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",6.31,0
+"ObjectId(""5ec5e81b5b1a50001967b8c5"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e82b5b1a50001967b8c6"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",8.66,-0.6
+"ObjectId(""5ec5e8395b1a50001967b8c7"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e8405b1a50001967b8c8"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e84c5b1a50001967b8c9"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e8535b1a50001967b8ca"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e8725b1a50001967b8cb"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0.5416666666666666
+"ObjectId(""5ec5e8975b1a50001967b8cc"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",0.9,0
+"ObjectId(""5ec5e8a55b1a50001967b8cd"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",3.11,0.1
+"ObjectId(""5ec5e8a65b1a50001967b8ce"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.11,0.1
+"ObjectId(""5ec5e8af5b1a50001967b8cf"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e8b65b1a50001967b8d0"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",781.76,0
+"ObjectId(""5ec5e8cd5b1a50001967b8d1"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e8d85b1a50001967b8d2"")","-20.4790982","-54.5844399","Mato Grosso do Sul","Brasil","Campo Grande",10.54,0.65
+"ObjectId(""5ec5e8e95b1a50001967b8d4"")","-2.9009918","-40.8427389","Ceará","Brasil","Camocim",3.3,0
+"ObjectId(""5ec5e8f35b1a50001967b8d5"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",1.46,0.7
+"ObjectId(""5ec5e9065b1a50001967b8d6"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e90f5b1a50001967b8d7"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e9185b1a50001967b8d8"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e9295b1a50001967b8d9"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e9305b1a50001967b8da"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e93d5b1a50001967b8db"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e94b5b1a50001967b8dc"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5e9e55b1a50001967b8de"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",1.39,-0.4
+"ObjectId(""5ec5e9f75b1a50001967b8e0"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",1.1,0
+"ObjectId(""5ec5ea775b1a50001967b8e4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",473.75,0.13636363636363635
+"ObjectId(""5ec5eaa05b1a50001967b8e5"")","-23.5506507","-46.6333824","São Paulo","Brasil","São Paulo",3.04,0.13636363636363635
+"ObjectId(""5ec5eabe5b1a50001967b8e6"")","-24.28389705","-53.836648927608465","Paraná","Brasil",,1.62,0.13636363636363635
+"ObjectId(""5ec5ead35b1a50001967b8e7"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",62.56,0.13636363636363635
+"ObjectId(""5ec5eae55b1a50001967b8e8"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.73,-0.20476190476190478
+"ObjectId(""5ec5eaf75b1a50001967b8e9"")","-23.5112184","-46.8764612","São Paulo","Brasil","Barueri",2.39,0.9
+"ObjectId(""5ec5eb015b1a50001967b8ea"")","-23.4430602","-46.524459","São Paulo","Brasil","Guarulhos",3.42,0
+"ObjectId(""5ec5eb4f5b1a50001967b8eb"")","-23.501667","-47.458056","São Paulo","Brasil","Sorocaba",0.12,0
+"ObjectId(""5ec5eb8c5b1a50001967b8ed"")","-21.2425512","-44.9991978","Minas Gerais","Brasil","Lavras",1.19,-0.20476190476190478
+"ObjectId(""5ec5ebb65b1a50001967b8ee"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.51,0
+"ObjectId(""5ec5ebfb5b1a50001967b8f0"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",0.58,0.5
+"ObjectId(""5ec5ec315b1a50001967b8f2"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",1.04,0
+"ObjectId(""5ec5ec3c5b1a50001967b8f3"")","-22.2752762","-42.419415","Rio de Janeiro","Brasil",,1.05,0
+"ObjectId(""5ec5ec4a5b1a50001967b8f4"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",4.06,-0.20476190476190478
+"ObjectId(""5ec5ec645b1a50001967b8f5"")","-27.5973002","-48.5496098","Santa Catarina","Brasil","Florianópolis",44.34,0
+"ObjectId(""5ec5ec9c5b1a50001967b8f6"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.15,0.7
+"ObjectId(""5ec5ecaf5b1a50001967b8f7"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.65,1
+"ObjectId(""5ec5ecda5b1a50001967b8f8"")","-23.501667","-47.458056","São Paulo","Brasil","Sorocaba",106.99,0
+"ObjectId(""5ec5ed015b1a50001967b8f9"")","-22.4040394","-43.6633853","Rio de Janeiro","Brasil","Vassouras",0.16,-0.20476190476190478
+"ObjectId(""5ec5ed305b1a50001967b8fa"")","-23.541056","-46.37097","São Paulo","Brasil","Ferraz de Vasconcelos",0.17,0
+"ObjectId(""5ec5ed9b5b1a50001967b8fc"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",36.03,0.25
+"ObjectId(""5ec5edad5b1a50001967b8fd"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",13.3,0.29139610389610393
+"ObjectId(""5ec5ee485b1a50001967b901"")","-23.7590702","-45.7636377","São Paulo","Brasil",,7.36,0
+"ObjectId(""5ec5ee945b1a50001967b903"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",13.3,0.24675324675324675
+"ObjectId(""5ec5eeba5b1a50001967b905"")","-22.9100508","-43.201756","Rio de Janeiro","Brasil","Rio de Janeiro",6911.19,0
+"ObjectId(""5ec5eec85b1a50001967b906"")","-31.7699736","-52.3410161","Rio Grande do Sul","Brasil","Pelotas",19.97,0
+"ObjectId(""5ec5eece5b1a50001967b907"")","-10.1835604","-48.3337793","Tocantins","Brasil","Palmas",22.48,0
+"ObjectId(""5ec5eedd5b1a50001967b908"")","-23.960833","-46.333889","São Paulo","Brasil","Santos",11.59,0
+"ObjectId(""5ec5eef75b1a50001967b909"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.36,0
+"ObjectId(""5ec5ef0d5b1a50001967b90a"")","-9.7236848","-43.9037699","Piauí","Brasil","Morro Cabeça no Tempo",55.3,0
+"ObjectId(""5ec5ef605b1a50001967b90e"")","-9.7236848","-43.9037699","Piauí","Brasil","Morro Cabeça no Tempo",55.3,0
+"ObjectId(""5ec5efda5b1a50001967b910"")","-21.7609533","-43.3501129","Minas Gerais","Brasil","Juiz de Fora",4.57,0
+"ObjectId(""5ec5eff45b1a50001967b911"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",7.27,0
+"ObjectId(""5ec5f0565b1a50001967b913"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,1.9,0
+"ObjectId(""5ec5f05e5b1a50001967b914"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,0.64,0
+"ObjectId(""5ec5f0af5b1a50001967b915"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f0d55b1a50001967b916"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f0f55b1a50001967b917"")","-22.9009004","-43.2798825","Rio de Janeiro","Brasil","Rio de Janeiro",2.89,0
+"ObjectId(""5ec5f1305b1a50001967b918"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1525b1a50001967b919"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1615b1a50001967b91a"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1725b1a50001967b91b"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",0.05,0
+"ObjectId(""5ec5f1795b1a50001967b91c"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1825b1a50001967b91d"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1925b1a50001967b91e"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1a15b1a50001967b91f"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1a65b1a50001967b920"")","-23.001114049999998","-43.3661974534442","Rio de Janeiro","Brasil","Rio de Janeiro",9.85,0
+"ObjectId(""5ec5f1e25b1a50001967b921"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1f65b1a50001967b922"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f1fb5b1a50001967b923"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",19.27,0
+"ObjectId(""5ec5f2055b1a50001967b924"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f21e5b1a50001967b925"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",1.11,0
+"ObjectId(""5ec5f2565b1a50001967b926"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",5.35,1
+"ObjectId(""5ec5f2905b1a50001967b927"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0,0.19318181818181818
+"ObjectId(""5ec5f2c55b1a50001967b929"")","-28.2616138","-52.4089048","Rio Grande do Sul","Brasil","Passo Fundo",3.59,0.15
+"ObjectId(""5ec5f3035b1a50001967b92b"")","-3.0683059","-59.9912973","Amazonas","Brasil","Manaus",1.35,0.13636363636363635
+"ObjectId(""5ec5f3365b1a50001967b92c"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",1.98,0
+"ObjectId(""5ec5f3505b1a50001967b92d"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",3.23,0
+"ObjectId(""5ec5f3755b1a50001967b92e"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.12,0
+"ObjectId(""5ec5f37e5b1a50001967b92f"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.12,-0.03787878787878788
+"ObjectId(""5ec5f3875b1a50001967b930"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.12,0
+"ObjectId(""5ec5f3975b1a50001967b931"")","-5.805398","-35.2080905","Rio Grande do Norte","Brasil","Natal",8.39,0
+"ObjectId(""5ec5f3a35b1a50001967b932"")","-22.3218102","-49.0705863","São Paulo","Brasil","Bauru",0.83,0
+"ObjectId(""5ec5f3b95b1a50001967b933"")","-22.9009004","-43.2798825","Rio de Janeiro","Brasil","Rio de Janeiro",2.89,-0.25745738636363635
+"ObjectId(""5ec5f4985b1a50001967b936"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",19.51,0.25
+"ObjectId(""5ec5f4ce5b1a50001967b937"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",4.76,0
+"ObjectId(""5ec5f4eb5b1a50001967b938"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",750.07,-0.25745738636363635
+"ObjectId(""5ec5f51b5b1a50001967b939"")","-23.5324859","-46.7916801","São Paulo","Brasil","Osasco",750.07,-0.25745738636363635
+"ObjectId(""5ec5f5285b1a50001967b93a"")","-12.2578934","-38.9598047","Bahia","Brasil","Feira de Santana",36.6,0
+"ObjectId(""5ec5f5585b1a50001967b93d"")","-20.4640173","-54.6162947","Mato Grosso do Sul","Brasil","Campo Grande",0.01,0.005681818181818177
+"ObjectId(""5ec5f57a5b1a50001967b93e"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",8.66,0.19318181818181818
+"ObjectId(""5ec5f5c25b1a50001967b940"")","-22.9100508","-43.201756","Rio de Janeiro","Brasil","Rio de Janeiro",6911.27,0
+"ObjectId(""5ec5f5c85b1a50001967b941"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",32.87,0
+"ObjectId(""5ec5f6045b1a50001967b942"")","-26.87244515","-49.14188376082182","Santa Catarina","Brasil","Blumenau",50.97,0
+"ObjectId(""5ec5f6105b1a50001967b943"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",1.91,0.03333333333333333
+"ObjectId(""5ec5f6845b1a50001967b945"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2.83,0
+"ObjectId(""5ec5f6f25b1a50001967b946"")","-25.4443488","-49.1900307","Paraná","Brasil","Pinhais",18.41,0
+"ObjectId(""5ec5f7085b1a50001967b947"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",2371.27,0
+"ObjectId(""5ec5f73b5b1a50001967b948"")","-19.9227318","-43.9450948","Minas Gerais","Brasil","Belo Horizonte",6.86,0
+"ObjectId(""5ec5f74a5b1a50001967b949"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.16,0
+"ObjectId(""5ec5f75d5b1a50001967b94a"")","-26.3044898","-48.8486726","Santa Catarina","Brasil","Joinville",0.74,0
+"ObjectId(""5ec5f8555b1a50001967b94b"")","-8.0641931","-34.8781517","Pernambuco","Brasil","Recife",0.17,-0.6
+"ObjectId(""5ec5f8745b1a50001967b94d"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",16.94,-1
+"ObjectId(""5ec5f87a5b1a50001967b94e"")","-14.9574309","-40.9275914","Bahia","Brasil","Vitória da Conquista",0.8,-0.20476190476190478
+"ObjectId(""5ec5f8875b1a50001967b94f"")","-10.7299404","-37.188505750000004","Sergipe","Brasil",,4.48,0.5
+"ObjectId(""5ec5f8ab5b1a50001967b950"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",1.94,0
+"ObjectId(""5ec5fa365b1a50001967b956"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.69,0
+"ObjectId(""5ec5fa425b1a50001967b957"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",1.32,0
+"ObjectId(""5ec5fa645b1a50001967b958"")","-22.9110137","-43.2093727","Rio de Janeiro","Brasil","Rio de Janeiro",0.65,0
+"ObjectId(""5ec5fa6f5b1a50001967b959"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",6.21,0
+"ObjectId(""5ec5fa805b1a50001967b95a"")","-19.3816944","-40.0612213","Espírito Santo","Brasil","Linhares",2.14,0
+"ObjectId(""5ec5fa855b1a50001967b95b"")","8.9917947","38.7793214","አዲስ አበባ / Addis Ababa","Ethiopia","Addis Ababa / አዲስ አበባ",5.53,-0.1
+"ObjectId(""5ec5fa915b1a50001967b95c"")","-22.8519758","-43.2555693","Rio de Janeiro","Brasil","Rio de Janeiro",25.03,0
+"ObjectId(""5ec5fac05b1a50001967b95d"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",5.42,0
+"ObjectId(""5ec5facc5b1a50001967b95e"")","-26.9195567","-49.0658025","Santa Catarina","Brasil","Blumenau",5.6,0
+"ObjectId(""5ec5fae85b1a50001967b95f"")","-8.4116316","-37.5919699","Pernambuco","Brasil",,147.11,0.875
+"ObjectId(""5ec5fb175b1a50001967b960"")","6.2443382","-75.573553","Antioquia","Colombia","Medellín",2.51,0
+"ObjectId(""5ec5fb575b1a50001967b962"")","-3.7304512","-38.5217989","Ceará","Brasil","Fortaleza",6.8,0
+"ObjectId(""5ec5fb6e5b1a50001967b963"")","-25.4295963","-49.2712724","Paraná","Brasil","Curitiba",6.09,-0.16666666666666666
+"ObjectId(""5ec5fbce5b1a50001967b964"")","-12.9822499","-38.4812772","Bahia","Brasil","Salvador",0.05,0
+"ObjectId(""5ec5fbfe5b1a50001967b965"")","-3.1316333","-59.9825041","Amazonas","Brasil","Manaus",2.56,0.36363636363636365
+"ObjectId(""5ec5fcea5b1a50001967b967"")","-22.50958","-47.775468","São Paulo","Brasil","Charqueada",5.67,0
+"ObjectId(""5ec5fcf85b1a50001967b968"")","-3.6879135","-40.3456372","Ceará","Brasil","Sobral",98.55,0
+"ObjectId(""5ec5fd0e5b1a50001967b969"")","-21.9549806","-49.0232348","São Paulo","Brasil",,1.09,0.5
+"ObjectId(""5ec5fd425b1a50001967b96b"")","-27.0964628","-48.9136323","Santa Catarina","Brasil","Brusque",0.99,0.85
+"ObjectId(""5ec5fd605b1a50001967b96c"")","-5.1003386","-42.8119725","Piauí","Brasil","Teresina",9.5,0
+"ObjectId(""5ec5fd755b1a50001967b96d"")","-23.0070825","-43.3146881","Rio de Janeiro","Brasil","Rio de Janeiro",2.68,0
+"ObjectId(""5ec5fdc55b1a50001967b96e"")","-30.0324999","-51.2303767","Rio Grande do Sul","Brasil","Porto Alegre",0.94,0.13636363636363635
